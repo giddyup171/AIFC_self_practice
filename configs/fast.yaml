@@ -1,0 +1,19 @@
+# Fast profile: same pipeline on a sample with a small search, to check everything runs (~20 s).
+# Do not report results from this profile.
+extends: config.yaml
+
+data:
+  sample_rows: 4000
+
+models:
+  linear_regression: {n_iter: 2}
+  random_forest: {n_iter: 2, search_space: {n_estimators: {dist: randint, low: 30, high: 60}}}
+  gradient_boosting: {n_iter: 2, search_space: {max_iter: {dist: randint, low: 50, high: 120}}}
+
+evaluation:
+  bootstrap_samples: 100
+  importance_sample: 1000
+  importance_repeats: 2
+
+artifacts:
+  report_dir: null    # never overwrite the committed report with a fast-profile run

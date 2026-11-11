@@ -1,0 +1,18 @@
+2026-11-11 21:43:56,005 | INFO    | src.train | Run final | config configs/config.yaml | output artifacts/final
+2026-11-11 21:43:56,033 | INFO    | src.data | Loaded 15,900 rows x 18 columns from data/student_scores.csv
+2026-11-11 21:43:56,062 | INFO    | src.data | Data quality: duplicate_student_records (merged)         900
+2026-11-11 21:43:56,062 | INFO    | src.data | Data quality: final_test_missing (rows dropped)          495
+2026-11-11 21:43:56,062 | INFO    | src.data | Data quality: CCA_missing (means no CCA)                 3,829
+2026-11-11 21:43:56,062 | INFO    | src.data | Data quality: CCA_inconsistent_case                      509
+2026-11-11 21:43:56,062 | INFO    | src.data | Data quality: tuition_abbreviated (Y/N)                  588
+2026-11-11 21:43:56,062 | INFO    | src.data | Data quality: age_out_of_range                           451
+2026-11-11 21:43:56,062 | INFO    | src.data | Data quality: attendance_rate_missing                    778
+2026-11-11 21:43:56,173 | INFO    | src.train | Split: train 11,647 / test 2,912 | weak students (< 50) 12.0%
+2026-11-11 21:43:58,432 | INFO    | src.models | Tuned linear_regression   10 trials in     2s | inner CV RMSE 8.355 | {'alpha': 0.07459, 'splines': '10 knots'}
+2026-11-11 21:44:52,918 | INFO    | src.models | Tuned random_forest       10 trials in    54s | inner CV RMSE 5.481 | {'max_depth': 10, 'max_features': 0.6024, 'min_samples_leaf': 1, 'n_estimators': 258}
+2026-11-11 21:45:24,883 | INFO    | src.models | Tuned gradient_boosting   15 trials in    32s | inner CV RMSE 5.601 | {'l2_regularization': 0.004809, 'learning_rate': 0.02385, 'max_iter': 587, 'max_leaf_nodes': 32, 'min_samples_leaf': 69}
+2026-11-11 21:45:25,427 | INFO    | src.evaluation | CV linear_regression  RMSE 8.336
+2026-11-11 21:45:33,317 | INFO    | src.evaluation | CV random_forest      RMSE 5.429
+2026-11-11 21:45:40,197 | INFO    | src.evaluation | CV gradient_boosting  RMSE 5.519
+2026-11-11 21:45:41,670 | INFO    | src.evaluation | Selected random_forest: lowest CV RMSE
+2026-11-11 21:45:55,961 | INFO    | src.artifacts | Run final marked as latest

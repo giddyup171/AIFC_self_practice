@@ -1,0 +1,35 @@
+{
+  "raw_validation": {
+    "rows": 15900,
+    "ok": true,
+    "errors": [],
+    "warnings": {
+      "duplicate_student_records (merged)": 900,
+      "final_test_missing (rows dropped)": 495,
+      "CCA_missing (means no CCA)": 3829,
+      "CCA_inconsistent_case": 509,
+      "tuition_abbreviated (Y/N)": 588,
+      "age_out_of_range": 451,
+      "attendance_rate_missing": 778
+    }
+  },
+  "cleaning": {
+    "rows_in": 15900,
+    "duplicate_records_merged": 900,
+    "conflicting_values": {},
+    "dropped_missing_target": 441,
+    "CCA_missing_set_to_None": 3499,
+    "CCA_recased": 471,
+    "tuition_expanded": 532,
+    "age_typo_fixed (+10)": 415,
+    "age_invalid_set_missing": 5,
+    "rows_out": 14559
+  },
+  "data_sha256": "73abc9ff0633f3cbf3cc5555388723feaa25330bf549619b48990fc7aa4ee823",
+  "split": {
+    "train_rows": 11647,
+    "test_rows": 2912,
+    "train_weak_share": 0.11968747316905641,
+    "test_weak_share": 0.11950549450549451
+  }
+}

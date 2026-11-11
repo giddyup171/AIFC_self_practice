@@ -1,0 +1,1594 @@
+index,number_of_siblings,direct_admission,CCA,learning_style,student_id,gender,tuition,final_test,n_male,n_female,age,hours_per_week,attendance_rate,sleep_time,wake_time,mode_of_transport,bag_color
+4,0,No,Sports,Auditory,AXZN2E,Male,No,66.0,24.0,3.0,16.0,7.0,95.0,21:30,5:30,public transport,yellow
+36,2,No,Arts,Auditory,GJITFO,Female,Yes,58.0,17.0,1.0,15.0,9.0,92.0,22:00,6:00,private transport,white
+40,1,No,Arts,Visual,2HD89P,Male,Yes,71.0,10.0,15.0,15.0,15.0,91.0,22:30,5:30,public transport,yellow
+51,1,Yes,Clubs,Visual,6RUZRP,Male,Yes,,14.0,7.0,15.0,9.0,90.0,23:00,7:00,walk,white
+70,1,Yes,Clubs,Auditory,QI04T7,Female,No,56.0,15.0,10.0,16.0,7.0,91.0,21:00,5:00,public transport,yellow
+73,1,No,Clubs,Visual,V8PSZ4,Male,No,53.0,30.0,0.0,16.0,7.0,96.0,21:00,5:00,public transport,green
+78,2,No,Arts,Auditory,XFTK88,Female,Yes,76.0,20.0,1.0,15.0,8.0,92.0,22:00,6:00,private transport,white
+81,0,No,Clubs,Auditory,ANUEDH,Male,No,57.0,24.0,3.0,5.0,6.0,96.0,22:00,6:00,private transport,white
+85,0,No,Arts,Auditory,B6U6DY,Female,Yes,94.0,18.0,3.0,16.0,8.0,,23:00,7:00,walk,yellow
+87,0,Yes,,Visual,MB9F8E,Male,No,82.0,15.0,2.0,15.0,9.0,93.0,23:00,7:00,walk,blue
+91,2,No,Arts,Auditory,EK2Z2C,Male,Yes,71.0,19.0,0.0,16.0,8.0,92.0,22:00,6:00,private transport,green
+94,0,No,,Auditory,WQCJ0U,Male,Yes,87.0,19.0,3.0,16.0,7.0,96.0,21:30,5:30,public transport,green
+114,0,Yes,Clubs,Auditory,2QYBOU,Female,No,72.0,17.0,2.0,6.0,10.0,97.0,21:30,5:30,public transport,black
+116,0,No,Sports,Auditory,ES1RUS,Female,No,69.0,3.0,18.0,15.0,18.0,99.0,21:00,5:00,public transport,yellow
+118,0,No,,Visual,UD6QES,Male,Yes,84.0,14.0,9.0,15.0,9.0,98.0,22:30,6:30,private transport,black
+129,0,No,Sports,Visual,6F1PTH,Male,Yes,96.0,12.0,11.0,15.0,8.0,98.0,22:00,6:00,private transport,yellow
+147,1,No,Clubs,Visual,BASY1M,Male,No,53.0,15.0,11.0,15.0,18.0,100.0,22:00,6:00,private transport,red
+170,0,Yes,,Visual,3JIYVD,Female,No,81.0,3.0,15.0,15.0,7.0,90.0,23:00,6:00,private transport,yellow
+175,1,No,Sports,Auditory,2BFCOD,Male,No,62.0,27.0,0.0,16.0,13.0,99.0,22:00,6:00,private transport,black
+193,2,No,Clubs,Auditory,SATF1G,Male,Yes,55.0,10.0,8.0,15.0,17.0,93.0,22:00,6:00,private transport,yellow
+199,1,No,Clubs,Visual,25PAWM,Female,N,58.0,13.0,13.0,16.0,10.0,96.0,23:00,7:00,walk,black
+201,1,No,Sports,Auditory,1R0VBB,Female,Yes,67.0,12.0,16.0,15.0,8.0,99.0,21:30,5:30,public transport,red
+204,0,No,Sports,Visual,JTXRFZ,Female,Yes,68.0,21.0,1.0,16.0,12.0,94.0,21:00,5:00,public transport,white
+210,1,Yes,Clubs,Visual,CSSY3Z,Female,No,52.0,8.0,19.0,16.0,5.0,92.0,22:00,6:00,private transport,yellow
+219,1,Yes,Arts,Visual,TUB8PY,Female,No,57.0,14.0,13.0,16.0,19.0,100.0,21:30,5:30,public transport,red
+238,0,No,Clubs,Auditory,HG9XOO,Female,No,76.0,6.0,15.0,15.0,9.0,92.0,23:00,7:00,walk,white
+244,1,No,Arts,Auditory,A3S9XD,Female,Yes,57.0,15.0,12.0,16.0,18.0,99.0,22:00,6:00,private transport,white
+257,2,Yes,Arts,Visual,K64994,Female,No,44.0,21.0,3.0,16.0,6.0,43.0,1:30,5:30,public transport,yellow
+287,0,No,Arts,Auditory,0WO2AI,Male,Yes,62.0,12.0,9.0,15.0,15.0,99.0,22:00,6:00,private transport,blue
+304,1,No,Sports,Auditory,AXKEPJ,Male,Yes,53.0,18.0,12.0,15.0,19.0,95.0,22:30,6:30,private transport,red
+316,0,Yes,Arts,Visual,696M60,Female,No,84.0,16.0,1.0,16.0,6.0,94.0,21:30,5:30,public transport,red
+347,0,No,Sports,Visual,9CAF6U,Male,Yes,77.0,11.0,13.0,15.0,8.0,93.0,22:00,6:00,private transport,green
+349,0,Yes,Clubs,Visual,OC0X4F,Female,Yes,70.0,12.0,4.0,15.0,17.0,98.0,22:00,6:00,private transport,yellow
+358,0,Yes,Sports,Auditory,V93WDI,Male,Yes,77.0,14.0,6.0,16.0,7.0,90.0,21:00,5:00,public transport,black
+381,1,Yes,Arts,Visual,6H16A3,Female,Yes,57.0,14.0,13.0,15.0,16.0,92.0,22:30,6:30,private transport,green
+382,2,No,Clubs,Auditory,AB6FEW,Male,No,77.0,20.0,1.0,15.0,6.0,100.0,23:00,7:00,walk,white
+390,1,Yes,Arts,Auditory,NQDGQP,Female,Yes,75.0,16.0,5.0,15.0,9.0,100.0,21:00,5:00,public transport,yellow
+396,1,No,Sports,Auditory,NI0160,Male,Yes,34.0,12.0,16.0,16.0,9.0,90.0,23:00,6:00,private transport,white
+420,0,Yes,Clubs,Visual,QAFIW1,Male,No,74.0,18.0,0.0,15.0,18.0,92.0,22:30,6:30,private transport,yellow
+422,0,No,Clubs,Visual,3GW8WY,Female,Yes,57.0,12.0,8.0,15.0,9.0,96.0,22:00,6:00,private transport,yellow
+469,0,No,,Auditory,BVU5EA,Female,No,62.0,23.0,4.0,16.0,15.0,92.0,22:00,6:00,private transport,red
+492,1,Yes,Clubs,Visual,ZJT921,Male,No,55.0,12.0,15.0,15.0,19.0,96.0,23:00,7:00,walk,red
+528,0,No,,Visual,CWC29G,Female,No,63.0,20.0,7.0,16.0,18.0,99.0,22:00,6:00,private transport,red
+548,1,Yes,Arts,Auditory,5CIO8G,Male,No,78.0,20.0,1.0,5.0,7.0,91.0,21:30,5:30,public transport,green
+570,1,Yes,,Auditory,V9QJAO,Female,Yes,83.0,8.0,9.0,15.0,7.0,93.0,22:30,6:30,private transport,green
+584,0,No,Sports,Auditory,924EDI,Male,No,65.0,18.0,3.0,16.0,7.0,95.0,21:00,5:00,public transport,yellow
+587,0,No,,Auditory,8J3LLV,Male,Yes,69.0,10.0,12.0,15.0,9.0,98.0,21:30,5:30,public transport,white
+596,0,No,SPORTS,Auditory,HFEKXO,Female,No,70.0,17.0,3.0,6.0,20.0,99.0,22:30,6:30,private transport,white
+604,1,No,Arts,Auditory,FSKMX5,Male,No,48.0,12.0,18.0,16.0,1.0,92.0,21:00,5:00,public transport,yellow
+610,1,Yes,Clubs,Auditory,MZ9UKG,Male,Yes,73.0,12.0,8.0,15.0,19.0,98.0,22:30,6:30,private transport,blue
+616,1,No,Arts,Auditory,P314RA,Male,Yes,49.0,24.0,0.0,15.0,11.0,,22:00,6:00,private transport,yellow
+619,1,No,Arts,Auditory,XHGAAA,Male,Yes,62.0,23.0,5.0,15.0,15.0,98.0,21:30,5:30,public transport,white
+633,0,No,Sports,Auditory,XHLVU2,Female,Yes,76.0,17.0,6.0,15.0,7.0,93.0,22:00,6:00,private transport,green
+639,1,No,Clubs,Visual,7K8NYX,Female,No,60.0,2.0,24.0,15.0,15.0,93.0,22:00,6:00,private transport,blue
+647,0,Yes,NONE,Visual,VTH6BH,Female,No,91.0,1.0,19.0,15.0,7.0,100.0,22:00,6:00,private transport,blue
+669,1,No,,Visual,CF5PKY,Female,Yes,58.0,0.0,26.0,16.0,15.0,94.0,22:30,6:30,private transport,yellow
+686,0,No,Sports,Visual,8NYNYX,Male,No,78.0,21.0,3.0,15.0,9.0,96.0,21:30,5:30,public transport,white
+687,0,Yes,,Auditory,2NDS80,Male,Yes,79.0,15.0,0.0,16.0,5.0,100.0,23:00,7:00,walk,blue
+696,0,No,Clubs,Visual,I31VZU,Female,Yes,67.0,16.0,4.0,16.0,18.0,94.0,22:30,5:30,public transport,white
+702,1,Yes,Clubs,Auditory,6FAON7,Male,Yes,50.0,24.0,1.0,15.0,8.0,88.0,21:00,5:00,public transport,red
+729,1,Yes,,Auditory,0N6SFC,Male,Yes,76.0,21.0,0.0,15.0,18.0,97.0,22:00,6:00,private transport,white
+746,0,No,Clubs,Visual,QXGI4D,Male,No,77.0,10.0,14.0,16.0,6.0,98.0,23:00,7:00,walk,yellow
+750,0,No,Clubs,Auditory,ROR2EN,Male,No,74.0,14.0,6.0,15.0,19.0,90.0,21:30,5:30,public transport,green
+778,1,No,Arts,Visual,R1Q036,Male,No,59.0,12.0,15.0,16.0,16.0,98.0,22:00,6:00,private transport,green
+782,0,No,Arts,Visual,MUN34I,Male,No,72.0,25.0,3.0,16.0,13.0,91.0,21:00,5:00,public transport,black
+784,0,Yes,,Visual,5ZTBZO,Female,Yes,81.0,15.0,2.0,16.0,10.0,92.0,23:00,7:00,walk,green
+800,0,Yes,,Auditory,WV77TR,Female,Yes,,1.0,18.0,16.0,6.0,97.0,22:30,6:30,private transport,green
+827,0,No,,Visual,ZAQGA8,Female,Yes,90.0,14.0,9.0,15.0,5.0,95.0,23:00,7:00,walk,blue
+848,1,Yes,Sports,Visual,O5MJ5G,Male,No,44.0,29.0,1.0,16.0,1.0,66.0,0:30,6:30,private transport,yellow
+882,1,No,Arts,Auditory,FTUKDJ,Female,Yes,60.0,9.0,15.0,16.0,20.0,94.0,0:00,7:00,walk,yellow
+908,0,No,,Visual,0BPFKB,Female,No,83.0,6.0,18.0,16.0,9.0,91.0,21:00,5:00,public transport,red
+911,1,No,Sports,Visual,X8VN9G,Male,Yes,59.0,12.0,14.0,16.0,7.0,95.0,22:30,6:30,private transport,yellow
+912,2,No,,Visual,U460DU,Male,Yes,74.0,17.0,0.0,16.0,11.0,92.0,23:00,7:00,walk,white
+916,2,No,Clubs,Auditory,6240JF,Female,No,62.0,6.0,14.0,15.0,12.0,94.0,21:00,5:00,public transport,green
+922,0,No,ARTS,Auditory,GUXRAV,Female,No,88.0,0.0,22.0,16.0,6.0,92.0,21:00,5:00,public transport,blue
+924,1,No,Clubs,Auditory,BN28OX,Male,Yes,57.0,14.0,14.0,16.0,16.0,99.0,22:30,6:30,private transport,red
+926,0,Yes,,Visual,H0A90Q,Male,No,89.0,12.0,4.0,16.0,6.0,,22:30,6:30,private transport,green
+934,1,No,Clubs,Visual,C11YHK,Female,No,52.0,7.0,23.0,15.0,17.0,97.0,21:30,5:30,public transport,white
+946,1,Yes,,Auditory,17RQXS,Female,Y,85.0,19.0,3.0,15.0,7.0,98.0,22:00,6:00,private transport,blue
+956,0,No,Clubs,Auditory,BYH7BM,Male,Yes,74.0,16.0,5.0,15.0,7.0,,23:00,7:00,walk,black
+957,1,Yes,Sports,Auditory,ZFWWRE,Female,Yes,75.0,5.0,16.0,15.0,6.0,95.0,22:00,6:00,private transport,yellow
+969,2,No,Sports,Auditory,I97ZR9,Male,No,54.0,14.0,6.0,15.0,6.0,96.0,21:00,5:00,public transport,black
+978,1,Yes,Sports,Visual,O5MJ5G,Male,No,44.0,29.0,1.0,16.0,1.0,66.0,0:30,6:30,private transport,blue
+981,1,No,Sports,Visual,X2XGHV,Male,Yes,54.0,17.0,7.0,15.0,13.0,91.0,22:30,6:30,private transport,yellow
+986,2,No,,Auditory,W4J5GY,Male,Yes,66.0,19.0,0.0,15.0,6.0,97.0,21:30,5:30,public transport,yellow
+988,2,No,SPORTS,Visual,OST3KW,Male,No,66.0,19.0,4.0,16.0,14.0,94.0,22:30,6:30,private transport,yellow
+995,0,Yes,,Visual,8A4IBF,Female,No,69.0,11.0,5.0,16.0,9.0,,21:30,5:30,public transport,black
+1012,0,Yes,Arts,Visual,A41HBL,Female,Yes,88.0,1.0,16.0,16.0,9.0,91.0,21:00,5:00,public transport,blue
+1034,0,Yes,Arts,Auditory,WVXPFI,Female,Yes,69.0,12.0,4.0,15.0,17.0,,22:30,6:30,private transport,green
+1040,0,No,Clubs,Auditory,O1SNPS,Female,Yes,55.0,4.0,18.0,16.0,14.0,93.0,21:00,5:00,public transport,yellow
+1046,1,No,Clubs,Auditory,MYUUZI,Male,No,53.0,16.0,14.0,16.0,5.0,98.0,22:30,6:30,private transport,yellow
+1049,2,No,Clubs,Visual,T0V8KR,Female,Yes,80.0,11.0,6.0,16.0,9.0,95.0,22:00,6:00,private transport,white
+1066,2,No,Sports,Auditory,D4KBX7,Male,Yes,56.0,11.0,7.0,16.0,15.0,94.0,22:30,6:30,private transport,green
+1067,0,No,Sports,Auditory,AHS6SZ,Female,Yes,92.0,3.0,22.0,16.0,8.0,100.0,23:00,7:00,walk,red
+1069,2,No,Arts,Auditory,DD7RKE,Male,Yes,66.0,14.0,9.0,15.0,18.0,96.0,23:00,7:00,walk,red
+1073,2,No,Arts,Auditory,BEU7DK,Female,Yes,58.0,10.0,8.0,16.0,7.0,95.0,22:30,6:30,private transport,red
+1075,1,No,Sports,Visual,Q68ZPQ,Male,No,66.0,16.0,6.0,15.0,11.0,91.0,21:30,5:30,public transport,white
+1083,0,No,,Auditory,5VSI46,Male,Yes,69.0,13.0,8.0,15.0,16.0,90.0,21:30,5:30,public transport,white
+1090,0,Yes,Clubs,Auditory,2QYBOU,Female,No,72.0,17.0,2.0,6.0,10.0,97.0,21:30,5:30,public transport,blue
+1118,1,Yes,Sports,Auditory,X1E1WR,Male,No,41.0,28.0,0.0,15.0,14.0,74.0,1:00,7:00,walk,white
+1153,0,No,,Auditory,8X8SOH,Male,No,66.0,10.0,12.0,15.0,7.0,96.0,23:00,7:00,walk,red
+1157,0,No,Clubs,Auditory,W8V901,Female,No,65.0,7.0,20.0,15.0,19.0,99.0,21:30,5:30,public transport,blue
+1158,1,No,,Visual,SG1489,Female,No,56.0,3.0,23.0,16.0,14.0,91.0,21:00,5:00,public transport,white
+1166,1,Yes,Clubs,Auditory,UF2SN0,Male,Yes,72.0,17.0,4.0,15.0,8.0,96.0,21:30,5:30,public transport,black
+1169,0,No,Clubs,Auditory,4Z0RWV,Female,No,54.0,0.0,21.0,16.0,6.0,99.0,22:00,6:00,private transport,yellow
+1172,1,Yes,Arts,Auditory,ITCBQS,Male,No,44.0,25.0,0.0,15.0,6.0,77.0,22:30,5:30,public transport,red
+1187,2,No,Clubs,Auditory,2AVXSD,Female,Yes,51.0,11.0,7.0,15.0,16.0,96.0,21:00,5:00,public transport,black
+1194,1,Yes,Clubs,Auditory,SP5WI1,Male,Yes,76.0,10.0,7.0,16.0,17.0,96.0,21:30,5:30,public transport,white
+1199,2,No,Sports,Auditory,UWD03P,Female,Yes,56.0,17.0,3.0,16.0,8.0,95.0,21:00,5:00,public transport,white
+1201,0,No,Arts,Auditory,1MMVVD,Male,No,62.0,20.0,7.0,15.0,15.0,96.0,21:00,5:00,public transport,yellow
+1207,1,Yes,Sports,Auditory,VLON2F,Male,No,49.0,24.0,1.0,15.0,10.0,99.0,22:30,6:30,private transport,green
+1223,0,No,,Auditory,PCGIIO,Male,N,65.0,17.0,10.0,15.0,10.0,92.0,22:00,6:00,private transport,green
+1235,2,Yes,Arts,Visual,DQE7FW,Female,No,78.0,13.0,1.0,15.0,8.0,93.0,22:00,6:00,private transport,green
+1240,1,Yes,Sports,Auditory,RNYQ45,Female,Yes,,5.0,15.0,15.0,15.0,95.0,21:30,5:30,public transport,yellow
+1243,0,No,Sports,Auditory,FS2ZLK,Female,No,69.0,11.0,11.0,15.0,9.0,96.0,23:00,7:00,walk,green
+1247,1,Yes,Sports,Auditory,6EGXBQ,Male,Yes,45.0,15.0,9.0,15.0,7.0,60.0,0:30,5:30,public transport,red
+1250,0,Yes,Clubs,Visual,3W31SE,Male,Yes,89.0,12.0,4.0,15.0,6.0,97.0,22:00,6:00,private transport,yellow
+1273,0,No,Clubs,Auditory,72LLYB,Male,No,61.0,21.0,0.0,15.0,20.0,96.0,22:30,6:30,private transport,green
+1283,0,No,Clubs,Visual,0U7EMF,Male,Yes,77.0,14.0,10.0,15.0,6.0,95.0,22:30,6:30,private transport,blue
+1293,1,Yes,,Auditory,H2HVCM,Male,No,85.0,16.0,6.0,15.0,5.0,97.0,22:30,6:30,private transport,black
+1295,2,No,,Visual,PCIGW1,Female,Yes,79.0,18.0,1.0,15.0,10.0,94.0,21:30,5:30,public transport,yellow
+1302,1,Yes,Arts,Auditory,KDMRF5,Male,Yes,74.0,17.0,4.0,15.0,14.0,94.0,21:30,5:30,public transport,red
+1316,0,No,Clubs,Auditory,G0EJPK,Female,Yes,67.0,13.0,14.0,15.0,18.0,93.0,22:30,6:30,private transport,white
+1362,0,No,Clubs,Visual,6ILTEX,Female,Yes,67.0,19.0,1.0,15.0,8.0,92.0,23:00,7:00,walk,yellow
+1364,1,No,Arts,Auditory,JBQYHY,Female,Y,70.0,26.0,2.0,5.0,8.0,92.0,22:00,6:00,private transport,yellow
+1365,0,Yes,,Auditory,PHPOJN,Male,Y,91.0,21.0,0.0,15.0,7.0,97.0,22:00,6:00,private transport,white
+1366,1,Yes,Clubs,Auditory,QZQFL0,Male,No,79.0,11.0,6.0,16.0,9.0,94.0,22:00,6:00,private transport,red
+1370,2,No,Sports,Auditory,41P7KL,Male,N,54.0,16.0,6.0,16.0,5.0,98.0,21:30,5:30,public transport,white
+1374,2,No,Sports,Auditory,DWZULA,Male,Yes,62.0,17.0,3.0,15.0,9.0,91.0,22:30,6:30,private transport,black
+1423,1,No,Arts,Auditory,XFQT7R,Female,Yes,51.0,1.0,29.0,15.0,11.0,,21:30,5:30,public transport,white
+1480,0,No,,Visual,YQNG1M,Female,Yes,86.0,16.0,7.0,16.0,10.0,97.0,21:00,5:00,public transport,yellow
+1521,1,Yes,Arts,Visual,Z8Y61R,Female,Yes,82.0,14.0,3.0,16.0,8.0,,21:00,5:00,public transport,black
+1532,1,No,Sports,Auditory,1R0VBB,Female,Yes,67.0,12.0,16.0,15.0,8.0,99.0,21:30,5:30,public transport,red
+1553,1,Yes,Sports,Auditory,W43YQW,Male,No,48.0,14.0,11.0,15.0,10.0,93.0,22:30,6:30,private transport,white
+1556,0,No,Arts,Auditory,8VK28K,Male,Y,91.0,18.0,7.0,16.0,7.0,95.0,23:00,7:00,walk,blue
+1574,2,No,Clubs,Auditory,69VRLB,Male,Yes,,22.0,0.0,15.0,10.0,99.0,23:00,7:00,walk,yellow
+1580,1,No,Arts,Visual,Z9YY3M,Female,No,52.0,25.0,5.0,15.0,18.0,98.0,22:00,6:00,private transport,green
+1588,2,Yes,Arts,Visual,A2KEXR,Male,Yes,86.0,10.0,8.0,16.0,7.0,92.0,22:30,6:30,private transport,yellow
+1602,0,Yes,,Visual,YV2P3X,Male,Yes,87.0,17.0,3.0,16.0,7.0,94.0,23:00,7:00,walk,blue
+1611,0,No,Sports,Auditory,TI7L17,Male,Yes,69.0,15.0,6.0,15.0,13.0,98.0,22:30,6:30,private transport,green
+1612,1,Yes,Arts,Auditory,J4YS0A,Female,No,32.0,24.0,4.0,15.0,4.0,97.0,23:00,7:00,walk,green
+1628,1,Yes,,Auditory,D6X6JF,Male,Yes,87.0,16.0,1.0,15.0,7.0,95.0,21:30,5:30,public transport,blue
+1634,1,No,Sports,Auditory,O3DI3Q,Female,No,51.0,1.0,29.0,15.0,8.0,92.0,21:00,5:00,public transport,red
+1651,1,No,,Auditory,YUE8J4,Female,No,68.0,11.0,17.0,16.0,8.0,94.0,23:00,7:00,walk,white
+1653,1,Yes,Clubs,Visual,IMAR2S,Female,No,49.0,6.0,24.0,16.0,4.0,98.0,22:00,6:00,private transport,red
+1661,1,Yes,Arts,Auditory,7INCDH,Female,Yes,81.0,16.0,1.0,16.0,6.0,99.0,21:00,5:00,public transport,black
+1677,0,No,Sports,Auditory,M175MA,Female,No,76.0,0.0,27.0,16.0,10.0,91.0,23:00,7:00,walk,green
+1682,0,No,Arts,Visual,QSLQ64,Male,Yes,66.0,11.0,9.0,16.0,13.0,96.0,21:00,5:00,public transport,yellow
+1683,2,No,Clubs,Auditory,AWCHQN,Male,Yes,55.0,15.0,7.0,15.0,9.0,98.0,22:30,6:30,private transport,red
+1688,0,No,,Visual,P0E5MC,Female,No,94.0,21.0,2.0,16.0,8.0,99.0,22:30,6:30,private transport,yellow
+1694,0,No,,Auditory,TNBB78,Female,Yes,,23.0,2.0,15.0,7.0,92.0,21:30,5:30,public transport,green
+1704,0,No,Arts,Auditory,VHXNKV,Female,Yes,97.0,11.0,14.0,15.0,9.0,93.0,22:30,6:30,private transport,white
+1710,0,No,,Auditory,EI7EQ6,Male,No,,13.0,9.0,16.0,5.0,97.0,22:00,6:00,private transport,red
+1711,1,No,Sports,Visual,3XDH0N,Male,No,45.0,13.0,17.0,16.0,2.0,52.0,2:30,6:30,private transport,blue
+1715,2,No,Sports,Auditory,S1RZ1O,Male,Yes,68.0,19.0,4.0,15.0,12.0,98.0,21:30,5:30,public transport,green
+1722,0,No,Arts,Auditory,ERFAAI,Female,N,64.0,22.0,5.0,16.0,12.0,95.0,21:30,5:30,public transport,yellow
+1728,1,No,,Auditory,D115YF,Male,Yes,63.0,17.0,11.0,15.0,17.0,99.0,21:00,5:00,public transport,white
+1740,1,No,Clubs,Auditory,2WLZGQ,Male,Yes,50.0,27.0,3.0,16.0,9.0,57.0,2:00,7:00,walk,black
+1755,1,No,Sports,Auditory,LL73I2,Female,No,61.0,9.0,18.0,15.0,6.0,95.0,21:00,5:00,public transport,blue
+1760,0,No,Arts,Visual,IUYBQX,Male,Yes,67.0,17.0,3.0,15.0,20.0,99.0,22:00,6:00,private transport,black
+1762,2,Yes,,Visual,QOCEYM,Female,No,84.0,6.0,12.0,6.0,8.0,94.0,22:00,6:00,private transport,yellow
+1764,0,Yes,,Auditory,K81JV2,Female,Yes,84.0,17.0,4.0,16.0,8.0,94.0,23:00,7:00,walk,blue
+1770,2,No,Sports,Auditory,D4KBX7,Male,Yes,56.0,11.0,7.0,16.0,15.0,94.0,22:30,6:30,private transport,green
+1792,2,No,,Auditory,3KJHUV,Male,No,63.0,12.0,11.0,15.0,15.0,90.0,22:30,6:30,private transport,yellow
+1794,1,Yes,Sports,Auditory,BX0CHM,Male,No,78.0,20.0,0.0,16.0,7.0,94.0,22:00,6:00,private transport,green
+1802,1,No,Arts,Visual,DRE9GD,Male,No,69.0,10.0,14.0,5.0,17.0,92.0,22:00,6:00,private transport,red
+1815,1,No,Arts,Auditory,CDY20D,Male,No,49.0,19.0,5.0,15.0,5.0,68.0,1:00,7:00,walk,blue
+1826,1,Yes,,Auditory,7COUTF,Female,Yes,77.0,2.0,18.0,16.0,6.0,97.0,23:00,7:00,walk,yellow
+1832,2,Yes,,Visual,LX8UXO,Female,No,72.0,1.0,19.0,15.0,5.0,96.0,21:00,5:00,public transport,green
+1851,1,No,Arts,Auditory,CSGRKP,Male,Yes,74.0,16.0,12.0,16.0,10.0,92.0,22:30,6:30,private transport,black
+1857,2,No,Sports,Visual,BUN0YV,Female,No,72.0,14.0,8.0,5.0,13.0,97.0,23:00,7:00,walk,blue
+1864,1,No,Clubs,Auditory,3JFHM4,Female,Yes,69.0,3.0,25.0,15.0,17.0,91.0,22:30,6:30,private transport,white
+1872,2,No,Clubs,Visual,R9PSNH,Female,N,39.0,17.0,7.0,16.0,8.0,99.0,22:30,6:30,private transport,blue
+1877,1,No,Clubs,Auditory,5V3MGA,Male,Yes,56.0,27.0,0.0,15.0,9.0,100.0,21:00,5:00,public transport,green
+1882,1,No,Clubs,Visual,KGEAV7,Male,No,54.0,24.0,6.0,16.0,5.0,95.0,21:00,5:00,public transport,yellow
+1890,0,No,SPORTS,Visual,OGZDL4,Male,Yes,73.0,19.0,9.0,16.0,9.0,100.0,22:30,6:30,private transport,green
+1895,1,Yes,Clubs,Visual,5CEWNH,Female,No,57.0,7.0,20.0,15.0,13.0,98.0,21:00,5:00,public transport,green
+1910,1,Yes,Arts,Auditory,RPSRNR,Male,Yes,49.0,17.0,8.0,15.0,5.0,96.0,22:30,6:30,private transport,blue
+1920,0,No,,Visual,FRIP81,Male,Yes,80.0,21.0,6.0,16.0,9.0,93.0,23:30,6:30,private transport,yellow
+1953,0,Yes,Sports,Auditory,FNMA2U,Male,No,77.0,11.0,9.0,16.0,7.0,93.0,23:00,7:00,walk,black
+1955,2,No,,Visual,9MX4MU,Male,No,70.0,18.0,5.0,16.0,16.0,96.0,23:00,7:00,walk,green
+1957,2,No,Clubs,Auditory,LE31FG,Male,No,43.0,18.0,5.0,16.0,11.0,92.0,22:00,6:00,private transport,green
+1980,2,No,Arts,Auditory,00IX6J,Female,Yes,73.0,0.0,19.0,15.0,18.0,96.0,21:30,5:30,public transport,red
+1990,0,No,,Auditory,Q8GY4C,Male,Yes,67.0,11.0,10.0,15.0,18.0,95.0,21:30,5:30,public transport,green
+1995,1,No,Sports,Auditory,F6TTQC,Female,N,56.0,5.0,22.0,16.0,12.0,97.0,22:00,6:00,private transport,white
+1999,2,No,Sports,Auditory,E2SD8H,Male,Yes,74.0,14.0,7.0,16.0,17.0,93.0,21:00,5:00,public transport,black
+2010,1,No,Arts,Auditory,RJGQUE,Male,No,48.0,11.0,14.0,16.0,3.0,99.0,23:00,7:00,walk,white
+2012,2,No,Arts,Visual,PJXV7D,Male,No,71.0,13.0,9.0,15.0,17.0,96.0,21:30,5:30,public transport,black
+2026,1,No,Arts,Visual,Q9KXK6,Male,No,45.0,29.0,1.0,15.0,8.0,91.0,23:00,7:00,walk,blue
+2031,2,No,Sports,Visual,6B3AK7,Female,Yes,62.0,11.0,9.0,16.0,8.0,,21:30,5:30,public transport,red
+2038,2,No,Clubs,Visual,OTM2LZ,Male,No,56.0,13.0,9.0,15.0,20.0,96.0,22:30,6:30,private transport,black
+2061,1,Yes,Arts,Auditory,3HO6WS,Female,Yes,71.0,5.0,16.0,15.0,16.0,98.0,21:30,5:30,public transport,yellow
+2065,0,No,Clubs,Auditory,2TQWI6,Male,No,74.0,12.0,8.0,15.0,14.0,93.0,22:00,6:00,private transport,yellow
+2067,2,No,Clubs,Visual,T44LYO,Male,Yes,80.0,13.0,4.0,16.0,6.0,92.0,22:30,6:30,private transport,white
+2082,2,Yes,,Visual,U9SOUN,Female,No,64.0,6.0,9.0,16.0,10.0,96.0,23:00,7:00,walk,green
+2096,2,Yes,Arts,Auditory,DHAMZI,Male,No,60.0,16.0,0.0,16.0,18.0,97.0,21:30,5:30,public transport,red
+2097,2,No,Sports,Auditory,T64KDF,Female,Yes,40.0,9.0,13.0,16.0,0.0,96.0,21:30,5:30,public transport,green
+2098,2,No,Sports,Auditory,I97ZR9,Male,No,54.0,14.0,6.0,15.0,6.0,96.0,21:00,5:00,public transport,black
+2112,1,No,Clubs,Visual,N77293,Male,Yes,61.0,10.0,18.0,16.0,17.0,96.0,23:00,7:00,walk,red
+2113,1,No,Clubs,Visual,E3Z4Q9,Female,No,78.0,15.0,10.0,15.0,10.0,93.0,23:00,7:00,walk,blue
+2116,0,No,,Auditory,B22HYV,Female,No,69.0,13.0,14.0,16.0,9.0,90.0,22:00,6:00,private transport,blue
+2124,2,No,Clubs,Auditory,IRM6ZC,Male,Yes,51.0,11.0,11.0,16.0,8.0,96.0,21:30,5:30,public transport,blue
+2139,1,Yes,Sports,Auditory,8VQLUU,Male,Y,79.0,12.0,5.0,16.0,10.0,93.0,21:00,5:00,public transport,yellow
+2155,2,No,Clubs,Visual,L17SKU,Female,Yes,75.0,12.0,7.0,16.0,10.0,92.0,22:30,6:30,private transport,yellow
+2173,0,No,,Visual,8G4BOL,Female,No,79.0,1.0,26.0,15.0,7.0,97.0,22:00,6:00,private transport,green
+2208,1,No,NONE,Auditory,UH6N5Z,Male,Yes,53.0,17.0,13.0,15.0,12.0,97.0,22:30,6:30,private transport,green
+2234,0,No,,Auditory,EBHJJT,Male,Yes,69.0,19.0,3.0,15.0,15.0,93.0,21:00,5:00,public transport,yellow
+2237,2,No,Arts,Auditory,3F0S0J,Female,No,,19.0,1.0,15.0,11.0,91.0,22:30,6:30,private transport,red
+2240,2,No,Sports,Visual,3YLTWX,Male,Yes,73.0,10.0,9.0,16.0,13.0,94.0,23:00,7:00,walk,green
+2278,0,No,Sports,Auditory,KZSC64,Male,Yes,69.0,17.0,10.0,15.0,14.0,95.0,23:00,7:00,walk,blue
+2291,0,No,Clubs,Visual,7SUL0R,Female,Yes,90.0,17.0,6.0,15.0,9.0,92.0,22:30,6:30,private transport,yellow
+2292,0,No,Sports,Auditory,1L8F4W,Male,Yes,78.0,17.0,5.0,16.0,6.0,99.0,21:30,5:30,public transport,blue
+2331,0,No,,Visual,DXK2NL,Male,No,93.0,10.0,9.0,15.0,8.0,94.0,21:00,5:00,public transport,red
+2336,0,No,,Visual,AE5HAQ,Male,No,73.0,10.0,18.0,16.0,13.0,97.0,21:30,5:30,public transport,green
+2352,1,No,,Auditory,R70OIP,Male,Yes,61.0,13.0,9.0,16.0,7.0,90.0,22:00,6:00,private transport,green
+2359,2,No,,Visual,R6QDXT,Male,No,61.0,18.0,5.0,16.0,6.0,99.0,21:30,5:30,public transport,blue
+2362,1,No,Arts,Auditory,F0A9UP,Female,Yes,47.0,19.0,6.0,5.0,14.0,50.0,1:00,5:00,public transport,black
+2365,0,No,Arts,Auditory,S01672,Male,No,66.0,15.0,12.0,16.0,15.0,98.0,21:30,5:30,public transport,red
+2373,0,Yes,NONE,Visual,IM7M7O,Female,No,69.0,8.0,8.0,15.0,20.0,91.0,23:00,7:00,walk,black
+2378,1,No,Arts,Visual,2HD89P,Male,Yes,71.0,10.0,15.0,15.0,15.0,,22:30,5:30,public transport,blue
+2381,0,No,Arts,Auditory,BOYBW8,Male,Yes,66.0,18.0,3.0,16.0,5.0,96.0,21:00,5:00,public transport,green
+2397,2,No,Sports,Visual,X1LWX3,Male,Yes,73.0,10.0,9.0,15.0,11.0,91.0,21:00,5:00,public transport,yellow
+2399,1,No,Clubs,Visual,KTEGUE,Female,Yes,57.0,3.0,23.0,15.0,5.0,96.0,21:30,5:30,public transport,black
+2413,1,Yes,Sports,Auditory,0129PN,Female,No,49.0,13.0,16.0,15.0,15.0,99.0,22:30,6:30,private transport,blue
+2414,2,No,Sports,Visual,7QZXVM,Female,No,72.0,7.0,15.0,16.0,8.0,93.0,23:00,7:00,walk,white
+2419,1,Yes,,Auditory,1WOX8S,Female,No,49.0,12.0,18.0,15.0,6.0,98.0,22:30,6:30,private transport,yellow
+2431,0,No,,Auditory,0TAKU9,Male,Yes,62.0,17.0,4.0,15.0,7.0,94.0,21:30,5:30,public transport,black
+2438,2,No,Sports,Auditory,C9CYFJ,Female,Yes,72.0,10.0,9.0,15.0,12.0,91.0,21:30,5:30,public transport,red
+2449,0,No,Clubs,Auditory,QFILHT,Male,No,67.0,21.0,6.0,16.0,8.0,,22:30,5:30,public transport,blue
+2451,0,Yes,Sports,Auditory,ENA1DR,Male,Yes,73.0,13.0,2.0,5.0,18.0,94.0,23:00,7:00,walk,green
+2484,0,Yes,,Visual,UKBU3M,Male,Yes,79.0,11.0,6.0,16.0,10.0,91.0,21:30,5:30,public transport,blue
+2485,2,No,Sports,Auditory,RS37CK,Male,Yes,51.0,16.0,2.0,15.0,6.0,99.0,21:00,5:00,public transport,white
+2492,1,No,,Auditory,G98UC2,Female,Yes,70.0,13.0,9.0,16.0,8.0,97.0,21:30,5:30,public transport,white
+2497,2,No,Arts,Auditory,MKO53Z,Male,Yes,58.0,18.0,4.0,15.0,8.0,91.0,22:30,6:30,private transport,white
+2501,0,No,Clubs,Visual,EKBHFH,Male,Yes,59.0,10.0,10.0,16.0,16.0,93.0,22:00,6:00,private transport,red
+2504,0,No,Sports,Auditory,1WHKAW,Male,No,69.0,19.0,1.0,15.0,19.0,92.0,22:00,6:00,private transport,red
+2513,0,Yes,,Auditory,58FVGO,Female,Yes,80.0,15.0,0.0,15.0,9.0,99.0,21:30,5:30,public transport,yellow
+2514,1,Yes,Clubs,Auditory,AFNOIR,Male,No,49.0,24.0,1.0,15.0,6.0,51.0,2:00,6:00,private transport,black
+2560,1,Yes,,Visual,3KILDA,Female,Yes,86.0,17.0,0.0,16.0,10.0,92.0,22:00,6:00,private transport,white
+2561,1,Yes,Clubs,Auditory,NXLUGC,Female,Yes,45.0,5.0,25.0,16.0,14.0,44.0,2:00,6:00,private transport,blue
+2563,0,Yes,,Visual,7GG0QT,Male,Yes,90.0,11.0,5.0,16.0,8.0,92.0,22:30,6:30,private transport,yellow
+2564,2,Yes,Clubs,Visual,I9QU41,Male,Yes,83.0,15.0,3.0,15.0,8.0,93.0,21:00,5:00,public transport,blue
+2582,1,No,Clubs,Visual,WMR8O3,Male,Yes,64.0,15.0,13.0,15.0,17.0,99.0,23:00,7:00,walk,white
+2584,1,Yes,Sports,Auditory,V1NKT0,Male,No,85.0,15.0,7.0,16.0,8.0,93.0,23:00,6:00,private transport,yellow
+2587,1,No,Clubs,Visual,V8PSZ4,Male,No,53.0,30.0,0.0,16.0,7.0,96.0,21:00,5:00,public transport,black
+2590,1,No,Clubs,Visual,ETIYBF,Male,Yes,47.0,30.0,0.0,15.0,12.0,93.0,22:30,6:30,private transport,black
+2602,1,Yes,ARTS,Visual,ZC3UNH,Female,Yes,95.0,0.0,21.0,15.0,9.0,93.0,21:30,5:30,public transport,blue
+2606,1,No,Clubs,Auditory,I7WNCL,Female,Yes,65.0,7.0,21.0,16.0,18.0,97.0,23:00,7:00,walk,green
+2615,1,No,Clubs,Visual,GJICLT,Male,Yes,,12.0,14.0,16.0,19.0,98.0,23:00,7:00,walk,white
+2629,2,No,Clubs,Auditory,II1IWP,Male,No,49.0,21.0,1.0,16.0,6.0,100.0,23:00,7:00,walk,yellow
+2638,1,No,Clubs,Auditory,FP52PW,Male,Yes,69.0,24.0,4.0,16.0,16.0,91.0,22:30,6:30,private transport,white
+2675,2,No,Arts,Auditory,M89MY0,Female,No,50.0,18.0,4.0,16.0,13.0,97.0,22:00,6:00,private transport,yellow
+2694,1,Yes,Clubs,Auditory,QZQFL0,Male,No,79.0,11.0,6.0,16.0,9.0,94.0,22:00,6:00,private transport,green
+2703,1,Yes,Arts,Auditory,MA2NPT,Female,No,,3.0,21.0,15.0,9.0,70.0,22:00,5:00,public transport,black
+2709,1,No,Arts,Visual,6VJ1XT,Male,Yes,76.0,24.0,1.0,15.0,14.0,91.0,21:00,5:00,public transport,green
+2716,1,Yes,Arts,Auditory,W2IUNR,Male,No,49.0,22.0,2.0,15.0,4.0,93.0,22:00,6:00,private transport,blue
+2717,1,Yes,Arts,Visual,OMMQDC,Female,Yes,57.0,11.0,16.0,16.0,6.0,98.0,21:30,5:30,public transport,black
+2725,2,No,,Auditory,9DTDQO,Female,Yes,71.0,0.0,19.0,16.0,14.0,99.0,22:00,6:00,private transport,blue
+2736,2,No,,Auditory,YUPI42,Male,Y,75.0,14.0,5.0,16.0,15.0,94.0,22:30,6:30,private transport,red
+2739,0,Yes,Sports,Auditory,2ZJ25V,Female,No,83.0,10.0,5.0,16.0,7.0,95.0,21:00,5:00,public transport,white
+2743,2,No,Arts,Auditory,NNFIKF,Male,No,62.0,12.0,11.0,15.0,8.0,93.0,22:30,6:30,private transport,black
+2744,1,No,Arts,Visual,DHRHCV,Female,No,57.0,14.0,12.0,16.0,11.0,97.0,22:30,6:30,private transport,blue
+2748,2,No,Arts,Auditory,1JWEJ2,Male,Y,43.0,17.0,5.0,6.0,3.0,52.0,0:30,5:30,public transport,green
+2751,1,No,Arts,Auditory,NDW7ND,Female,Yes,68.0,18.0,4.0,16.0,17.0,100.0,23:00,7:00,walk,yellow
+2756,1,No,Arts,Auditory,RMWWI0,Male,Yes,61.0,10.0,12.0,16.0,18.0,93.0,22:00,6:00,private transport,yellow
+2757,1,No,Sports,Auditory,F4H1C7,Female,Yes,65.0,18.0,10.0,16.0,5.0,96.0,21:30,5:30,public transport,yellow
+2758,1,No,Arts,Auditory,UPOL2X,Male,No,51.0,15.0,15.0,15.0,11.0,90.0,23:00,7:00,walk,red
+2761,1,Yes,Clubs,Visual,NTM1AF,Female,Yes,49.0,19.0,11.0,5.0,14.0,80.0,22:30,5:30,public transport,red
+2774,1,Yes,Clubs,Auditory,5DOHYU,Male,No,47.0,22.0,3.0,15.0,6.0,60.0,2:00,7:00,walk,black
+2779,2,No,Arts,Auditory,8ZI7A0,Female,Yes,72.0,15.0,6.0,15.0,11.0,93.0,23:00,7:00,walk,black
+2785,0,Yes,,Auditory,58FVGO,Female,Yes,80.0,15.0,0.0,15.0,9.0,99.0,21:30,5:30,public transport,black
+2786,1,No,,Visual,YUT93G,Female,Yes,60.0,0.0,28.0,15.0,18.0,96.0,22:00,6:00,private transport,green
+2787,0,No,Arts,Visual,RLBL4I,Female,No,98.0,13.0,8.0,16.0,8.0,95.0,22:30,6:30,private transport,blue
+2810,0,No,,Auditory,FM2RI3,Male,Yes,,20.0,2.0,16.0,6.0,90.0,23:30,6:30,private transport,black
+2813,2,No,Sports,Auditory,6YDMQM,Female,N,66.0,14.0,9.0,16.0,14.0,,21:30,5:30,public transport,yellow
+2821,2,No,Sports,Auditory,9MLDJG,Male,Yes,67.0,18.0,1.0,16.0,16.0,90.0,21:30,5:30,public transport,white
+2822,1,No,Clubs,Visual,GF4T8G,Male,Yes,73.0,11.0,13.0,15.0,6.0,94.0,22:30,6:30,private transport,yellow
+2827,0,No,Clubs,Auditory,HOPW9G,Male,Yes,66.0,15.0,6.0,16.0,19.0,91.0,22:30,6:30,private transport,white
+2842,2,No,Arts,Auditory,IPJGY7,Female,Yes,63.0,4.0,14.0,15.0,19.0,100.0,22:30,6:30,private transport,blue
+2870,0,No,Clubs,Auditory,OLSZ8G,Female,Yes,67.0,26.0,1.0,15.0,15.0,100.0,22:00,6:00,private transport,green
+2875,0,No,Arts,Auditory,HXJYDB,Female,Yes,79.0,2.0,19.0,16.0,8.0,93.0,22:00,6:00,private transport,green
+2890,1,No,,Auditory,T782HS,Male,No,59.0,22.0,5.0,15.0,15.0,97.0,21:00,5:00,public transport,red
+2899,2,Yes,Sports,Auditory,17J8K1,Male,Yes,37.0,21.0,1.0,15.0,7.0,56.0,0:30,5:30,public transport,green
+2910,1,Yes,Clubs,Auditory,YY10JC,Male,Yes,76.0,19.0,2.0,15.0,6.0,97.0,23:00,7:00,walk,white
+2917,1,No,Clubs,Auditory,O20TFC,Male,Yes,71.0,19.0,9.0,15.0,13.0,96.0,21:30,5:30,public transport,red
+2923,0,No,,Visual,PZFW20,Female,No,82.0,11.0,13.0,15.0,5.0,97.0,21:30,5:30,public transport,white
+2924,1,Yes,Sports,Auditory,TMQTGM,Female,Yes,71.0,18.0,2.0,15.0,6.0,93.0,22:00,6:00,private transport,yellow
+2938,0,No,,Auditory,FO7BUK,Male,Yes,92.0,22.0,0.0,16.0,9.0,,23:00,7:00,walk,blue
+2951,2,No,Sports,Auditory,GF8OCC,Female,Yes,54.0,10.0,8.0,16.0,8.0,99.0,21:30,5:30,public transport,green
+2959,2,No,Clubs,Auditory,MO2M1H,Female,Yes,68.0,8.0,15.0,15.0,16.0,90.0,22:30,6:30,private transport,yellow
+2969,1,Yes,,Visual,OFMJVC,Male,Yes,82.0,14.0,3.0,16.0,8.0,95.0,23:00,7:00,walk,green
+2977,1,Yes,Sports,Auditory,FMDZ29,Female,Yes,71.0,18.0,2.0,16.0,10.0,92.0,22:00,6:00,private transport,black
+2984,0,No,Arts,Auditory,0WO2AI,Male,Yes,62.0,12.0,9.0,15.0,15.0,99.0,22:00,6:00,private transport,green
+2990,2,No,Sports,Visual,1W0IQI,Male,Yes,72.0,17.0,0.0,15.0,14.0,97.0,22:30,6:30,private transport,blue
+3006,2,No,Arts,Auditory,JKEUNV,Male,No,71.0,18.0,3.0,5.0,16.0,96.0,21:30,5:30,public transport,blue
+3012,1,Yes,,Visual,3KILDA,Female,Yes,86.0,17.0,0.0,16.0,10.0,92.0,22:00,6:00,private transport,black
+3013,1,No,,Visual,0S4SVU,Male,Yes,74.0,14.0,11.0,15.0,9.0,96.0,21:30,5:30,public transport,blue
+3020,1,Yes,Sports,Auditory,I81ZC3,Female,Yes,53.0,17.0,8.0,16.0,10.0,99.0,23:00,7:00,walk,black
+3023,1,No,Clubs,Auditory,YGNMSB,Male,No,45.0,13.0,12.0,15.0,0.0,49.0,3:00,7:00,walk,red
+3043,1,No,Clubs,Visual,VKTCE1,Male,Yes,,11.0,17.0,15.0,9.0,98.0,22:00,6:00,private transport,green
+3056,1,No,Clubs,Visual,83IOO0,Male,Yes,51.0,19.0,11.0,15.0,10.0,97.0,21:30,5:30,public transport,red
+3062,1,No,Arts,Auditory,2IC1CS,Male,Yes,,20.0,8.0,15.0,8.0,92.0,23:00,7:00,walk,blue
+3091,1,No,Sports,Visual,9TT404,Female,Yes,76.0,21.0,4.0,15.0,12.0,100.0,22:00,6:00,private transport,red
+3110,2,No,Clubs,Auditory,W6AZKE,Female,No,46.0,22.0,1.0,16.0,13.0,73.0,23:00,6:00,private transport,black
+3111,1,Yes,Sports,Auditory,485L0J,Female,Y,79.0,6.0,11.0,16.0,8.0,98.0,21:30,5:30,public transport,black
+3113,1,No,Clubs,Auditory,IQG2D3,Male,Yes,70.0,28.0,0.0,15.0,8.0,95.0,22:30,6:30,private transport,green
+3127,0,Yes,,Auditory,BHCX8A,Male,Yes,72.0,14.0,1.0,15.0,18.0,97.0,23:00,7:00,walk,red
+3132,1,No,Clubs,Visual,39K2XJ,Male,No,53.0,24.0,2.0,15.0,16.0,,21:30,5:30,public transport,white
+3146,1,Yes,Arts,Auditory,6ONXZ5,Male,Yes,80.0,15.0,7.0,16.0,6.0,96.0,21:00,5:00,public transport,yellow
+3150,1,No,Arts,Visual,O6LNAK,Male,Yes,67.0,22.0,2.0,15.0,7.0,91.0,22:30,6:30,private transport,green
+3155,2,No,,Auditory,YUPI42,Male,Y,75.0,14.0,5.0,16.0,15.0,94.0,22:30,6:30,private transport,blue
+3242,1,No,Arts,Auditory,V6VAFL,Male,No,48.0,12.0,13.0,16.0,11.0,84.0,23:30,6:30,private transport,red
+3248,1,No,Sports,Auditory,IK1G0C,Female,No,47.0,1.0,24.0,16.0,10.0,56.0,1:30,6:30,private transport,blue
+3269,1,Yes,Clubs,Auditory,TNR24V,Female,Yes,71.0,10.0,11.0,15.0,6.0,91.0,21:00,5:00,public transport,green
+3277,0,Yes,Clubs,Auditory,XQOEYS,Female,No,67.0,6.0,10.0,15.0,8.0,96.0,23:00,7:00,walk,yellow
+3285,1,No,Sports,Visual,RDQJ1H,Female,Yes,60.0,7.0,21.0,15.0,13.0,99.0,22:30,6:30,private transport,white
+3286,1,No,,Auditory,28A8B5,Female,Yes,61.0,3.0,25.0,16.0,18.0,95.0,21:30,5:30,public transport,red
+3299,2,No,Sports,Auditory,BG7FMC,Female,Yes,74.0,6.0,15.0,16.0,8.0,95.0,21:00,5:00,public transport,red
+3322,2,No,,Auditory,8OLA1L,Male,Yes,67.0,10.0,13.0,15.0,15.0,91.0,23:30,6:30,private transport,red
+3323,2,No,,Visual,UKEQ73,Female,Yes,83.0,13.0,4.0,16.0,6.0,90.0,23:00,6:00,private transport,yellow
+3330,1,No,Sports,Auditory,6Q9B7S,Female,No,55.0,26.0,5.0,15.0,10.0,96.0,23:00,7:00,walk,yellow
+3377,0,No,Sports,Visual,OCJE99,Female,Yes,63.0,11.0,9.0,15.0,16.0,,22:00,6:00,private transport,blue
+3388,0,No,Sports,Auditory,OAQCJI,Female,Yes,58.0,10.0,12.0,15.0,17.0,90.0,22:00,5:00,public transport,red
+3392,1,No,,Auditory,17ZHO1,Male,Yes,62.0,14.0,14.0,15.0,18.0,92.0,22:00,6:00,private transport,blue
+3395,0,Yes,,Visual,XFO2HV,Female,No,73.0,1.0,19.0,15.0,7.0,94.0,22:00,6:00,private transport,white
+3401,1,Yes,,Visual,LL3VMZ,Male,Yes,77.0,11.0,6.0,16.0,7.0,95.0,23:00,7:00,walk,yellow
+3403,1,No,Clubs,Auditory,TTJDGW,Male,Yes,68.0,24.0,4.0,15.0,5.0,97.0,21:00,5:00,public transport,black
+3405,0,No,,Auditory,PZJ3Q0,Male,Yes,93.0,15.0,6.0,15.0,10.0,94.0,22:00,6:00,private transport,blue
+3414,0,No,Clubs,Auditory,YI7Z5P,Female,Yes,58.0,6.0,21.0,16.0,6.0,91.0,22:30,6:30,private transport,white
+3417,0,Yes,Sports,Auditory,VDY8OL,Female,No,69.0,6.0,13.0,16.0,19.0,94.0,23:00,7:00,walk,white
+3431,1,No,Clubs,Auditory,T2ERGQ,Male,N,41.0,10.0,18.0,16.0,11.0,93.0,21:00,5:00,public transport,blue
+3449,1,Yes,,Auditory,JEU4JP,Male,Yes,85.0,15.0,7.0,16.0,8.0,98.0,23:00,7:00,walk,green
+3450,0,Yes,,Visual,NYX6HA,Male,No,81.0,15.0,0.0,15.0,6.0,96.0,21:30,5:30,public transport,yellow
+3461,0,No,Arts,Auditory,QX8TBS,Female,Y,76.0,0.0,23.0,15.0,14.0,93.0,22:00,6:00,private transport,red
+3464,2,Yes,Arts,Visual,FDHDMS,Female,No,72.0,7.0,13.0,15.0,7.0,98.0,21:00,5:00,public transport,white
+3469,0,Yes,Sports,Auditory,EIX8ET,Male,Yes,75.0,10.0,5.0,15.0,12.0,94.0,21:00,5:00,public transport,white
+3473,2,Yes,,Visual,WTH1DH,Female,No,78.0,0.0,14.0,15.0,10.0,93.0,21:00,5:00,public transport,red
+3480,1,Yes,Clubs,Auditory,GYH9Y9,Male,Yes,52.0,14.0,11.0,15.0,10.0,98.0,21:30,5:30,public transport,red
+3482,1,No,Sports,Visual,7G0RL4,Female,No,53.0,18.0,7.0,16.0,18.0,95.0,21:30,5:30,public transport,black
+3483,0,Yes,Sports,Auditory,FNMA2U,Male,No,77.0,11.0,9.0,16.0,7.0,93.0,23:00,7:00,walk,black
+3507,1,Yes,Sports,Auditory,YQQX0I,Female,Yes,54.0,13.0,12.0,16.0,5.0,99.0,22:30,6:30,private transport,green
+3515,1,No,Clubs,Auditory,D3NP5G,Male,No,48.0,23.0,2.0,15.0,6.0,67.0,23:30,5:30,public transport,yellow
+3526,2,No,Sports,Visual,BUN0YV,Female,No,72.0,14.0,8.0,5.0,13.0,97.0,23:00,7:00,walk,blue
+3544,0,No,Sports,Visual,MWSLDI,Male,No,72.0,25.0,3.0,15.0,11.0,91.0,22:00,6:00,private transport,green
+3557,1,No,Sports,Visual,ZCT7O8,Female,No,48.0,13.0,17.0,15.0,1.0,54.0,1:30,6:30,private transport,green
+3570,1,Yes,Arts,Auditory,ZNNDJ9,Male,N,45.0,16.0,9.0,15.0,9.0,54.0,0:00,5:00,public transport,yellow
+3580,1,No,ARTS,Visual,00VQRU,Male,No,54.0,15.0,15.0,15.0,16.0,99.0,22:30,6:30,private transport,red
+3585,1,No,Clubs,Visual,0TE1OR,Male,No,50.0,28.0,2.0,15.0,10.0,,22:00,6:00,private transport,white
+3597,0,No,Sports,Auditory,PK60TK,Female,No,61.0,5.0,17.0,16.0,7.0,96.0,22:30,6:30,private transport,black
+3608,1,No,Clubs,Auditory,4374IM,Female,Yes,67.0,18.0,10.0,15.0,9.0,96.0,22:00,6:00,private transport,blue
+3609,2,No,,Visual,R6QDXT,Male,No,61.0,18.0,5.0,16.0,6.0,99.0,21:30,5:30,public transport,black
+3635,1,No,Clubs,Auditory,D88SIC,Male,No,67.0,16.0,12.0,16.0,7.0,100.0,21:00,5:00,public transport,green
+3638,1,Yes,,Visual,Q7ZF80,Male,Yes,100.0,17.0,0.0,15.0,7.0,96.0,21:00,5:00,public transport,blue
+3694,2,No,,Visual,CXFXR5,Male,Yes,63.0,18.0,4.0,15.0,7.0,99.0,21:30,5:30,public transport,blue
+3695,0,No,,Auditory,HA6KTG,Female,Yes,,0.0,22.0,15.0,5.0,98.0,23:00,7:00,walk,black
+3721,1,No,Sports,Auditory,TLWJXX,Female,No,,28.0,2.0,16.0,17.0,91.0,0:00,7:00,walk,red
+3734,0,No,,Visual,Y9F12P,Male,Yes,,10.0,13.0,16.0,6.0,94.0,22:00,6:00,private transport,green
+3736,0,No,Arts,Visual,8D82VU,Male,No,79.0,11.0,16.0,16.0,7.0,96.0,22:00,6:00,private transport,green
+3743,1,No,CLUBS,Auditory,46B3UP,Female,No,58.0,20.0,7.0,15.0,11.0,100.0,21:00,5:00,public transport,green
+3746,1,Yes,Clubs,Auditory,DLN6X8,Female,No,49.0,11.0,14.0,15.0,11.0,94.0,22:30,6:30,private transport,black
+3753,1,No,,Auditory,O6YUFX,Male,Yes,60.0,16.0,6.0,15.0,5.0,,22:00,6:00,private transport,black
+3755,1,Yes,Arts,Visual,AX1U3L,Male,Yes,94.0,18.0,3.0,16.0,7.0,,23:00,7:00,walk,green
+3756,1,Yes,Clubs,Visual,E2JQW7,Male,Yes,66.0,19.0,2.0,16.0,6.0,94.0,22:30,6:30,private transport,black
+3764,1,Yes,Clubs,Auditory,J5S4WW,Male,No,48.0,18.0,7.0,16.0,9.0,93.0,21:00,5:00,public transport,black
+3792,2,No,Sports,Auditory,4TQHFS,Female,Yes,50.0,7.0,15.0,15.0,8.0,92.0,21:00,5:00,public transport,white
+3794,2,No,,Auditory,T0FJJB,Male,Yes,73.0,19.0,2.0,16.0,12.0,97.0,22:00,6:00,private transport,green
+3813,0,No,Clubs,Auditory,I52UAW,Male,No,68.0,15.0,5.0,15.0,19.0,,23:00,7:00,walk,red
+3815,0,No,Arts,Auditory,QL6M9Z,Male,Yes,73.0,17.0,4.0,16.0,8.0,91.0,22:30,6:30,private transport,white
+3818,1,Yes,Clubs,Visual,17H6CM,Female,No,49.0,14.0,16.0,15.0,1.0,76.0,22:30,5:30,public transport,green
+3835,1,No,Sports,Auditory,6KF0MQ,Female,Yes,52.0,16.0,9.0,16.0,13.0,99.0,22:30,6:30,private transport,white
+3839,1,No,CLUBS,Visual,LZ7KPR,Male,Yes,59.0,23.0,5.0,15.0,9.0,98.0,21:30,5:30,public transport,green
+3842,1,No,Clubs,Visual,0WA8DH,Male,No,52.0,12.0,18.0,15.0,18.0,99.0,22:30,6:30,private transport,white
+3866,2,No,Clubs,Auditory,H6SOME,Male,No,51.0,20.0,3.0,15.0,15.0,92.0,21:00,5:00,public transport,white
+3882,2,No,Arts,Auditory,E65QP7,Female,No,62.0,13.0,7.0,16.0,10.0,91.0,21:00,5:00,public transport,black
+3888,0,No,Arts,Visual,A74SLS,Male,No,68.0,15.0,12.0,15.0,18.0,99.0,21:30,5:30,public transport,white
+3890,0,No,,Visual,E0WPBY,Female,Yes,91.0,6.0,13.0,16.0,9.0,90.0,21:30,5:30,public transport,blue
+3899,1,Yes,Clubs,Visual,IX6H9J,Female,No,98.0,2.0,15.0,16.0,7.0,94.0,21:30,5:30,public transport,green
+3910,1,No,Arts,Visual,6K3X1X,Female,No,49.0,17.0,13.0,16.0,7.0,96.0,23:00,7:00,walk,yellow
+3917,1,No,Arts,Visual,QXY3D4,Male,Yes,57.0,11.0,17.0,16.0,15.0,93.0,23:00,7:00,walk,black
+3952,1,Yes,Sports,Auditory,A0HEA6,Female,No,49.0,23.0,2.0,15.0,3.0,80.0,21:30,5:30,public transport,white
+3975,1,No,Clubs,Auditory,JFGFMF,Male,Yes,58.0,22.0,0.0,15.0,15.0,94.0,23:00,7:00,walk,green
+3988,0,No,Sports,Visual,W3SAQF,Male,Yes,76.0,19.0,9.0,15.0,6.0,100.0,21:00,5:00,public transport,green
+3991,2,No,Clubs,Auditory,D1TZCP,Male,Yes,73.0,15.0,6.0,16.0,10.0,99.0,21:00,5:00,public transport,blue
+3994,2,No,,Visual,W4N9H7,Female,Yes,72.0,14.0,7.0,15.0,18.0,97.0,21:30,5:30,public transport,blue
+4009,0,No,Clubs,Auditory,MRU96F,Male,Yes,96.0,16.0,5.0,16.0,7.0,99.0,21:30,5:30,public transport,white
+4020,1,No,Arts,Auditory,HMVY39,Female,No,44.0,18.0,10.0,16.0,4.0,67.0,2:00,7:00,walk,blue
+4021,2,No,Arts,Auditory,CP8XQE,Male,Yes,64.0,16.0,4.0,15.0,11.0,94.0,23:00,7:00,walk,black
+4023,1,No,Clubs,Visual,IW6B7G,Male,Yes,70.0,23.0,1.0,16.0,8.0,99.0,23:00,7:00,walk,white
+4034,2,No,,Auditory,C0M6LD,Female,Yes,73.0,23.0,0.0,15.0,16.0,95.0,23:00,7:00,walk,green
+4041,1,No,Sports,Auditory,EPA2H7,Female,Yes,66.0,15.0,7.0,16.0,5.0,97.0,23:00,7:00,walk,red
+4042,0,No,,Auditory,8RL4EL,Male,Yes,,17.0,4.0,15.0,7.0,97.0,23:00,7:00,walk,white
+4055,0,Yes,,Visual,L6FZKW,Male,No,72.0,15.0,3.0,16.0,12.0,99.0,21:00,5:00,public transport,red
+4072,1,Yes,Sports,Auditory,SMMTFO,Female,Yes,65.0,9.0,10.0,15.0,18.0,,21:00,5:00,public transport,green
+4077,0,No,Sports,Auditory,STRDMJ,Female,No,89.0,13.0,9.0,16.0,8.0,99.0,22:30,6:30,private transport,red
+4095,1,Yes,Sports,Auditory,JPSBQE,Female,Yes,48.0,3.0,27.0,16.0,6.0,98.0,23:00,7:00,walk,black
+4098,0,No,,Visual,6U3IA3,Female,No,71.0,21.0,7.0,15.0,6.0,94.0,22:30,6:30,private transport,yellow
+4109,1,No,Clubs,Auditory,WSI8OZ,Female,Y,57.0,7.0,20.0,16.0,6.0,92.0,22:00,6:00,private transport,red
+4110,1,Yes,Clubs,Auditory,HVJ0CC,Male,Yes,73.0,10.0,10.0,15.0,14.0,92.0,23:30,6:30,private transport,black
+4111,1,No,Clubs,Auditory,WO56BY,Female,Yes,54.0,1.0,23.0,16.0,7.0,94.0,21:30,5:30,public transport,red
+4115,0,No,Clubs,Auditory,SGR54A,Male,No,63.0,11.0,10.0,5.0,14.0,97.0,21:00,5:00,public transport,yellow
+4121,1,No,Arts,Auditory,WYCUCD,Female,No,51.0,15.0,10.0,16.0,7.0,93.0,21:30,5:30,public transport,white
+4122,1,Yes,Sports,Visual,SSQO7P,Female,No,48.0,19.0,11.0,15.0,7.0,,22:00,5:00,public transport,green
+4130,0,No,,Visual,NQ9N3G,Female,Yes,65.0,0.0,20.0,15.0,13.0,98.0,23:00,7:00,walk,yellow
+4140,2,No,Arts,Auditory,AQJEUU,Male,Yes,78.0,18.0,3.0,15.0,9.0,91.0,23:00,7:00,walk,green
+4142,1,Yes,Clubs,Auditory,Q6F3ND,Male,Yes,78.0,12.0,9.0,15.0,7.0,95.0,23:00,7:00,walk,red
+4153,2,No,Sports,Auditory,J4HHYQ,Male,Yes,62.0,12.0,11.0,16.0,19.0,90.0,22:00,6:00,private transport,green
+4156,2,No,Sports,Visual,6IBLXX,Male,Yes,72.0,22.0,0.0,16.0,13.0,91.0,23:00,7:00,walk,white
+4168,0,No,Arts,Auditory,H5Y11Z,Male,Yes,73.0,11.0,11.0,16.0,8.0,95.0,22:30,6:30,private transport,blue
+4171,0,No,,Auditory,0GV4TG,Male,No,95.0,17.0,4.0,15.0,5.0,97.0,22:30,6:30,private transport,blue
+4188,2,Yes,Sports,Auditory,CNT6OY,Male,No,58.0,11.0,5.0,15.0,13.0,96.0,23:00,7:00,walk,white
+4216,0,Yes,Arts,Visual,YT046Q,Male,N,,13.0,5.0,16.0,5.0,91.0,21:30,5:30,public transport,white
+4223,0,No,Clubs,Auditory,JAYNIC,Male,No,63.0,12.0,9.0,15.0,16.0,91.0,22:30,6:30,private transport,blue
+4225,0,No,Clubs,Visual,L5UTSJ,Female,No,81.0,16.0,8.0,16.0,6.0,92.0,22:00,6:00,private transport,red
+4233,1,No,,Visual,DCC2KL,Male,No,81.0,16.0,9.0,5.0,8.0,93.0,21:00,5:00,public transport,blue
+4244,2,No,Arts,Visual,F38WWU,Female,Yes,59.0,5.0,17.0,16.0,19.0,91.0,21:00,5:00,public transport,yellow
+4257,1,No,Clubs,Auditory,CT3JMF,Male,No,51.0,19.0,5.0,5.0,5.0,95.0,22:30,6:30,private transport,white
+4262,0,No,NONE,Auditory,M811KO,Female,Y,73.0,20.0,1.0,15.0,20.0,98.0,21:00,5:00,public transport,green
+4273,2,No,,Auditory,6GLEJK,Female,Yes,72.0,2.0,19.0,15.0,10.0,90.0,22:00,6:00,private transport,red
+4288,1,Yes,Arts,Auditory,QBNJKU,Male,Yes,75.0,12.0,9.0,16.0,6.0,98.0,23:00,7:00,walk,blue
+4290,0,Yes,Arts,Visual,CLZ5ZI,Male,No,83.0,16.0,2.0,15.0,8.0,93.0,23:00,7:00,walk,red
+4304,0,Yes,,Visual,FB9O87,Female,Yes,83.0,10.0,6.0,15.0,8.0,97.0,22:30,6:30,private transport,blue
+4308,1,Yes,Clubs,Auditory,IIDGER,Female,Yes,75.0,11.0,6.0,16.0,10.0,90.0,22:30,6:30,private transport,blue
+4318,2,No,Arts,Auditory,LZ5E59,Female,No,57.0,18.0,1.0,16.0,10.0,,23:00,7:00,walk,blue
+4336,1,No,Arts,Auditory,70GDYM,Female,Yes,69.0,26.0,2.0,15.0,14.0,91.0,21:00,5:00,public transport,black
+4346,2,No,Clubs,Auditory,FKUBD7,Male,Yes,55.0,12.0,6.0,16.0,9.0,91.0,21:00,5:00,public transport,blue
+4347,1,Yes,,Auditory,ARG1CI,Female,Yes,70.0,2.0,19.0,15.0,19.0,90.0,22:00,6:00,private transport,blue
+4349,0,Yes,Clubs,Visual,WNCI4I,Male,No,77.0,10.0,8.0,15.0,8.0,93.0,22:00,6:00,private transport,black
+4357,1,Yes,Sports,Auditory,X1E1WR,Male,No,41.0,28.0,0.0,15.0,14.0,74.0,1:00,7:00,walk,green
+4359,2,No,,Visual,WJMB30,Female,Yes,81.0,8.0,9.0,16.0,7.0,96.0,22:00,6:00,private transport,green
+4368,1,Yes,Arts,Visual,3JIF2G,Female,Y,86.0,12.0,5.0,16.0,8.0,99.0,21:30,5:30,public transport,green
+4383,1,No,Arts,Auditory,WSU99W,Female,No,62.0,1.0,26.0,15.0,16.0,97.0,22:30,6:30,private transport,red
+4395,2,Yes,Clubs,Visual,XFE7MU,Male,No,87.0,10.0,8.0,15.0,7.0,,21:30,5:30,public transport,green
+4429,1,No,Arts,Auditory,ZZICEC,Female,Yes,54.0,11.0,13.0,15.0,12.0,93.0,22:00,6:00,private transport,green
+4430,1,No,,Auditory,UU34S5,Male,No,50.0,20.0,4.0,15.0,15.0,95.0,23:00,7:00,walk,black
+4435,2,Yes,Arts,Auditory,KZ5L6K,Female,No,39.0,1.0,21.0,15.0,6.0,96.0,21:00,5:00,public transport,black
+4457,2,No,Clubs,Auditory,MTCQL4,Female,No,57.0,3.0,16.0,15.0,11.0,94.0,22:30,6:30,private transport,green
+4479,2,No,Arts,Auditory,61QFAD,Male,No,45.0,19.0,4.0,16.0,7.0,47.0,2:00,6:00,private transport,red
+4483,0,No,Sports,Visual,YR3JJN,Male,No,68.0,12.0,16.0,15.0,13.0,99.0,22:00,6:00,private transport,white
+4501,0,No,Arts,Visual,WF276F,Female,No,82.0,18.0,6.0,16.0,7.0,96.0,21:00,5:00,public transport,green
+4503,1,No,Arts,Auditory,H7BY38,Male,No,52.0,23.0,8.0,16.0,18.0,91.0,22:00,5:00,public transport,black
+4508,2,No,Sports,Auditory,CXWU5B,Male,Yes,55.0,11.0,7.0,16.0,13.0,94.0,21:00,5:00,public transport,black
+4510,0,No,,Auditory,ECBA8X,Female,No,88.0,3.0,19.0,5.0,8.0,96.0,22:00,6:00,private transport,yellow
+4521,0,No,Sports,Auditory,DBC41Q,Female,No,65.0,3.0,24.0,15.0,6.0,,21:00,5:00,public transport,red
+4532,2,No,Clubs,Visual,OTM2LZ,Male,No,56.0,13.0,9.0,15.0,20.0,96.0,22:30,6:30,private transport,yellow
+4539,0,Yes,,Visual,1M07PM,Female,No,79.0,5.0,10.0,16.0,10.0,93.0,21:30,5:30,public transport,red
+4543,0,No,Sports,Visual,0A3VJ3,Male,Yes,94.0,21.0,2.0,16.0,5.0,94.0,23:00,7:00,walk,red
+4549,1,No,,Visual,BQTTF7,Male,Yes,64.0,26.0,0.0,15.0,11.0,92.0,22:00,6:00,private transport,yellow
+4554,1,Yes,Clubs,Auditory,GYH9Y9,Male,Yes,,14.0,11.0,15.0,10.0,98.0,21:30,5:30,public transport,green
+4577,1,Yes,Clubs,Auditory,TMMV6C,Male,Yes,41.0,28.0,0.0,16.0,3.0,,22:00,6:00,private transport,blue
+4580,0,No,,Visual,NGOS7G,Male,No,71.0,11.0,16.0,15.0,5.0,92.0,21:30,5:30,public transport,white
+4591,0,No,Arts,Auditory,XB95D2,Female,No,54.0,21.0,0.0,15.0,16.0,90.0,23:00,6:00,private transport,blue
+4601,2,No,Clubs,Visual,PRHVFW,Male,No,61.0,18.0,5.0,16.0,18.0,91.0,21:30,5:30,public transport,black
+4604,1,No,Arts,Visual,W5ASQP,Female,No,48.0,22.0,8.0,15.0,6.0,99.0,21:00,5:00,public transport,yellow
+4631,0,No,Sports,Auditory,DBC41Q,Female,No,65.0,3.0,24.0,15.0,6.0,93.0,21:00,5:00,public transport,blue
+4636,0,Yes,Arts,Visual,LNZ85S,Male,No,73.0,18.0,0.0,15.0,15.0,97.0,22:00,6:00,private transport,green
+4643,0,No,Clubs,Visual,NIRYOD,Female,Y,78.0,4.0,24.0,16.0,9.0,93.0,23:00,7:00,walk,yellow
+4646,1,Yes,,Auditory,EDLJRJ,Male,No,85.0,19.0,3.0,16.0,10.0,93.0,23:00,6:00,private transport,yellow
+4669,0,No,Clubs,Auditory,ZQ079V,Female,Yes,58.0,1.0,26.0,16.0,10.0,92.0,21:30,5:30,public transport,black
+4690,1,Yes,Clubs,Auditory,XAHQCI,Female,Yes,51.0,18.0,7.0,16.0,15.0,98.0,23:00,7:00,walk,white
+4702,2,Yes,Clubs,Visual,8W79EZ,Male,No,79.0,14.0,0.0,16.0,7.0,99.0,22:00,6:00,private transport,white
+4718,1,Yes,Arts,Visual,QF0SF8,Male,Yes,100.0,16.0,1.0,16.0,9.0,93.0,23:00,7:00,walk,yellow
+4730,0,No,,Auditory,MQ9ZKC,Male,Yes,80.0,21.0,1.0,15.0,6.0,99.0,22:00,6:00,private transport,black
+4745,0,No,Arts,Visual,KKYCYE,Female,Yes,74.0,2.0,26.0,15.0,15.0,97.0,22:00,6:00,private transport,green
+4749,2,No,Clubs,Auditory,FYZXYL,Male,Yes,44.0,20.0,4.0,16.0,0.0,91.0,0:00,7:00,walk,blue
+4750,0,No,Arts,Visual,WQ0ET8,Female,No,58.0,6.0,16.0,16.0,9.0,93.0,22:00,6:00,private transport,black
+4757,1,No,Arts,Auditory,VMYVAN,Male,No,55.0,16.0,11.0,16.0,19.0,91.0,22:00,6:00,private transport,green
+4765,0,Yes,Clubs,Auditory,X859JQ,Female,No,78.0,12.0,9.0,16.0,6.0,99.0,23:00,7:00,walk,green
+4770,0,No,,Auditory,ROM9IK,Female,Yes,99.0,13.0,8.0,15.0,8.0,99.0,21:30,5:30,public transport,green
+4789,0,No,,Visual,ODXZAH,Male,Yes,94.0,13.0,10.0,15.0,10.0,97.0,23:00,7:00,walk,yellow
+4790,2,Yes,Arts,Visual,JSRPYG,Female,No,85.0,11.0,7.0,15.0,8.0,100.0,22:00,6:00,private transport,yellow
+4801,0,No,,Visual,6K37P0,Female,Yes,91.0,18.0,5.0,16.0,5.0,90.0,23:00,7:00,walk,red
+4811,1,Yes,,Visual,P4HAON,Male,Yes,86.0,14.0,8.0,16.0,9.0,92.0,21:30,5:30,public transport,white
+4831,0,No,Arts,Auditory,S9SFGU,Male,No,63.0,25.0,2.0,16.0,5.0,94.0,22:00,6:00,private transport,green
+4838,2,No,Arts,Auditory,3F0S0J,Female,No,55.0,19.0,1.0,15.0,11.0,91.0,22:30,6:30,private transport,blue
+4845,0,No,Clubs,Auditory,3KZ9GL,Female,No,63.0,0.0,21.0,16.0,14.0,92.0,21:00,5:00,public transport,yellow
+4857,1,No,,Visual,KEXN99,Male,Yes,72.0,20.0,4.0,15.0,9.0,92.0,22:30,6:30,private transport,red
+4890,0,No,,Auditory,N49B8Q,Male,Yes,91.0,18.0,3.0,15.0,8.0,90.0,23:00,7:00,walk,yellow
+4893,2,Yes,Sports,Visual,0I912T,Female,No,77.0,4.0,10.0,15.0,7.0,94.0,21:30,5:30,public transport,black
+4897,2,No,,Visual,34XQIE,Male,Yes,,16.0,5.0,15.0,17.0,,0:00,7:00,walk,red
+4899,1,No,Sports,Visual,G5ILJN,Female,No,49.0,4.0,26.0,16.0,15.0,92.0,21:00,5:00,public transport,black
+4949,1,Yes,Clubs,Auditory,GONEJM,Female,Yes,48.0,22.0,2.0,15.0,6.0,71.0,0:00,6:00,private transport,white
+4969,0,Yes,,Auditory,Z3LMMA,Female,Yes,82.0,9.0,11.0,15.0,9.0,94.0,21:30,5:30,public transport,yellow
+4985,0,Yes,,Visual,M8WZ0P,Female,No,83.0,6.0,14.0,16.0,10.0,92.0,21:00,5:00,public transport,black
+5003,0,No,,Auditory,4GJL8X,Male,Yes,93.0,11.0,10.0,15.0,9.0,98.0,23:00,7:00,walk,black
+5016,1,No,Sports,Auditory,ZQ6VIN,Female,Yes,64.0,2.0,25.0,16.0,5.0,90.0,23:00,7:00,walk,yellow
+5025,0,No,Arts,Auditory,9LMLN3,Male,Yes,71.0,15.0,5.0,16.0,20.0,95.0,21:00,5:00,public transport,blue
+5058,1,Yes,Arts,Visual,7W11YT,Male,No,55.0,18.0,9.0,16.0,18.0,98.0,21:30,5:30,public transport,white
+5068,1,Yes,ARTS,Auditory,2ZS8TA,Female,Yes,54.0,6.0,19.0,5.0,18.0,97.0,21:00,5:00,public transport,blue
+5084,1,No,Arts,Visual,EDS8GP,Male,Yes,70.0,26.0,2.0,15.0,15.0,91.0,22:00,6:00,private transport,green
+5088,2,No,Clubs,Visual,EMRF5F,Male,Y,74.0,18.0,4.0,16.0,10.0,94.0,23:00,7:00,walk,red
+5089,1,Yes,Arts,Auditory,6N12ET,Male,Yes,76.0,21.0,0.0,16.0,13.0,91.0,21:00,5:00,public transport,red
+5128,2,No,Arts,Visual,L8JGC6,Male,Yes,79.0,11.0,8.0,15.0,8.0,95.0,21:00,5:00,public transport,white
+5130,1,Yes,,Visual,2SEKXN,Male,Yes,95.0,14.0,7.0,16.0,10.0,99.0,22:00,6:00,private transport,black
+5147,1,No,Sports,Auditory,2U6TS8,Male,No,62.0,31.0,0.0,16.0,16.0,92.0,21:00,5:00,public transport,green
+5171,1,No,Sports,Auditory,XOYFY2,Male,No,49.0,14.0,16.0,16.0,0.0,97.0,22:30,6:30,private transport,red
+5177,1,No,Arts,Auditory,6LM1A7,Male,Yes,47.0,23.0,6.0,15.0,9.0,96.0,21:30,5:30,public transport,blue
+5188,0,No,Sports,Visual,ZVHBO4,Female,No,67.0,24.0,4.0,16.0,20.0,98.0,21:00,5:00,public transport,red
+5193,1,Yes,Arts,Auditory,978RD8,Male,Yes,86.0,15.0,7.0,15.0,9.0,97.0,21:00,5:00,public transport,white
+5198,2,Yes,,Visual,IX0LJU,Female,Yes,81.0,13.0,1.0,15.0,7.0,91.0,21:30,5:30,public transport,red
+5200,0,Yes,,Auditory,2NDS80,Male,Yes,79.0,15.0,0.0,16.0,5.0,100.0,23:00,7:00,walk,white
+5208,1,No,Clubs,Visual,YQX3LS,Male,Yes,64.0,19.0,9.0,15.0,9.0,98.0,22:00,6:00,private transport,green
+5213,1,No,Arts,Visual,Q9KXK6,Male,No,45.0,29.0,1.0,15.0,8.0,91.0,23:00,7:00,walk,black
+5218,1,Yes,ARTS,Auditory,QPYET6,Male,Yes,49.0,13.0,11.0,15.0,11.0,80.0,21:00,5:00,public transport,red
+5228,2,No,Arts,Visual,F38WWU,Female,Yes,59.0,5.0,17.0,16.0,19.0,91.0,21:00,5:00,public transport,green
+5231,1,No,Clubs,Auditory,PD7GCL,Male,No,55.0,18.0,9.0,16.0,8.0,95.0,21:00,5:00,public transport,red
+5235,2,No,Arts,Visual,HTKVKQ,Male,No,80.0,12.0,7.0,16.0,7.0,92.0,23:00,7:00,walk,blue
+5239,1,No,Sports,Auditory,F4H1C7,Female,Yes,65.0,18.0,10.0,16.0,5.0,96.0,21:30,5:30,public transport,green
+5260,1,Yes,,Auditory,0N6SFC,Male,Yes,76.0,21.0,0.0,15.0,18.0,97.0,22:00,6:00,private transport,red
+5278,1,No,Clubs,Visual,5FMF9R,Female,No,50.0,29.0,1.0,16.0,2.0,93.0,22:00,6:00,private transport,green
+5311,1,Yes,Clubs,Auditory,AFDEG7,Female,No,46.0,9.0,20.0,16.0,2.0,96.0,22:30,6:30,private transport,blue
+5317,0,No,Sports,Visual,H7Z4IS,Female,Yes,92.0,18.0,5.0,15.0,6.0,95.0,23:00,7:00,walk,yellow
+5334,0,No,Arts,Auditory,8KHEF0,Male,Yes,69.0,20.0,2.0,16.0,11.0,98.0,21:30,5:30,public transport,blue
+5343,1,No,Arts,Auditory,KZ9F3B,Male,Yes,57.0,22.0,9.0,15.0,16.0,92.0,23:00,7:00,walk,yellow
+5346,2,No,Sports,Auditory,S9246F,Female,No,56.0,17.0,3.0,16.0,6.0,96.0,21:00,5:00,public transport,yellow
+5349,0,No,Arts,Auditory,5VGHQT,Male,No,64.0,15.0,6.0,15.0,14.0,94.0,21:00,5:00,public transport,white
+5354,1,No,Arts,Visual,H3II5K,Male,No,45.0,19.0,11.0,16.0,15.0,98.0,22:00,6:00,private transport,yellow
+5355,2,No,Sports,Auditory,4982TK,Female,No,45.0,10.0,13.0,16.0,13.0,51.0,0:00,5:00,public transport,black
+5360,0,No,Sports,Auditory,QS4311,Female,Yes,71.0,20.0,3.0,15.0,19.0,99.0,23:00,7:00,walk,black
+5364,1,Yes,,Auditory,4NBAT8,Male,Yes,73.0,12.0,8.0,15.0,17.0,94.0,23:00,7:00,walk,blue
+5370,1,No,Clubs,Auditory,B6A7OF,Male,No,57.0,22.0,6.0,16.0,9.0,,21:30,5:30,public transport,red
+5378,0,No,,Auditory,L1PKRW,Female,Yes,90.0,0.0,22.0,15.0,7.0,98.0,22:30,6:30,private transport,red
+5381,1,No,Sports,Auditory,AE4WJE,Male,No,41.0,18.0,10.0,16.0,3.0,,0:30,5:30,public transport,black
+5387,1,No,Clubs,Auditory,2COLDG,Female,Yes,59.0,4.0,23.0,15.0,17.0,92.0,22:30,6:30,private transport,green
+5397,1,Yes,Arts,Auditory,GBNFKP,Male,No,45.0,13.0,11.0,16.0,3.0,,22:00,6:00,private transport,green
+5400,2,No,Sports,Visual,04ZIOL,Male,Yes,77.0,16.0,1.0,15.0,10.0,99.0,22:00,6:00,private transport,yellow
+5423,0,Yes,,Visual,1ZGGAV,Male,Yes,83.0,18.0,0.0,15.0,7.0,98.0,21:00,5:00,public transport,black
+5433,2,No,Arts,Visual,FBGTE7,Female,Yes,59.0,7.0,15.0,15.0,9.0,99.0,22:30,6:30,private transport,yellow
+5437,1,No,Arts,Auditory,WH3IG2,Male,Yes,67.0,28.0,0.0,16.0,5.0,96.0,21:30,5:30,public transport,yellow
+5441,0,Yes,,Visual,P0T1H4,Male,Yes,89.0,11.0,6.0,15.0,5.0,96.0,21:00,5:00,public transport,black
+5443,2,No,Arts,Visual,FBGTE7,Female,Yes,59.0,7.0,15.0,15.0,9.0,99.0,22:30,6:30,private transport,red
+5459,0,No,,Auditory,UMN48V,Female,Yes,69.0,18.0,3.0,15.0,12.0,98.0,21:00,5:00,public transport,green
+5490,1,Yes,Sports,Visual,ZP3370,Female,No,57.0,13.0,14.0,15.0,16.0,99.0,21:00,5:00,public transport,yellow
+5496,1,Yes,Arts,Auditory,F6G78J,Female,Yes,79.0,11.0,9.0,16.0,7.0,91.0,21:00,5:00,public transport,green
+5505,1,No,Clubs,Visual,IU2XCI,Female,No,49.0,27.0,3.0,15.0,9.0,92.0,22:00,6:00,private transport,yellow
+5513,0,Yes,Sports,Visual,TWU5BG,Female,No,69.0,8.0,8.0,16.0,13.0,90.0,22:00,6:00,private transport,white
+5526,2,No,Sports,Visual,DSOKGQ,Male,Yes,60.0,18.0,4.0,15.0,14.0,96.0,21:30,5:30,public transport,white
+5532,1,Yes,Sports,Visual,OY6LCE,Female,No,61.0,21.0,6.0,15.0,7.0,91.0,23:00,6:00,private transport,yellow
+5534,0,No,Clubs,Auditory,00811H,Female,Yes,88.0,21.0,4.0,15.0,8.0,92.0,23:00,7:00,walk,green
+5565,1,No,Arts,Visual,8QCRRP,Male,Yes,39.0,20.0,10.0,15.0,5.0,97.0,22:00,6:00,private transport,green
+5570,0,Yes,,Auditory,66TAYO,Female,Yes,84.0,9.0,12.0,16.0,8.0,92.0,21:00,5:00,public transport,blue
+5582,0,No,Arts,Visual,PID9XK,Female,No,93.0,20.0,3.0,16.0,6.0,94.0,22:00,6:00,private transport,yellow
+5589,2,Yes,Clubs,Visual,Q89W3K,Female,No,72.0,12.0,8.0,16.0,16.0,96.0,21:30,5:30,public transport,black
+5596,2,No,Arts,Auditory,MYNFFK,Female,Yes,72.0,20.0,1.0,16.0,5.0,91.0,21:30,5:30,public transport,red
+5599,1,No,Arts,Visual,QEGPC7,Female,No,51.0,22.0,3.0,15.0,8.0,92.0,21:30,5:30,public transport,white
+5600,1,Yes,,Auditory,59KP6U,Female,No,86.0,15.0,2.0,15.0,9.0,95.0,22:30,6:30,private transport,blue
+5603,1,Yes,ARTS,Visual,T0WZ6S,Male,Yes,82.0,10.0,7.0,16.0,9.0,99.0,21:30,5:30,public transport,black
+5607,1,No,Sports,Visual,YOXCDD,Female,Y,72.0,13.0,11.0,16.0,5.0,92.0,23:00,7:00,walk,black
+5626,0,Yes,,Visual,3QVQRH,Male,No,87.0,16.0,1.0,15.0,8.0,99.0,21:00,5:00,public transport,white
+5638,1,No,,Visual,JSJL24,Female,Yes,60.0,23.0,5.0,15.0,11.0,96.0,23:00,7:00,walk,black
+5652,1,No,Arts,Visual,TPY232,Male,No,,17.0,13.0,16.0,3.0,97.0,22:30,6:30,private transport,green
+5679,1,No,Sports,Auditory,3JZ09C,Male,No,,27.0,3.0,15.0,9.0,66.0,2:00,7:00,walk,black
+5704,0,No,,Visual,QX5ETD,Male,No,85.0,15.0,9.0,15.0,9.0,98.0,21:00,5:00,public transport,red
+5720,1,No,,Auditory,G98UC2,Female,Yes,70.0,13.0,9.0,16.0,8.0,97.0,21:30,5:30,public transport,green
+5737,1,No,Arts,Auditory,2DGNTH,Female,Yes,54.0,13.0,11.0,15.0,12.0,98.0,21:00,5:00,public transport,white
+5739,1,Yes,Clubs,Visual,1HHJLH,Female,Yes,100.0,16.0,1.0,16.0,10.0,99.0,23:00,7:00,walk,black
+5746,1,No,Sports,Auditory,R9PH9R,Female,Yes,63.0,25.0,2.0,15.0,7.0,94.0,21:00,5:00,public transport,red
+5759,0,Yes,ARTS,Auditory,AFZCI9,Male,No,74.0,17.0,2.0,16.0,6.0,93.0,23:00,7:00,walk,red
+5768,1,Yes,,Visual,KZNK3V,Female,No,82.0,5.0,12.0,16.0,9.0,100.0,22:30,6:30,private transport,yellow
+5778,1,No,Clubs,Auditory,YVGQ91,Male,No,41.0,21.0,3.0,16.0,3.0,72.0,0:30,5:30,public transport,green
+5795,0,No,ARTS,Auditory,4JDJH1,Female,Yes,94.0,0.0,21.0,15.0,8.0,93.0,22:30,6:30,private transport,blue
+5800,2,No,Clubs,Visual,RPZIIS,Female,Yes,58.0,6.0,16.0,16.0,9.0,98.0,21:00,5:00,public transport,blue
+5804,1,Yes,,Auditory,Y0JPB2,Female,No,49.0,23.0,6.0,16.0,2.0,96.0,23:00,7:00,walk,black
+5808,0,Yes,,Visual,NVYLLN,Female,Yes,88.0,6.0,11.0,16.0,9.0,,23:00,7:00,walk,black
+5811,2,No,Clubs,Visual,QWGP8F,Male,Yes,50.0,17.0,5.0,15.0,10.0,92.0,22:00,6:00,private transport,red
+5816,0,No,,Visual,EA2Q8N,Female,Yes,78.0,16.0,12.0,15.0,6.0,97.0,21:30,5:30,public transport,white
+5819,1,No,Arts,Auditory,BUTA3Q,Male,Yes,61.0,22.0,0.0,16.0,18.0,92.0,22:00,6:00,private transport,green
+5826,2,No,Sports,Visual,V59CSM,Male,No,55.0,20.0,2.0,15.0,14.0,95.0,23:00,7:00,walk,green
+5830,2,No,Sports,Auditory,DR1FAF,Female,Yes,64.0,20.0,0.0,15.0,16.0,92.0,21:30,5:30,public transport,yellow
+5835,1,No,Clubs,Visual,YQX3LS,Male,Yes,64.0,19.0,9.0,15.0,9.0,98.0,22:00,6:00,private transport,yellow
+5855,0,Yes,,Auditory,W2F3Q2,Male,No,,10.0,9.0,16.0,9.0,92.0,23:00,7:00,walk,white
+5877,0,No,,Visual,8IL2XC,Male,Yes,85.0,16.0,7.0,15.0,9.0,96.0,21:30,5:30,public transport,green
+5904,1,Yes,Sports,Auditory,61GAWW,Male,Yes,51.0,10.0,15.0,15.0,14.0,91.0,21:00,5:00,public transport,black
+5910,2,No,,Auditory,61H1O8,Female,Yes,73.0,4.0,19.0,16.0,16.0,95.0,22:30,6:30,private transport,white
+5915,2,No,Sports,Visual,4KXFIM,Male,Yes,67.0,17.0,4.0,16.0,6.0,92.0,23:00,7:00,walk,white
+5924,1,No,Sports,Auditory,MNNXPW,Female,No,51.0,4.0,26.0,15.0,0.0,100.0,21:30,5:30,public transport,black
+5931,2,No,,Auditory,1IFUCT,Male,Yes,67.0,17.0,6.0,15.0,12.0,90.0,23:00,6:00,private transport,yellow
+5932,1,No,Arts,Auditory,GMTL3N,Female,No,55.0,2.0,29.0,15.0,6.0,94.0,23:00,7:00,walk,black
+5954,2,No,,Visual,14WTWN,Male,No,71.0,12.0,10.0,15.0,11.0,100.0,21:30,5:30,public transport,red
+5961,2,No,Arts,Visual,Z4TVJ5,Female,Yes,60.0,21.0,1.0,15.0,20.0,95.0,22:00,6:00,private transport,green
+5978,1,Yes,Arts,Auditory,7DQJHV,Male,No,41.0,10.0,18.0,16.0,13.0,63.0,0:00,6:00,private transport,black
+5986,2,No,Arts,Auditory,V8R7TG,Female,Yes,49.0,14.0,10.0,16.0,2.0,50.0,1:00,6:00,private transport,yellow
+5992,1,Yes,Clubs,Auditory,7JS3KS,Female,Yes,69.0,5.0,14.0,15.0,9.0,,22:00,5:00,public transport,red
+5997,2,No,SPORTS,Auditory,MQZHC6,Male,Yes,74.0,17.0,6.0,15.0,18.0,,23:00,7:00,walk,white
+6005,2,No,Arts,Visual,4O7IMP,Male,No,82.0,17.0,0.0,15.0,10.0,95.0,22:00,6:00,private transport,blue
+6013,0,No,Arts,Auditory,8DWL0R,Female,Yes,69.0,7.0,15.0,16.0,15.0,91.0,22:00,6:00,private transport,white
+6034,0,No,,Auditory,S6N6TD,Male,No,96.0,16.0,5.0,15.0,9.0,97.0,23:00,7:00,walk,green
+6051,2,No,Arts,Auditory,KTYICR,Female,No,53.0,6.0,13.0,15.0,7.0,96.0,22:00,6:00,private transport,yellow
+6065,0,No,Arts,Auditory,IFXB6B,Female,Yes,58.0,14.0,8.0,15.0,11.0,96.0,21:30,5:30,public transport,yellow
+6068,1,No,Sports,Visual,WFQJLC,Female,No,54.0,6.0,24.0,15.0,14.0,93.0,22:00,6:00,private transport,white
+6089,0,No,Arts,Auditory,A18XLN,Female,No,55.0,6.0,15.0,16.0,16.0,95.0,22:30,6:30,private transport,white
+6091,0,No,Arts,Visual,8BFF7Z,Female,Yes,71.0,20.0,1.0,16.0,8.0,92.0,21:30,5:30,public transport,blue
+6100,0,Yes,Sports,Auditory,6HMPHY,Female,No,82.0,3.0,17.0,16.0,10.0,94.0,22:00,6:00,private transport,green
+6110,2,No,Arts,Visual,V41EV7,Female,No,75.0,22.0,0.0,16.0,15.0,92.0,22:30,6:30,private transport,green
+6126,1,No,Sports,Auditory,Q9TF2P,Male,No,40.0,20.0,4.0,15.0,6.0,83.0,23:30,6:30,private transport,white
+6132,0,No,Arts,Auditory,1MMVVD,Male,No,62.0,20.0,7.0,15.0,15.0,96.0,21:00,5:00,public transport,blue
+6149,1,No,Clubs,Auditory,EAV77P,Male,Yes,59.0,13.0,14.0,16.0,12.0,96.0,23:00,7:00,walk,blue
+6151,0,No,,Visual,NM9I2X,Male,Yes,92.0,19.0,0.0,15.0,9.0,99.0,22:30,6:30,private transport,green
+6155,0,No,Sports,Auditory,Z0F1EU,Female,Yes,69.0,9.0,12.0,16.0,14.0,97.0,21:30,5:30,public transport,yellow
+6169,1,No,Sports,Auditory,05AHNU,Male,Yes,54.0,14.0,17.0,15.0,17.0,,21:30,5:30,public transport,green
+6176,2,No,,Auditory,4TSXSR,Male,Yes,64.0,20.0,0.0,16.0,11.0,99.0,21:00,5:00,public transport,white
+6177,1,No,SPORTS,Auditory,68490Y,Female,No,43.0,29.0,1.0,15.0,13.0,85.0,0:00,7:00,walk,yellow
+6185,1,Yes,Arts,Auditory,6HS752,Female,No,39.0,27.0,1.0,16.0,6.0,74.0,0:00,7:00,walk,blue
+6208,2,No,Arts,Visual,IKJKS1,Male,Yes,59.0,18.0,4.0,6.0,12.0,99.0,21:30,5:30,public transport,white
+6212,1,No,Sports,Visual,U4N0Y0,Male,No,59.0,11.0,15.0,16.0,12.0,98.0,22:00,6:00,private transport,black
+6231,2,No,Clubs,Visual,HEKGIP,Male,Yes,78.0,11.0,6.0,16.0,10.0,97.0,21:30,5:30,public transport,white
+6236,1,No,Arts,Auditory,J9XDP1,Male,Yes,62.0,10.0,18.0,15.0,19.0,98.0,21:00,5:00,public transport,yellow
+6241,1,Yes,Sports,Visual,NTGXIW,Female,No,98.0,16.0,1.0,15.0,7.0,95.0,22:00,6:00,private transport,green
+6246,0,No,Arts,Auditory,EBO48V,Female,Yes,65.0,3.0,19.0,15.0,10.0,99.0,22:00,6:00,private transport,white
+6262,0,No,Clubs,Auditory,XEAOA6,Female,Yes,93.0,3.0,19.0,16.0,6.0,96.0,23:00,7:00,walk,blue
+6263,0,No,,Visual,5O3G6D,Female,No,71.0,10.0,18.0,16.0,12.0,94.0,23:30,6:30,private transport,red
+6272,1,Yes,Arts,Visual,IHBECA,Female,No,47.0,17.0,13.0,16.0,4.0,96.0,22:30,6:30,private transport,black
+6276,1,No,Arts,Visual,DMORI2,Female,No,47.0,8.0,17.0,15.0,8.0,,21:30,5:30,public transport,red
+6283,0,No,Sports,Auditory,5RAGXE,Female,Yes,72.0,19.0,1.0,15.0,15.0,97.0,21:30,5:30,public transport,blue
+6303,1,No,Arts,Auditory,6PFUUL,Female,No,57.0,29.0,2.0,15.0,15.0,97.0,21:00,5:00,public transport,blue
+6320,0,No,,Auditory,81BSG7,Female,Yes,93.0,22.0,0.0,16.0,9.0,98.0,23:00,7:00,walk,black
+6323,0,No,Clubs,Visual,1Z5LON,Male,No,69.0,19.0,1.0,15.0,20.0,100.0,22:00,6:00,private transport,blue
+6327,0,No,Arts,Visual,S4WRFQ,Female,Yes,94.0,8.0,15.0,16.0,6.0,96.0,21:30,5:30,public transport,white
+6341,0,No,Clubs,Auditory,G7768S,Male,Yes,55.0,16.0,11.0,16.0,16.0,99.0,22:30,6:30,private transport,white
+6347,1,Yes,Arts,Visual,K8IPMC,Male,Yes,81.0,13.0,4.0,16.0,7.0,93.0,23:00,7:00,walk,green
+6353,1,No,Sports,Auditory,M1EDGK,Female,No,51.0,8.0,21.0,15.0,6.0,94.0,21:00,5:00,public transport,red
+6367,1,No,Clubs,Auditory,D3NP5G,Male,No,48.0,23.0,2.0,15.0,6.0,67.0,23:30,5:30,public transport,yellow
+6377,0,No,Sports,Visual,ET7ZPN,Female,No,67.0,5.0,23.0,16.0,15.0,97.0,21:30,5:30,public transport,red
+6378,0,Yes,Sports,Auditory,GOLEVQ,Male,Yes,77.0,19.0,1.0,16.0,7.0,92.0,21:30,5:30,public transport,green
+6388,0,No,Sports,Visual,AXF2FL,Male,Yes,96.0,16.0,7.0,16.0,9.0,92.0,22:00,6:00,private transport,white
+6401,1,Yes,Arts,Auditory,ZRBRLN,Female,No,42.0,10.0,14.0,16.0,5.0,91.0,22:00,6:00,private transport,green
+6430,0,No,Clubs,Auditory,OJG0AF,Male,No,74.0,12.0,8.0,15.0,9.0,92.0,23:00,6:00,private transport,yellow
+6431,2,No,Clubs,Auditory,QVLYGV,Female,No,39.0,9.0,15.0,15.0,4.0,98.0,23:00,7:00,walk,blue
+6432,0,No,Sports,Auditory,STRDMJ,Female,No,89.0,13.0,9.0,16.0,8.0,99.0,22:30,6:30,private transport,black
+6438,1,No,Clubs,Visual,WMR8O3,Male,Yes,64.0,15.0,13.0,15.0,17.0,99.0,23:00,7:00,walk,black
+6440,1,No,Clubs,Visual,JW5DX5,Male,Yes,80.0,16.0,9.0,16.0,8.0,94.0,21:00,5:00,public transport,yellow
+6462,2,Yes,Sports,Auditory,OIF44K,Male,No,58.0,10.0,6.0,15.0,8.0,90.0,22:00,6:00,private transport,red
+6466,0,No,Sports,Visual,IATDNC,Male,Yes,76.0,17.0,11.0,16.0,11.0,99.0,22:00,6:00,private transport,white
+6469,1,No,Clubs,Auditory,UTSKN5,Female,Y,70.0,22.0,0.0,16.0,10.0,96.0,22:30,6:30,private transport,black
+6474,2,Yes,Arts,Visual,XVALGO,Female,No,84.0,17.0,1.0,16.0,9.0,99.0,22:00,6:00,private transport,blue
+6477,2,Yes,Clubs,Visual,2LAMEL,Male,Yes,79.0,14.0,0.0,16.0,7.0,90.0,21:00,5:00,public transport,white
+6485,0,No,Sports,Auditory,Y1L5G4,Male,Yes,96.0,18.0,3.0,16.0,10.0,92.0,23:00,6:00,private transport,white
+6494,0,No,Clubs,Visual,2ANZ0L,Male,No,76.0,17.0,11.0,16.0,15.0,94.0,21:00,5:00,public transport,green
+6495,1,No,Clubs,Visual,01TIS7,Female,Yes,64.0,6.0,21.0,16.0,9.0,97.0,23:00,7:00,walk,black
+6505,1,Yes,NONE,Auditory,TAJ9ZY,Female,Yes,71.0,11.0,9.0,16.0,8.0,98.0,22:30,6:30,private transport,white
+6514,2,No,Sports,Auditory,4J7TMN,Female,Yes,53.0,9.0,10.0,15.0,12.0,90.0,22:00,6:00,private transport,black
+6515,0,No,Arts,Auditory,DS2MIF,Male,No,58.0,19.0,2.0,16.0,15.0,95.0,21:00,5:00,public transport,black
+6521,1,No,Arts,Auditory,4D67WS,Female,Yes,62.0,12.0,16.0,5.0,9.0,97.0,23:00,7:00,walk,yellow
+6522,1,Yes,,Auditory,NJ6RHX,Male,Yes,81.0,18.0,1.0,16.0,7.0,92.0,21:00,5:00,public transport,red
+6523,0,Yes,Arts,Visual,ROVUHN,Female,Yes,85.0,6.0,11.0,15.0,10.0,91.0,23:00,7:00,walk,black
+6535,0,No,Arts,Visual,X71H7R,Female,Yes,90.0,6.0,17.0,16.0,7.0,98.0,21:00,5:00,public transport,yellow
+6548,1,No,,Visual,0AOG2R,Male,No,55.0,21.0,6.0,16.0,13.0,99.0,22:30,6:30,private transport,blue
+6549,0,Yes,,Auditory,A2Q126,Female,Yes,72.0,10.0,6.0,16.0,8.0,96.0,21:00,5:00,public transport,red
+6558,0,No,Clubs,Visual,VFVIN6,Male,Yes,93.0,11.0,8.0,16.0,9.0,98.0,21:00,5:00,public transport,yellow
+6561,0,No,,Auditory,EGHRMT,Male,No,63.0,17.0,10.0,16.0,8.0,94.0,21:00,5:00,public transport,blue
+6586,1,No,Sports,Visual,SNAYT3,Male,No,59.0,19.0,8.0,16.0,12.0,98.0,22:00,6:00,private transport,white
+6595,0,No,Sports,Auditory,0YCVU5,Female,N,61.0,15.0,7.0,16.0,8.0,90.0,22:30,6:30,private transport,white
+6600,1,No,Sports,Visual,H7MQIL,Female,Yes,66.0,10.0,14.0,16.0,14.0,93.0,22:00,6:00,private transport,black
+6607,0,Yes,Sports,Visual,XWPT07,Male,Yes,71.0,10.0,6.0,16.0,15.0,93.0,22:30,6:30,private transport,blue
+6616,1,No,Clubs,Auditory,1IHWNO,Female,No,63.0,1.0,26.0,16.0,19.0,98.0,21:00,5:00,public transport,green
+6617,0,No,Arts,Auditory,FQR1TO,Female,Yes,68.0,19.0,8.0,16.0,14.0,92.0,23:00,7:00,walk,blue
+6643,1,No,Arts,Auditory,W46GBE,Female,Yes,64.0,21.0,7.0,15.0,14.0,91.0,22:30,6:30,private transport,white
+6654,1,No,Sports,Auditory,ZGVJX8,Female,Yes,,3.0,25.0,16.0,8.0,97.0,22:00,6:00,private transport,green
+6659,2,Yes,,Visual,GNHKNR,Male,Yes,72.0,15.0,0.0,6.0,18.0,98.0,23:00,7:00,walk,red
+6687,1,Yes,,Auditory,A0VIUZ,Male,Yes,87.0,17.0,0.0,15.0,6.0,96.0,22:00,6:00,private transport,black
+6704,0,Yes,,Visual,OHSBJ0,Male,Yes,91.0,12.0,4.0,15.0,7.0,95.0,22:30,6:30,private transport,blue
+6706,2,No,Clubs,Auditory,GDY8Z3,Female,No,76.0,21.0,0.0,15.0,13.0,94.0,21:30,5:30,public transport,red
+6718,0,No,Sports,Auditory,M09D79,Male,Yes,70.0,14.0,8.0,15.0,18.0,97.0,21:00,5:00,public transport,red
+6739,1,No,Arts,Visual,FTTCSA,Male,No,52.0,29.0,1.0,16.0,8.0,,22:00,6:00,private transport,white
+6745,2,No,,Visual,5XX9PG,Male,No,82.0,11.0,6.0,16.0,6.0,100.0,22:00,6:00,private transport,white
+6747,0,Yes,Arts,Auditory,F4UOZV,Female,Y,72.0,16.0,0.0,15.0,15.0,100.0,21:30,5:30,public transport,green
+6755,0,No,,Auditory,4U802W,Female,No,83.0,3.0,20.0,16.0,9.0,97.0,22:00,6:00,private transport,white
+6760,0,Yes,,Auditory,LRXX7A,Female,Yes,83.0,7.0,8.0,15.0,7.0,,23:30,6:30,private transport,white
+6774,1,Yes,,Visual,LX7ZIU,Female,No,92.0,15.0,6.0,15.0,6.0,97.0,23:00,7:00,walk,yellow
+6847,2,Yes,Sports,Auditory,LFSBYL,Male,No,40.0,17.0,6.0,16.0,6.0,93.0,22:30,6:30,private transport,blue
+6860,1,Yes,Clubs,Auditory,OKY0G2,Female,Yes,79.0,17.0,0.0,15.0,5.0,97.0,23:00,7:00,walk,black
+6861,0,No,Sports,Auditory,U5WTR1,Male,Yes,69.0,19.0,3.0,15.0,13.0,93.0,22:30,6:30,private transport,red
+6881,2,No,Clubs,Auditory,JQ88WQ,Female,No,56.0,5.0,15.0,16.0,9.0,94.0,23:00,7:00,walk,blue
+6884,1,Yes,,Auditory,N9AT7R,Female,Yes,79.0,17.0,0.0,16.0,5.0,92.0,21:30,5:30,public transport,blue
+6901,0,No,,Visual,KY4GY6,Male,Yes,83.0,14.0,10.0,16.0,9.0,96.0,22:30,6:30,private transport,black
+6902,2,No,,Auditory,MZO1UF,Male,No,73.0,13.0,8.0,16.0,14.0,93.0,23:00,7:00,walk,yellow
+6915,2,No,Arts,Auditory,T1ZAQG,Male,No,40.0,22.0,1.0,16.0,12.0,,23:00,5:00,public transport,blue
+6921,0,No,SPORTS,Auditory,5C3O2I,Female,No,55.0,5.0,16.0,16.0,9.0,95.0,21:30,5:30,public transport,green
+6925,1,Yes,Clubs,Visual,14CQRL,Female,No,,8.0,19.0,16.0,6.0,94.0,21:30,5:30,public transport,black
+6933,0,No,ARTS,Visual,V4EKOT,Female,Yes,79.0,21.0,3.0,16.0,7.0,94.0,22:30,6:30,private transport,red
+6938,0,No,Sports,Auditory,BYQ2JD,Male,Yes,64.0,18.0,4.0,16.0,12.0,93.0,23:00,7:00,walk,black
+6982,2,No,Arts,Auditory,AJRPSG,Male,Yes,55.0,21.0,1.0,16.0,17.0,97.0,21:00,5:00,public transport,black
+6984,1,No,Arts,Visual,Q5XP50,Male,Yes,71.0,14.0,11.0,15.0,8.0,95.0,23:00,7:00,walk,red
+6998,0,No,Clubs,Visual,VL62EJ,Male,No,88.0,15.0,4.0,15.0,5.0,97.0,23:00,7:00,walk,yellow
+7009,1,No,Arts,Visual,5FXKIW,Female,No,56.0,15.0,11.0,16.0,11.0,90.0,21:30,5:30,public transport,white
+7011,0,No,,Visual,XXB3E8,Female,No,71.0,19.0,9.0,16.0,7.0,90.0,22:00,5:00,public transport,red
+7024,0,No,,Visual,BZ44I6,Female,Yes,70.0,10.0,17.0,16.0,5.0,96.0,21:30,5:30,public transport,yellow
+7030,0,No,Sports,Auditory,876NF3,Female,Yes,54.0,16.0,5.0,15.0,11.0,100.0,22:00,6:00,private transport,white
+7045,2,No,Arts,Visual,5I3Q5C,Male,Y,56.0,18.0,4.0,16.0,10.0,92.0,22:30,6:30,private transport,green
+7052,2,No,Clubs,Visual,SSTUKV,Male,Yes,52.0,22.0,0.0,15.0,11.0,90.0,23:00,7:00,walk,red
+7084,2,Yes,,Visual,9ARSJ8,Male,No,79.0,11.0,7.0,16.0,7.0,99.0,21:30,5:30,public transport,black
+7091,2,Yes,Clubs,Auditory,4LMTR4,Male,No,62.0,10.0,6.0,16.0,12.0,93.0,22:30,6:30,private transport,black
+7092,1,No,Sports,Auditory,946UV0,Female,Yes,41.0,16.0,8.0,15.0,3.0,78.0,22:00,6:00,private transport,black
+7099,1,Yes,Arts,Auditory,P86ZJL,Male,Yes,78.0,10.0,7.0,16.0,7.0,93.0,21:30,5:30,public transport,white
+7105,1,No,,Auditory,17ZHO1,Male,Yes,62.0,14.0,14.0,15.0,18.0,92.0,22:00,6:00,private transport,black
+7107,1,No,,Visual,5V745I,Female,Yes,66.0,7.0,17.0,15.0,6.0,95.0,21:00,5:00,public transport,black
+7182,0,No,,Auditory,SBO0D3,Female,No,93.0,11.0,14.0,15.0,7.0,96.0,21:30,5:30,public transport,yellow
+7188,0,Yes,,Visual,I2P3ER,Male,No,81.0,10.0,7.0,16.0,9.0,,21:30,5:30,public transport,black
+7216,2,No,Sports,Auditory,6IU3K8,Male,No,59.0,15.0,5.0,16.0,7.0,98.0,23:00,7:00,walk,black
+7222,0,Yes,Arts,Visual,9X36P7,Female,Yes,70.0,15.0,1.0,16.0,5.0,92.0,23:00,7:00,walk,yellow
+7223,2,No,,Visual,IIEWDN,Female,Yes,56.0,3.0,15.0,16.0,18.0,92.0,23:00,7:00,walk,blue
+7227,1,Yes,Arts,Visual,NXHJ8B,Female,Yes,79.0,1.0,16.0,16.0,9.0,100.0,22:00,6:00,private transport,white
+7229,1,No,Clubs,Auditory,CDCHI6,Female,Yes,60.0,4.0,20.0,15.0,15.0,91.0,22:00,6:00,private transport,green
+7231,0,Yes,,Auditory,XYCKP3,Female,Yes,69.0,2.0,14.0,16.0,5.0,,22:30,6:30,private transport,black
+7232,0,Yes,Sports,Visual,3DQ6T8,Female,Yes,81.0,0.0,18.0,16.0,9.0,98.0,21:00,5:00,public transport,green
+7235,2,No,Sports,Visual,68SQ5B,Female,No,72.0,18.0,5.0,16.0,7.0,94.0,22:00,6:00,private transport,white
+7251,0,No,,Visual,5VSQNY,Female,Yes,65.0,11.0,9.0,16.0,7.0,91.0,23:00,7:00,walk,green
+7271,2,No,Arts,Auditory,465TRG,Female,No,58.0,13.0,7.0,15.0,20.0,94.0,23:00,7:00,walk,black
+7273,0,No,,Auditory,VYSS65,Male,No,71.0,20.0,2.0,15.0,11.0,93.0,21:00,5:00,public transport,blue
+7280,0,No,Sports,Auditory,391LA5,Female,No,69.0,0.0,21.0,15.0,15.0,94.0,21:00,5:00,public transport,red
+7298,2,No,Sports,Auditory,4IC5QK,Female,Yes,59.0,8.0,12.0,16.0,18.0,96.0,22:30,6:30,private transport,blue
+7309,0,Yes,Clubs,Visual,ERMZTB,Male,Yes,78.0,14.0,2.0,16.0,10.0,98.0,21:30,5:30,public transport,blue
+7311,0,Yes,Sports,Auditory,6DWHHT,Male,Yes,73.0,13.0,2.0,16.0,13.0,91.0,23:30,6:30,private transport,red
+7338,2,No,Arts,Visual,55KM7X,Male,Yes,72.0,12.0,10.0,15.0,14.0,98.0,22:00,6:00,private transport,green
+7341,2,No,,Auditory,QYPRT5,Female,Yes,74.0,12.0,7.0,16.0,11.0,91.0,22:00,6:00,private transport,blue
+7350,2,No,Sports,Visual,NAEHSH,Female,Yes,80.0,17.0,0.0,16.0,6.0,92.0,21:00,5:00,public transport,green
+7356,0,Yes,Sports,Visual,OVCOXJ,Male,Yes,87.0,11.0,7.0,16.0,10.0,95.0,22:30,6:30,private transport,white
+7358,1,No,Sports,Visual,UYT22R,Female,No,59.0,27.0,3.0,15.0,5.0,97.0,22:30,6:30,private transport,green
+7364,2,No,CLUBS,Auditory,UEXALD,Female,No,56.0,19.0,1.0,16.0,12.0,95.0,21:00,5:00,public transport,red
+7370,0,No,,Visual,WM03B7,Female,No,93.0,19.0,4.0,16.0,9.0,90.0,21:30,5:30,public transport,green
+7375,1,No,Arts,Auditory,F8WO7C,Male,No,46.0,23.0,6.0,15.0,11.0,95.0,22:30,6:30,private transport,white
+7417,0,No,Sports,Auditory,S12AK7,Female,Yes,58.0,9.0,13.0,15.0,15.0,99.0,23:00,7:00,walk,blue
+7418,2,Yes,Sports,Visual,SZPAFT,Female,Yes,76.0,10.0,10.0,15.0,14.0,95.0,22:00,6:00,private transport,red
+7434,0,Yes,Arts,Visual,7GE0JI,Female,No,79.0,8.0,10.0,16.0,8.0,94.0,23:00,7:00,walk,green
+7440,1,No,Arts,Auditory,GMTL3N,Female,No,55.0,2.0,29.0,15.0,6.0,94.0,23:00,7:00,walk,green
+7447,1,Yes,,Auditory,0QYPMS,Male,Yes,85.0,12.0,10.0,15.0,8.0,91.0,21:00,5:00,public transport,black
+7449,0,Yes,,Visual,OAD776,Female,Yes,79.0,16.0,2.0,15.0,8.0,95.0,21:00,5:00,public transport,black
+7459,0,Yes,Sports,Visual,35PQCL,Female,No,77.0,6.0,9.0,15.0,6.0,90.0,22:00,6:00,private transport,green
+7470,2,No,Arts,Visual,LVIW95,Male,Yes,78.0,10.0,7.0,16.0,9.0,98.0,22:00,6:00,private transport,green
+7473,1,Yes,Arts,Auditory,5XO2QC,Male,Yes,46.0,17.0,7.0,15.0,3.0,84.0,22:00,6:00,private transport,blue
+7491,0,No,,Auditory,00MWIQ,Female,No,77.0,20.0,2.0,16.0,8.0,94.0,21:30,5:30,public transport,red
+7500,1,Yes,,Visual,DZ1RVN,Female,No,84.0,12.0,5.0,16.0,8.0,94.0,22:30,6:30,private transport,yellow
+7522,0,Yes,,Visual,QQOU4Z,Male,No,85.0,14.0,6.0,16.0,8.0,91.0,21:30,5:30,public transport,black
+7542,1,Yes,Arts,Auditory,E7QGHW,Female,No,80.0,8.0,13.0,15.0,8.0,100.0,22:00,6:00,private transport,green
+7558,0,No,Arts,Visual,RGCRSE,Female,Yes,78.0,12.0,12.0,16.0,7.0,,21:30,5:30,public transport,red
+7560,0,Yes,Arts,Auditory,8P9F42,Female,Yes,72.0,1.0,15.0,16.0,12.0,99.0,22:00,6:00,private transport,yellow
+7566,1,No,Sports,Auditory,TQ6V5N,Male,Yes,55.0,22.0,0.0,16.0,13.0,90.0,21:00,5:00,public transport,red
+7582,1,No,Sports,Auditory,129N5I,Male,Yes,69.0,28.0,0.0,16.0,19.0,92.0,21:30,5:30,public transport,black
+7596,1,No,,Auditory,4COSQU,Female,Yes,61.0,18.0,6.0,15.0,15.0,,21:00,5:00,public transport,green
+7603,2,No,,Visual,IAQ6BI,Female,Yes,75.0,8.0,11.0,15.0,11.0,99.0,22:30,6:30,private transport,white
+7604,1,No,Clubs,Auditory,GR6RQK,Male,Yes,61.0,14.0,8.0,5.0,13.0,92.0,21:00,5:00,public transport,blue
+7606,2,No,Arts,Auditory,DS0QOH,Female,Yes,37.0,2.0,20.0,15.0,5.0,76.0,22:30,5:30,public transport,green
+7631,1,No,Clubs,Auditory,IDHEVU,Female,N,50.0,13.0,17.0,16.0,20.0,99.0,21:00,5:00,public transport,red
+7632,0,No,Sports,Auditory,ALUG3Y,Female,No,61.0,8.0,19.0,15.0,12.0,90.0,22:00,6:00,private transport,red
+7635,2,No,Clubs,Auditory,C1KOJI,Male,Yes,71.0,13.0,6.0,16.0,5.0,98.0,23:00,7:00,walk,yellow
+7642,1,No,Clubs,Auditory,WRUTNV,Male,Yes,51.0,19.0,12.0,15.0,12.0,93.0,21:30,5:30,public transport,yellow
+7662,1,Yes,Arts,Visual,Z3IV6U,Male,Yes,76.0,11.0,9.0,15.0,6.0,99.0,23:00,7:00,walk,yellow
+7667,1,No,,Auditory,RNVAY9,Male,Yes,62.0,20.0,8.0,15.0,5.0,93.0,23:00,7:00,walk,white
+7668,0,No,,Visual,J4HZ2U,Female,No,73.0,11.0,17.0,15.0,6.0,98.0,21:00,5:00,public transport,black
+7670,2,Yes,SPORTS,Visual,KSO7WQ,Male,Yes,79.0,12.0,2.0,5.0,7.0,92.0,21:30,5:30,public transport,blue
+7680,1,No,,Visual,NLBJCE,Female,Y,59.0,12.0,16.0,15.0,17.0,99.0,22:30,6:30,private transport,red
+7728,1,No,CLUBS,Auditory,J7S480,Female,No,43.0,14.0,10.0,16.0,7.0,93.0,22:00,6:00,private transport,yellow
+7740,1,Yes,Clubs,Visual,YFOK2W,Female,No,55.0,16.0,11.0,15.0,8.0,95.0,22:30,6:30,private transport,yellow
+7743,2,No,Clubs,Visual,VG6LXS,Male,No,71.0,12.0,11.0,16.0,8.0,98.0,23:00,7:00,walk,blue
+7750,0,Yes,Sports,Auditory,BFKHJL,Female,Yes,75.0,10.0,6.0,15.0,11.0,98.0,23:00,7:00,walk,green
+7751,0,Yes,Clubs,Visual,5KBBGL,Male,No,77.0,16.0,2.0,16.0,10.0,92.0,21:30,5:30,public transport,yellow
+7761,1,No,,Auditory,6J9E9G,Male,Yes,60.0,22.0,0.0,16.0,15.0,100.0,22:00,6:00,private transport,green
+7768,2,No,,Visual,O4CFHD,Male,No,74.0,23.0,0.0,15.0,20.0,93.0,21:00,5:00,public transport,blue
+7789,0,No,Arts,Auditory,HA5IBW,Female,No,70.0,16.0,7.0,16.0,13.0,98.0,21:30,5:30,public transport,black
+7797,0,Yes,Arts,Auditory,JXBYYG,Male,Yes,79.0,11.0,9.0,16.0,9.0,92.0,22:30,6:30,private transport,blue
+7817,2,No,,Auditory,MZO1UF,Male,No,73.0,13.0,8.0,16.0,14.0,93.0,23:00,7:00,walk,black
+7837,2,Yes,Sports,Auditory,7IEV3N,Female,No,48.0,18.0,1.0,16.0,14.0,91.0,22:00,6:00,private transport,green
+7844,2,Yes,Sports,Visual,ZGR449,Male,No,66.0,10.0,5.0,15.0,17.0,90.0,23:30,6:30,private transport,green
+7850,0,Yes,Sports,Auditory,04OI98,Male,Yes,80.0,15.0,5.0,15.0,7.0,94.0,22:30,6:30,private transport,black
+7856,0,No,Clubs,Auditory,C2RM63,Female,Yes,71.0,9.0,14.0,16.0,14.0,94.0,21:00,5:00,public transport,green
+7857,2,No,,Auditory,621JOU,Male,Yes,68.0,16.0,3.0,15.0,11.0,97.0,21:30,5:30,public transport,red
+7878,1,Yes,Clubs,Visual,1C5AON,Male,Yes,52.0,21.0,4.0,15.0,8.0,94.0,23:00,7:00,walk,blue
+7901,2,No,Sports,Auditory,C9FSGL,Female,Yes,70.0,21.0,0.0,15.0,12.0,95.0,22:00,6:00,private transport,blue
+7920,0,No,Clubs,Visual,DML9EY,Female,No,69.0,18.0,3.0,16.0,6.0,93.0,23:00,7:00,walk,blue
+7921,2,No,Arts,Auditory,96IK8F,Male,No,45.0,21.0,2.0,15.0,6.0,94.0,21:00,5:00,public transport,white
+7922,1,No,SPORTS,Visual,TZ4EN8,Male,Yes,51.0,14.0,12.0,16.0,6.0,90.0,22:30,6:30,private transport,white
+7930,1,No,Sports,Auditory,YVOL2W,Female,Yes,68.0,18.0,4.0,15.0,19.0,90.0,22:30,6:30,private transport,yellow
+7934,0,No,Clubs,Auditory,773ECK,Male,No,56.0,18.0,4.0,16.0,16.0,93.0,22:30,6:30,private transport,red
+7940,2,No,Sports,Visual,ICUZR6,Male,No,68.0,10.0,13.0,15.0,17.0,97.0,21:00,5:00,public transport,blue
+7952,2,No,Sports,Auditory,TPKKIC,Female,Y,68.0,23.0,0.0,15.0,15.0,96.0,21:30,5:30,public transport,white
+7964,1,No,Arts,Auditory,C1024M,Male,Yes,63.0,18.0,4.0,15.0,17.0,97.0,21:30,5:30,public transport,black
+7977,1,No,Arts,Auditory,L5PVB5,Female,No,53.0,29.0,0.0,16.0,13.0,97.0,21:00,5:00,public transport,red
+7994,1,No,,Auditory,49W2VU,Male,Yes,61.0,24.0,0.0,15.0,17.0,98.0,22:30,6:30,private transport,white
+7998,2,Yes,,Visual,5E10Z4,Male,No,79.0,15.0,3.0,15.0,5.0,91.0,23:00,7:00,walk,red
+8003,2,No,Arts,Auditory,5PBI2G,Male,No,54.0,16.0,6.0,15.0,12.0,99.0,22:30,6:30,private transport,yellow
+8011,1,No,Clubs,Auditory,BMGMH0,Male,Yes,64.0,26.0,1.0,15.0,7.0,91.0,21:30,5:30,public transport,green
+8025,0,Yes,Clubs,Auditory,LYOD95,Female,Yes,69.0,6.0,10.0,15.0,9.0,,21:30,5:30,public transport,white
+8028,1,No,Clubs,Auditory,JE5ITX,Female,Yes,56.0,11.0,16.0,15.0,17.0,95.0,22:00,6:00,private transport,green
+8031,1,No,Clubs,Auditory,BMGMH0,Male,Yes,64.0,26.0,1.0,15.0,7.0,91.0,21:30,5:30,public transport,yellow
+8040,0,No,Sports,Visual,Z34RCI,Female,Yes,75.0,8.0,15.0,16.0,6.0,91.0,21:30,5:30,public transport,red
+8055,1,Yes,Arts,Auditory,HY8J34,Male,No,47.0,14.0,11.0,15.0,14.0,91.0,22:30,6:30,private transport,black
+8060,0,No,,Auditory,FUITUC,Male,No,64.0,11.0,16.0,15.0,16.0,95.0,23:00,7:00,walk,blue
+8091,1,Yes,Clubs,Auditory,IDNMBT,Male,Yes,73.0,17.0,3.0,16.0,8.0,97.0,22:30,6:30,private transport,blue
+8103,2,No,Clubs,Auditory,ETWYJQ,Female,Yes,53.0,11.0,8.0,15.0,11.0,93.0,23:00,7:00,walk,white
+8113,1,No,Arts,Auditory,OYEPNQ,Male,Yes,59.0,19.0,5.0,16.0,8.0,98.0,21:30,5:30,public transport,white
+8117,1,No,SPORTS,Visual,IFW9U9,Male,Yes,61.0,27.0,1.0,15.0,7.0,,22:30,6:30,private transport,white
+8123,1,No,Arts,Auditory,3SICOA,Female,No,52.0,14.0,11.0,15.0,15.0,96.0,23:00,7:00,walk,green
+8131,1,Yes,,Auditory,4NBAT8,Male,Yes,73.0,12.0,8.0,15.0,17.0,94.0,23:00,7:00,walk,blue
+8143,0,No,Sports,Auditory,3UOMLE,Male,No,49.0,10.0,12.0,15.0,14.0,,0:30,6:30,private transport,white
+8160,0,No,Sports,Auditory,2PUBAO,Male,Yes,70.0,10.0,17.0,15.0,20.0,90.0,21:30,5:30,public transport,black
+8182,1,No,Clubs,Auditory,368SFF,Female,No,60.0,22.0,5.0,15.0,11.0,90.0,21:00,5:00,public transport,yellow
+8184,1,Yes,,Visual,RF9Q2G,Female,Yes,82.0,7.0,10.0,15.0,9.0,92.0,22:00,6:00,private transport,black
+8190,0,Yes,,Visual,4HWXDF,Male,Yes,82.0,13.0,4.0,15.0,6.0,99.0,21:30,5:30,public transport,blue
+8195,0,No,Clubs,Visual,DJLIY7,Male,No,76.0,27.0,1.0,15.0,7.0,100.0,23:00,7:00,walk,blue
+8204,1,Yes,Arts,Auditory,QBNJKU,Male,Yes,75.0,12.0,9.0,16.0,6.0,98.0,23:00,7:00,walk,black
+8208,0,No,,Visual,W06Y78,Male,Yes,62.0,20.0,0.0,15.0,10.0,99.0,21:00,5:00,public transport,red
+8222,0,No,Arts,Visual,2B4X7Z,Female,Yes,91.0,7.0,17.0,15.0,6.0,99.0,23:00,7:00,walk,black
+8223,1,Yes,,Auditory,AGVDVP,Female,Yes,71.0,8.0,12.0,15.0,14.0,97.0,21:00,5:00,public transport,green
+8230,2,No,Arts,Visual,QAXLTO,Female,No,74.0,2.0,17.0,16.0,9.0,99.0,22:00,6:00,private transport,red
+8235,0,No,,Visual,XU92OM,Female,No,90.0,6.0,19.0,15.0,9.0,91.0,22:00,6:00,private transport,red
+8253,0,Yes,,Auditory,LRXX7A,Female,Yes,83.0,7.0,8.0,15.0,7.0,90.0,23:30,6:30,private transport,yellow
+8265,0,No,Clubs,Visual,RJ2UTT,Male,No,91.0,23.0,0.0,16.0,5.0,97.0,22:00,6:00,private transport,black
+8267,1,Yes,NONE,Visual,J40VNM,Female,Y,,10.0,11.0,15.0,10.0,95.0,21:30,5:30,public transport,blue
+8268,0,Yes,Sports,Visual,TTLCOW,Female,No,68.0,2.0,14.0,16.0,6.0,99.0,21:30,5:30,public transport,white
+8277,0,No,Sports,Auditory,PA9C5V,Male,No,66.0,10.0,17.0,15.0,8.0,96.0,23:00,7:00,walk,black
+8285,1,No,Clubs,Visual,25PAWM,Female,N,58.0,13.0,13.0,16.0,10.0,96.0,23:00,7:00,walk,blue
+8289,1,No,Sports,Visual,WSMMI1,Male,No,50.0,25.0,5.0,15.0,7.0,69.0,1:00,7:00,walk,yellow
+8303,2,No,Sports,Auditory,64N723,Male,No,51.0,20.0,0.0,16.0,9.0,92.0,22:30,6:30,private transport,green
+8309,2,No,Clubs,Auditory,WE9710,Female,Yes,74.0,2.0,21.0,16.0,19.0,98.0,22:00,6:00,private transport,black
+8322,2,No,Sports,Visual,3SY2ZM,Female,Yes,70.0,15.0,7.0,16.0,19.0,96.0,21:30,5:30,public transport,green
+8348,1,No,Sports,Visual,E7P4F8,Female,No,53.0,22.0,8.0,16.0,17.0,97.0,22:30,6:30,private transport,blue
+8351,0,Yes,,Auditory,A2Q126,Female,Yes,72.0,10.0,6.0,16.0,8.0,96.0,21:00,5:00,public transport,yellow
+8356,0,Yes,ARTS,Auditory,25GI6X,Male,Yes,,14.0,2.0,15.0,13.0,92.0,0:00,7:00,walk,white
+8357,0,No,Arts,Auditory,H5Y11Z,Male,Yes,73.0,11.0,11.0,16.0,8.0,95.0,22:30,6:30,private transport,red
+8371,2,No,Arts,Auditory,LU4DF9,Female,Yes,58.0,18.0,0.0,15.0,7.0,96.0,21:00,5:00,public transport,blue
+8381,0,Yes,,Auditory,9ZF4X2,Male,Yes,75.0,16.0,0.0,16.0,18.0,96.0,23:00,7:00,walk,white
+8393,0,No,,Auditory,44XAV0,Female,Yes,95.0,0.0,21.0,16.0,7.0,95.0,22:30,6:30,private transport,white
+8400,1,Yes,Clubs,Auditory,5B7T3Y,Female,Yes,56.0,15.0,10.0,16.0,16.0,94.0,23:00,7:00,walk,yellow
+8407,1,Yes,Arts,Auditory,JDW4CA,Male,No,51.0,25.0,0.0,15.0,19.0,97.0,21:00,5:00,public transport,green
+8412,0,Yes,,Visual,OYPE03,Female,No,81.0,7.0,8.0,16.0,9.0,94.0,22:30,6:30,private transport,yellow
+8424,2,No,,Auditory,8AY6A3,Male,Yes,73.0,12.0,9.0,16.0,6.0,91.0,22:30,6:30,private transport,black
+8426,1,Yes,,Visual,47M22O,Male,No,100.0,16.0,1.0,16.0,9.0,94.0,22:30,6:30,private transport,yellow
+8428,2,Yes,Arts,Visual,K91QCO,Female,No,77.0,8.0,7.0,16.0,9.0,96.0,22:30,6:30,private transport,red
+8442,2,No,Arts,Auditory,X39Z85,Female,Yes,58.0,3.0,15.0,15.0,14.0,94.0,22:00,6:00,private transport,yellow
+8450,0,No,Clubs,Auditory,4X9T6L,Male,Yes,69.0,16.0,11.0,16.0,5.0,94.0,21:30,5:30,public transport,red
+8456,0,No,Sports,Auditory,JGJZYH,Male,Yes,74.0,17.0,4.0,16.0,5.0,93.0,22:00,6:00,private transport,white
+8477,0,No,,Auditory,5XGSUS,Female,Yes,90.0,14.0,8.0,15.0,6.0,95.0,22:00,6:00,private transport,yellow
+8482,1,No,Arts,Visual,Q77E3W,Male,Yes,72.0,17.0,7.0,16.0,17.0,100.0,22:30,6:30,private transport,green
+8502,2,Yes,Arts,Visual,KT2G5A,Male,No,70.0,15.0,0.0,15.0,17.0,100.0,21:30,5:30,public transport,blue
+8523,2,No,Sports,Visual,ZCNXVW,Male,No,72.0,15.0,7.0,15.0,19.0,,23:00,7:00,walk,black
+8530,2,No,,Auditory,UBHBWA,Male,Yes,60.0,15.0,7.0,16.0,6.0,93.0,21:00,5:00,public transport,red
+8531,1,Yes,,Visual,3XAW1R,Male,Yes,100.0,11.0,6.0,16.0,8.0,95.0,22:00,6:00,private transport,black
+8545,0,No,Arts,Visual,UMS1H5,Female,Yes,90.0,14.0,9.0,16.0,5.0,98.0,21:00,5:00,public transport,blue
+8547,1,Yes,Sports,Visual,ERSRHV,Female,No,98.0,17.0,0.0,15.0,5.0,92.0,21:30,5:30,public transport,red
+8564,2,No,Clubs,Visual,AQ313J,Male,No,61.0,23.0,0.0,15.0,8.0,93.0,21:00,5:00,public transport,yellow
+8567,1,No,Arts,Visual,1G3F2X,Male,Yes,59.0,24.0,4.0,16.0,19.0,93.0,22:30,6:30,private transport,black
+8573,2,No,SPORTS,Visual,48H426,Female,No,71.0,9.0,14.0,16.0,8.0,93.0,23:00,7:00,walk,black
+8591,1,Yes,Clubs,Auditory,DD842Q,Female,No,36.0,3.0,21.0,15.0,5.0,85.0,22:00,6:00,private transport,blue
+8594,0,No,Sports,Visual,1LFVOY,Female,No,91.0,5.0,18.0,16.0,9.0,95.0,23:00,7:00,walk,yellow
+8595,1,No,Arts,Auditory,5HAL2J,Female,Yes,51.0,26.0,4.0,15.0,10.0,92.0,22:30,6:30,private transport,yellow
+8610,1,No,Arts,Auditory,M2NUF8,Female,No,44.0,1.0,24.0,16.0,5.0,59.0,2:00,7:00,walk,yellow
+8613,2,No,Clubs,Auditory,YW5NR6,Male,No,59.0,13.0,7.0,16.0,5.0,95.0,22:00,6:00,private transport,red
+8622,0,Yes,Arts,Visual,1F3GDR,Male,No,83.0,15.0,2.0,15.0,7.0,92.0,23:00,7:00,walk,white
+8642,2,No,Arts,Visual,FUR85D,Male,Yes,68.0,22.0,1.0,16.0,7.0,,22:00,6:00,private transport,black
+8660,1,Yes,Arts,Auditory,67IZTI,Male,No,47.0,22.0,3.0,16.0,5.0,94.0,21:00,5:00,public transport,white
+8673,1,No,Arts,Auditory,J759E4,Male,Yes,61.0,11.0,11.0,16.0,6.0,92.0,22:00,5:00,public transport,green
+8680,0,No,Clubs,Visual,YR12T3,Male,No,74.0,25.0,3.0,15.0,6.0,93.0,21:00,5:00,public transport,black
+8686,0,No,Clubs,Visual,Z0VKC4,Female,Yes,81.0,0.0,24.0,15.0,9.0,97.0,23:00,7:00,walk,white
+8709,2,No,Arts,Visual,LUHK3E,Male,Yes,78.0,12.0,5.0,16.0,6.0,98.0,22:00,6:00,private transport,red
+8720,0,No,Clubs,Auditory,W8V901,Female,No,65.0,7.0,20.0,15.0,19.0,99.0,21:30,5:30,public transport,yellow
+8721,2,No,,Auditory,WH39LQ,Female,Yes,69.0,3.0,16.0,16.0,20.0,,23:30,6:30,private transport,white
+8728,0,No,,Visual,5YZO36,Male,No,95.0,16.0,2.0,16.0,6.0,94.0,23:00,7:00,walk,yellow
+8730,1,Yes,,Visual,KXZ1TW,Female,Yes,85.0,9.0,8.0,15.0,6.0,98.0,21:30,5:30,public transport,red
+8738,1,Yes,Sports,Auditory,1CGVJF,Female,No,69.0,19.0,0.0,15.0,14.0,99.0,23:00,7:00,walk,red
+8745,1,Yes,Clubs,Auditory,5DLT7W,Male,Yes,80.0,20.0,2.0,15.0,9.0,,21:00,5:00,public transport,blue
+8759,1,No,Clubs,Visual,729X1W,Female,No,57.0,14.0,16.0,16.0,14.0,98.0,22:00,6:00,private transport,black
+8760,2,No,Sports,Auditory,4WK2MR,Male,No,51.0,14.0,6.0,15.0,6.0,97.0,23:00,7:00,walk,red
+8762,0,Yes,Arts,Visual,A41HBL,Female,Yes,88.0,1.0,16.0,16.0,9.0,91.0,21:00,5:00,public transport,blue
+8767,2,No,Arts,Auditory,HS4DRC,Female,Yes,38.0,12.0,10.0,15.0,1.0,52.0,2:30,6:30,private transport,yellow
+8777,2,No,Arts,Auditory,3V2BD2,Male,No,60.0,17.0,3.0,15.0,8.0,90.0,21:30,5:30,public transport,white
+8778,0,No,Clubs,Visual,E9B8I4,Male,Yes,85.0,21.0,2.0,16.0,8.0,90.0,23:00,7:00,walk,red
+8781,1,No,Clubs,Visual,1JUJ7G,Male,No,57.0,14.0,14.0,5.0,20.0,99.0,21:00,5:00,public transport,black
+8782,0,Yes,Clubs,Auditory,E68CXI,Female,Yes,80.0,17.0,4.0,15.0,6.0,99.0,23:00,7:00,walk,red
+8789,0,No,,Visual,80KITR,Male,Yes,80.0,14.0,10.0,15.0,5.0,90.0,22:00,6:00,private transport,white
+8791,2,No,Clubs,Auditory,4I9WQQ,Male,Yes,67.0,13.0,10.0,15.0,12.0,96.0,22:30,6:30,private transport,green
+8793,0,No,,Visual,RVOBQZ,Female,Yes,74.0,16.0,12.0,15.0,13.0,91.0,22:30,6:30,private transport,white
+8797,0,Yes,,Auditory,9RML3K,Female,No,84.0,3.0,18.0,16.0,9.0,94.0,21:30,5:30,public transport,green
+8805,0,No,,Auditory,WQCJ0U,Male,Yes,87.0,19.0,3.0,16.0,7.0,96.0,21:30,5:30,public transport,blue
+8817,0,Yes,Clubs,Visual,KWL18C,Male,No,78.0,11.0,9.0,16.0,6.0,96.0,21:30,5:30,public transport,red
+8872,1,No,Clubs,Auditory,8MNAQ0,Male,No,48.0,14.0,11.0,15.0,5.0,93.0,22:00,6:00,private transport,blue
+8880,1,No,Sports,Auditory,881CIV,Female,Yes,54.0,23.0,6.0,16.0,5.0,91.0,22:30,5:30,public transport,black
+8899,1,Yes,Sports,Visual,55DWK7,Male,Yes,88.0,15.0,6.0,15.0,7.0,100.0,21:30,5:30,public transport,white
+8907,0,No,Clubs,Auditory,TUT282,Female,No,57.0,3.0,19.0,16.0,17.0,99.0,23:00,7:00,walk,blue
+8911,1,Yes,Clubs,Auditory,UF2SN0,Male,Yes,72.0,17.0,4.0,15.0,8.0,96.0,21:30,5:30,public transport,green
+8916,0,No,Sports,Auditory,31DW5V,Male,No,63.0,13.0,14.0,15.0,9.0,99.0,21:30,5:30,public transport,black
+8924,0,Yes,Arts,Visual,N5LR8B,Male,Yes,82.0,16.0,1.0,15.0,6.0,,22:00,6:00,private transport,yellow
+8930,0,No,Sports,Auditory,T6FTLV,Female,Yes,90.0,19.0,6.0,16.0,5.0,100.0,23:00,7:00,walk,blue
+8933,2,No,Sports,Auditory,QVRNXF,Male,Yes,42.0,12.0,10.0,15.0,11.0,80.0,23:00,6:00,private transport,black
+8943,1,Yes,Clubs,Auditory,HE8A3K,Female,Yes,79.0,9.0,8.0,15.0,9.0,91.0,23:00,7:00,walk,green
+8945,1,Yes,,Auditory,EV4S6Z,Female,Yes,,6.0,16.0,15.0,10.0,91.0,21:30,5:30,public transport,black
+8964,2,Yes,Arts,Visual,86FWI9,Female,Yes,78.0,8.0,6.0,15.0,7.0,100.0,23:00,7:00,walk,red
+8982,1,Yes,Arts,Auditory,OZX63C,Male,Yes,76.0,19.0,1.0,15.0,8.0,98.0,22:00,6:00,private transport,green
+8991,2,No,Sports,Auditory,6I5W27,Male,Yes,68.0,15.0,8.0,15.0,18.0,93.0,21:30,5:30,public transport,yellow
+8997,2,No,Clubs,Visual,DFC9V5,Male,Yes,80.0,15.0,2.0,15.0,10.0,92.0,21:30,5:30,public transport,green
+9002,1,Yes,,Visual,PP1X7G,Female,Yes,68.0,10.0,11.0,16.0,16.0,91.0,21:00,5:00,public transport,red
+9007,2,Yes,,Visual,I5O6G8,Female,Yes,81.0,17.0,1.0,16.0,9.0,93.0,22:30,6:30,private transport,green
+9023,1,Yes,Clubs,Visual,SS50P8,Male,No,59.0,10.0,17.0,15.0,8.0,98.0,23:00,7:00,walk,white
+9035,0,No,Sports,Auditory,XPAN90,Male,Yes,73.0,19.0,3.0,16.0,8.0,98.0,22:00,6:00,private transport,white
+9039,2,No,Arts,Visual,QAD5N2,Female,Yes,80.0,9.0,8.0,15.0,7.0,94.0,21:30,5:30,public transport,red
+9062,0,Yes,,Visual,MB9F8E,Male,No,82.0,15.0,2.0,15.0,9.0,93.0,23:00,7:00,walk,white
+9084,2,Yes,Clubs,Auditory,IOZZDV,Male,No,42.0,12.0,10.0,15.0,8.0,52.0,1:30,6:30,private transport,white
+9085,1,No,Arts,Auditory,E5MJQA,Male,Yes,59.0,13.0,15.0,15.0,17.0,96.0,21:00,5:00,public transport,white
+9087,1,No,,Auditory,D0TFPO,Male,No,61.0,20.0,8.0,15.0,10.0,93.0,23:00,7:00,walk,yellow
+9096,1,No,Clubs,Auditory,J0Y5VW,Male,Yes,46.0,18.0,12.0,16.0,5.0,96.0,22:30,6:30,private transport,yellow
+9097,1,No,,Visual,OC525L,Male,Yes,79.0,12.0,13.0,16.0,5.0,93.0,22:00,6:00,private transport,black
+9098,1,No,Clubs,Auditory,FGXJQS,Female,Yes,63.0,0.0,28.0,15.0,10.0,97.0,22:30,6:30,private transport,black
+9100,0,No,Arts,Auditory,JGQRPN,Male,No,67.0,10.0,17.0,16.0,18.0,98.0,22:00,6:00,private transport,black
+9103,1,Yes,NONE,Auditory,TAJ9ZY,Female,Yes,71.0,11.0,9.0,16.0,8.0,98.0,22:30,6:30,private transport,black
+9109,0,No,Sports,Auditory,5Y8N92,Female,Yes,70.0,19.0,3.0,15.0,14.0,92.0,21:30,5:30,public transport,blue
+9114,0,Yes,Clubs,Visual,US5VVM,Female,Yes,79.0,12.0,6.0,15.0,8.0,93.0,21:00,5:00,public transport,red
+9116,1,No,Sports,Auditory,H7885V,Female,No,44.0,9.0,20.0,16.0,5.0,63.0,1:00,5:00,public transport,yellow
+9120,1,No,Sports,Auditory,7QTQZL,Male,Yes,,19.0,5.0,16.0,6.0,100.0,22:00,6:00,private transport,red
+9140,0,No,Arts,Visual,Z9UIZG,Male,No,72.0,16.0,12.0,16.0,7.0,94.0,23:00,7:00,walk,yellow
+9146,1,No,Sports,Visual,9PGPSF,Female,No,51.0,13.0,11.0,16.0,8.0,90.0,22:00,6:00,private transport,blue
+9152,2,No,Arts,Auditory,SX3MP8,Female,No,46.0,13.0,11.0,16.0,12.0,92.0,21:00,5:00,public transport,red
+9177,2,No,Arts,Auditory,3AR8SZ,Female,Yes,56.0,2.0,16.0,16.0,13.0,95.0,23:00,7:00,walk,black
+9213,1,No,Sports,Auditory,PQFMT7,Male,Yes,48.0,28.0,2.0,15.0,3.0,56.0,0:30,6:30,private transport,green
+9219,0,Yes,Clubs,Visual,3T17XE,Female,No,73.0,8.0,8.0,15.0,9.0,95.0,22:30,6:30,private transport,white
+9230,1,Yes,Arts,Auditory,UX89O9,Male,Yes,86.0,13.0,9.0,16.0,10.0,90.0,23:00,6:00,private transport,green
+9248,0,Yes,Clubs,Visual,E414P2,Female,No,78.0,15.0,3.0,16.0,6.0,92.0,21:30,5:30,public transport,black
+9252,0,No,Sports,Visual,6F1PTH,Male,Yes,96.0,12.0,11.0,15.0,8.0,,22:00,6:00,private transport,blue
+9275,1,Yes,Sports,Visual,SSQO7P,Female,No,48.0,19.0,11.0,15.0,7.0,75.0,22:00,5:00,public transport,green
+9298,0,No,Sports,Auditory,PK60TK,Female,No,61.0,5.0,17.0,16.0,7.0,96.0,22:30,6:30,private transport,yellow
+9299,1,No,Clubs,Auditory,XMEFQQ,Male,Yes,55.0,10.0,20.0,15.0,7.0,,22:30,6:30,private transport,red
+9313,2,No,Clubs,Visual,TTKTWA,Female,No,77.0,22.0,0.0,16.0,5.0,98.0,21:30,5:30,public transport,black
+9325,1,No,Arts,Visual,I6LLVC,Male,No,55.0,24.0,2.0,15.0,11.0,96.0,23:00,7:00,walk,black
+9329,1,No,Sports,Auditory,MPQPRE,Female,Yes,48.0,13.0,16.0,16.0,4.0,75.0,22:00,5:00,public transport,black
+9330,0,Yes,Clubs,Auditory,6JE04P,Female,Yes,70.0,15.0,4.0,16.0,14.0,97.0,21:00,5:00,public transport,yellow
+9341,0,Yes,,Auditory,F5O4M3,Female,Yes,73.0,12.0,4.0,15.0,11.0,91.0,23:00,7:00,walk,blue
+9346,2,No,Sports,Auditory,X4S1WA,Female,Yes,50.0,4.0,18.0,16.0,7.0,98.0,22:00,6:00,private transport,green
+9396,0,No,,Auditory,VE2WV4,Male,No,,18.0,3.0,16.0,6.0,99.0,21:00,5:00,public transport,yellow
+9400,1,No,Clubs,Visual,GS2O0G,Male,Yes,59.0,14.0,12.0,16.0,18.0,95.0,22:00,6:00,private transport,red
+9402,2,No,Clubs,Visual,VJRK94,Female,Yes,58.0,11.0,11.0,16.0,5.0,95.0,22:30,6:30,private transport,white
+9405,0,No,Arts,Auditory,5VGHQT,Male,No,64.0,15.0,6.0,15.0,14.0,94.0,21:00,5:00,public transport,black
+9418,1,No,,Visual,CJUI1H,Male,No,52.0,20.0,10.0,15.0,12.0,96.0,22:00,6:00,private transport,blue
+9436,2,No,Sports,Visual,FL9JEH,Male,Yes,67.0,15.0,8.0,16.0,5.0,100.0,22:00,6:00,private transport,yellow
+9460,0,No,Clubs,Auditory,KJFCLX,Male,Yes,70.0,20.0,1.0,15.0,18.0,92.0,22:00,6:00,private transport,black
+9462,1,No,Arts,Visual,LBLTXP,Male,Yes,64.0,11.0,15.0,16.0,11.0,95.0,22:30,6:30,private transport,yellow
+9474,0,No,,Visual,CY15TT,Male,Yes,91.0,17.0,1.0,16.0,5.0,95.0,22:30,6:30,private transport,green
+9489,0,No,,Auditory,GY69HJ,Female,Yes,65.0,11.0,16.0,16.0,6.0,91.0,21:00,5:00,public transport,red
+9515,2,Yes,Sports,Visual,LMUNGZ,Female,No,73.0,17.0,3.0,16.0,14.0,98.0,22:30,6:30,private transport,blue
+9518,0,No,Sports,Auditory,M3G2G4,Male,No,63.0,14.0,7.0,16.0,15.0,,21:00,5:00,public transport,black
+9532,2,Yes,Sports,Auditory,HNZ9BZ,Male,No,42.0,21.0,1.0,16.0,6.0,69.0,23:00,5:00,public transport,green
+9534,1,No,Sports,Visual,RDMJ6T,Male,Yes,61.0,15.0,13.0,5.0,15.0,97.0,21:30,5:30,public transport,green
+9539,2,No,,Visual,B1VNXX,Male,No,71.0,11.0,11.0,15.0,7.0,97.0,21:30,5:30,public transport,green
+9540,0,No,Sports,Auditory,TOHBNB,Male,No,61.0,11.0,16.0,15.0,6.0,93.0,22:00,6:00,private transport,white
+9579,0,Yes,Arts,Auditory,DAOT03,Female,No,73.0,6.0,13.0,15.0,11.0,97.0,22:30,6:30,private transport,black
+9583,2,No,,Visual,O665U7,Female,Yes,81.0,11.0,6.0,15.0,8.0,98.0,21:30,5:30,public transport,yellow
+9588,2,No,Sports,Auditory,DF3P7B,Female,Yes,62.0,1.0,19.0,15.0,17.0,100.0,21:00,5:00,public transport,blue
+9594,0,Yes,Clubs,Auditory,X859JQ,Female,No,78.0,12.0,9.0,16.0,6.0,,23:00,7:00,walk,white
+9600,0,Yes,Clubs,Auditory,WQ98MV,Male,No,49.0,10.0,12.0,15.0,12.0,,22:00,5:00,public transport,yellow
+9604,1,No,Arts,Visual,DHLO9H,Female,Yes,56.0,3.0,23.0,16.0,14.0,90.0,22:30,6:30,private transport,green
+9611,0,Yes,Clubs,Visual,998A5O,Female,No,73.0,6.0,10.0,16.0,13.0,98.0,23:00,7:00,walk,black
+9612,1,No,Sports,Auditory,QB1CUO,Male,Yes,51.0,29.0,0.0,16.0,7.0,96.0,22:00,6:00,private transport,blue
+9613,1,Yes,,Auditory,9TEH3U,Male,Yes,81.0,11.0,8.0,15.0,5.0,,21:30,5:30,public transport,yellow
+9626,1,Yes,Arts,Visual,SU36JP,Male,Yes,67.0,17.0,10.0,15.0,20.0,96.0,22:00,6:00,private transport,red
+9627,0,Yes,Arts,Visual,IO4YUR,Female,Yes,79.0,17.0,3.0,16.0,7.0,94.0,21:00,5:00,public transport,white
+9631,0,Yes,,Visual,P8RMTZ,Male,Yes,83.0,10.0,7.0,15.0,9.0,98.0,21:00,5:00,public transport,blue
+9632,0,No,,Visual,XPPOS2,Female,No,90.0,1.0,17.0,15.0,10.0,93.0,21:00,5:00,public transport,black
+9636,1,No,Clubs,Visual,A8AHIT,Female,Yes,76.0,23.0,2.0,15.0,13.0,98.0,21:30,5:30,public transport,blue
+9655,2,Yes,Arts,Visual,668HCZ,Male,No,73.0,13.0,1.0,16.0,11.0,99.0,22:00,6:00,private transport,black
+9676,1,No,Sports,Auditory,73J8SS,Female,Yes,69.0,20.0,8.0,15.0,6.0,99.0,22:30,6:30,private transport,red
+9708,1,No,Clubs,Auditory,AGJEKA,Female,N,52.0,19.0,6.0,16.0,12.0,99.0,21:00,5:00,public transport,red
+9730,1,No,Arts,Visual,LX6FHD,Female,No,61.0,26.0,1.0,16.0,10.0,93.0,22:30,6:30,private transport,green
+9751,0,No,Clubs,Visual,KHE4X5,Female,No,73.0,24.0,4.0,15.0,18.0,95.0,23:00,7:00,walk,white
+9753,0,Yes,Sports,Auditory,XT7FOF,Male,Yes,79.0,18.0,2.0,16.0,10.0,91.0,22:00,6:00,private transport,red
+9759,1,No,Clubs,Auditory,ZWXE2P,Male,No,50.0,29.0,1.0,16.0,9.0,99.0,23:00,7:00,walk,white
+9764,2,Yes,,Auditory,9WEY5Y,Male,No,42.0,21.0,1.0,16.0,12.0,96.0,22:00,6:00,private transport,yellow
+9766,1,No,Clubs,Visual,2O5X8W,Female,No,52.0,30.0,0.0,15.0,11.0,,22:30,6:30,private transport,yellow
+9778,1,Yes,Arts,Auditory,O0MCDZ,Female,No,81.0,20.0,2.0,15.0,7.0,91.0,21:30,5:30,public transport,blue
+9783,0,Yes,Clubs,Auditory,BAQY5B,Male,Yes,76.0,11.0,5.0,16.0,17.0,100.0,22:30,6:30,private transport,black
+9790,2,No,Clubs,Auditory,QQF66E,Male,Yes,62.0,17.0,3.0,15.0,17.0,97.0,21:00,5:00,public transport,black
+9793,0,No,Clubs,Auditory,RYG0B2,Male,No,61.0,15.0,12.0,15.0,20.0,96.0,22:30,6:30,private transport,black
+9812,0,Yes,Arts,Auditory,8P9F42,Female,Yes,72.0,1.0,15.0,16.0,12.0,99.0,22:00,6:00,private transport,black
+9815,0,Yes,Sports,Auditory,Z4W9Q4,Female,Yes,69.0,16.0,0.0,15.0,9.0,92.0,22:30,5:30,public transport,red
+9844,2,No,Sports,Auditory,64N723,Male,No,51.0,20.0,0.0,16.0,9.0,92.0,22:30,6:30,private transport,red
+9870,0,No,Arts,Auditory,T4V6QT,Male,Yes,,14.0,8.0,15.0,17.0,100.0,21:30,5:30,public transport,green
+9874,0,No,Sports,Auditory,1L8F4W,Male,Yes,78.0,17.0,5.0,16.0,6.0,99.0,21:30,5:30,public transport,black
+9881,2,Yes,Sports,Auditory,8VWSLI,Male,No,42.0,12.0,12.0,15.0,3.0,99.0,23:00,7:00,walk,white
+9896,1,Yes,ARTS,Auditory,3XIJKJ,Male,Yes,,16.0,5.0,16.0,17.0,92.0,21:00,5:00,public transport,black
+9899,0,No,,Auditory,JM1P9B,Female,Yes,93.0,17.0,4.0,16.0,7.0,93.0,23:00,7:00,walk,red
+9904,2,No,Arts,Auditory,34MXZT,Female,Yes,73.0,16.0,5.0,6.0,15.0,91.0,23:00,6:00,private transport,white
+9905,1,No,Sports,Visual,LWXK8O,Female,No,52.0,17.0,13.0,16.0,8.0,96.0,21:00,5:00,public transport,black
+9909,1,No,Sports,Visual,7HSN7C,Male,Y,53.0,22.0,8.0,16.0,13.0,90.0,23:00,7:00,walk,green
+9910,2,No,Sports,Auditory,5MM39L,Male,Yes,67.0,15.0,4.0,15.0,13.0,99.0,21:00,5:00,public transport,green
+9932,0,No,Arts,Auditory,V8KDEV,Male,No,95.0,14.0,7.0,16.0,5.0,91.0,21:30,5:30,public transport,red
+9936,1,No,,Auditory,Y2YTU5,Female,Yes,64.0,23.0,1.0,15.0,9.0,92.0,21:00,5:00,public transport,green
+9953,1,No,Arts,Auditory,ZZICEC,Female,Yes,54.0,11.0,13.0,15.0,12.0,93.0,22:00,6:00,private transport,blue
+9993,2,No,Sports,Auditory,6A5F8E,Male,Yes,74.0,21.0,0.0,15.0,15.0,98.0,21:00,5:00,public transport,yellow
+9995,0,No,,Auditory,DJ18H0,Male,No,80.0,20.0,2.0,16.0,6.0,90.0,22:00,6:00,private transport,white
+10028,0,No,Sports,Auditory,QC1SUC,Male,Yes,67.0,19.0,2.0,16.0,8.0,96.0,21:30,5:30,public transport,green
+10035,2,No,Arts,Visual,O3GTYE,Male,Yes,73.0,13.0,8.0,16.0,10.0,91.0,22:00,6:00,private transport,red
+10065,0,Yes,,Visual,UVV9S6,Female,Yes,,18.0,2.0,16.0,10.0,96.0,21:30,5:30,public transport,red
+10093,2,No,Clubs,Auditory,73PI1T,Female,No,46.0,15.0,8.0,15.0,9.0,95.0,22:30,6:30,private transport,blue
+10129,0,Yes,Sports,Auditory,HYID32,Male,Yes,80.0,17.0,2.0,16.0,10.0,92.0,21:30,5:30,public transport,yellow
+10130,2,No,ARTS,Visual,1F1QO1,Female,No,71.0,0.0,17.0,15.0,17.0,92.0,21:30,5:30,public transport,white
+10134,0,No,,Auditory,8J3LLV,Male,Yes,69.0,10.0,12.0,15.0,9.0,98.0,21:30,5:30,public transport,white
+10141,2,No,Clubs,Visual,L9J7HK,Male,Yes,78.0,19.0,0.0,15.0,7.0,94.0,21:00,5:00,public transport,white
+10152,1,No,,Auditory,1SABLK,Female,Yes,60.0,0.0,27.0,15.0,6.0,100.0,21:30,5:30,public transport,black
+10166,0,No,,Visual,MKSAA7,Male,Yes,90.0,18.0,5.0,15.0,7.0,90.0,22:30,6:30,private transport,black
+10179,0,No,,Auditory,R17ZRE,Female,Yes,83.0,23.0,0.0,15.0,8.0,97.0,23:00,7:00,walk,white
+10180,1,Yes,Arts,Auditory,67IZTI,Male,No,47.0,22.0,3.0,16.0,5.0,94.0,21:00,5:00,public transport,yellow
+10201,1,No,Sports,Visual,I0W79I,Male,No,60.0,12.0,14.0,16.0,7.0,96.0,22:30,6:30,private transport,red
+10211,2,Yes,Sports,Visual,NNBGV2,Male,No,60.0,15.0,1.0,15.0,10.0,93.0,22:30,6:30,private transport,green
+10215,0,Yes,Clubs,Auditory,MK8EOU,Male,Yes,79.0,10.0,5.0,15.0,8.0,96.0,21:00,5:00,public transport,red
+10222,0,No,Clubs,Visual,79UUNZ,Female,Yes,65.0,15.0,5.0,15.0,15.0,92.0,22:00,5:00,public transport,green
+10238,1,No,,Auditory,PA540Y,Female,Yes,69.0,9.0,19.0,15.0,16.0,93.0,21:30,5:30,public transport,red
+10243,1,Yes,Arts,Auditory,IMDH6U,Male,Yes,85.0,11.0,11.0,15.0,10.0,92.0,22:30,6:30,private transport,white
+10246,0,Yes,Clubs,Visual,R3Z13X,Male,No,82.0,17.0,4.0,16.0,9.0,95.0,21:00,5:00,public transport,green
+10255,0,No,Arts,Auditory,1AEVRC,Male,No,57.0,10.0,11.0,16.0,7.0,94.0,22:30,6:30,private transport,yellow
+10261,1,No,Sports,Auditory,DCYTNP,Male,Yes,52.0,23.0,2.0,16.0,8.0,90.0,22:30,6:30,private transport,black
+10270,1,Yes,Arts,Auditory,BRL66P,Female,Yes,52.0,8.0,17.0,16.0,20.0,98.0,23:00,7:00,walk,green
+10274,1,Yes,Sports,Auditory,PDMU64,Female,Yes,74.0,1.0,19.0,15.0,13.0,92.0,22:30,6:30,private transport,white
+10280,0,No,,Visual,GYVFPW,Male,Yes,90.0,20.0,3.0,15.0,6.0,91.0,23:00,7:00,walk,white
+10285,1,Yes,Arts,Visual,ZY1RH4,Female,Yes,49.0,17.0,12.0,15.0,3.0,69.0,1:00,7:00,walk,black
+10289,2,No,Sports,Auditory,Q6TOC9,Female,No,52.0,19.0,0.0,16.0,13.0,95.0,21:30,5:30,public transport,black
+10313,0,Yes,,Visual,S5OPX1,Female,Y,85.0,0.0,17.0,15.0,6.0,94.0,22:30,6:30,private transport,blue
+10316,1,Yes,Sports,Auditory,QSM5F6,Female,No,45.0,12.0,16.0,15.0,13.0,49.0,0:00,5:00,public transport,green
+10338,1,No,Clubs,Auditory,DJY4X2,Male,No,,23.0,6.0,16.0,10.0,98.0,22:30,6:30,private transport,white
+10343,0,No,,Visual,VMGQTX,Male,Yes,91.0,14.0,4.0,15.0,7.0,95.0,22:30,6:30,private transport,blue
+10363,0,Yes,Arts,Visual,HJNAPX,Male,Yes,75.0,15.0,1.0,16.0,13.0,95.0,23:00,7:00,walk,black
+10364,1,No,Arts,Visual,I4IHFV,Female,Yes,55.0,22.0,8.0,15.0,17.0,96.0,23:00,7:00,walk,black
+10368,0,No,Sports,Auditory,1HVJZJ,Female,Yes,71.0,11.0,11.0,16.0,12.0,98.0,21:30,5:30,public transport,red
+10375,1,No,Arts,Auditory,FM6OOU,Male,Yes,59.0,15.0,9.0,6.0,7.0,93.0,23:00,7:00,walk,red
+10383,0,No,Sports,Auditory,9RY9GB,Female,Yes,69.0,7.0,15.0,16.0,19.0,99.0,21:00,5:00,public transport,black
+10386,0,No,,Visual,CI49LU,Female,No,,5.0,16.0,16.0,6.0,97.0,21:30,5:30,public transport,green
+10416,0,No,Sports,Auditory,NP8YI9,Female,No,59.0,1.0,20.0,15.0,6.0,97.0,22:00,6:00,private transport,red
+10425,2,No,Sports,Visual,KXKOES,Female,Yes,58.0,16.0,6.0,15.0,14.0,93.0,23:00,7:00,walk,red
+10427,2,No,,Auditory,4TSXSR,Male,Yes,64.0,20.0,0.0,16.0,11.0,99.0,21:00,5:00,public transport,blue
+10428,0,No,,Auditory,VYQ1AP,Male,No,63.0,18.0,9.0,15.0,17.0,100.0,21:00,5:00,public transport,black
+10429,0,Yes,Sports,Visual,HIVOJK,Female,Yes,78.0,10.0,8.0,16.0,6.0,91.0,23:00,7:00,walk,green
+10449,1,No,Clubs,Auditory,4679FN,Male,Yes,74.0,15.0,7.0,16.0,12.0,99.0,22:00,6:00,private transport,black
+10452,1,No,Sports,Visual,NM3SZB,Female,No,52.0,17.0,13.0,15.0,9.0,96.0,22:30,6:30,private transport,blue
+10461,0,No,Arts,Auditory,3VNSY5,Female,Yes,74.0,11.0,11.0,15.0,19.0,98.0,21:00,5:00,public transport,black
+10465,1,No,,Auditory,CCB1BI,Female,Yes,68.0,4.0,24.0,16.0,8.0,95.0,22:30,6:30,private transport,red
+10467,1,No,Arts,Visual,K2YLKL,Female,No,78.0,17.0,8.0,16.0,5.0,94.0,22:00,6:00,private transport,red
+10481,0,No,,Auditory,7UC06G,Female,Yes,88.0,16.0,6.0,15.0,9.0,99.0,22:30,6:30,private transport,yellow
+10502,1,Yes,Arts,Auditory,A8HS3Y,Female,Yes,88.0,4.0,13.0,15.0,7.0,94.0,22:30,6:30,private transport,red
+10508,1,No,Sports,Auditory,45MPHN,Male,No,50.0,18.0,12.0,16.0,4.0,77.0,0:00,6:00,private transport,white
+10517,0,No,,Auditory,4Q960I,Female,Yes,94.0,3.0,18.0,16.0,9.0,93.0,23:00,7:00,walk,yellow
+10534,0,No,Sports,Auditory,UXXGOS,Female,Yes,66.0,16.0,11.0,15.0,6.0,96.0,21:00,5:00,public transport,red
+10535,1,No,NONE,Auditory,O39OYQ,Male,No,43.0,28.0,0.0,15.0,6.0,96.0,21:30,5:30,public transport,white
+10536,0,No,Clubs,Auditory,5YVAIR,Male,Yes,66.0,15.0,5.0,15.0,7.0,96.0,21:00,5:00,public transport,blue
+10538,1,Yes,Arts,Visual,A4ZVFR,Male,No,46.0,16.0,14.0,16.0,8.0,97.0,21:00,5:00,public transport,red
+10553,1,Yes,Arts,Auditory,MLUX0I,Female,Yes,69.0,21.0,0.0,15.0,13.0,99.0,23:00,7:00,walk,yellow
+10564,1,No,Sports,Auditory,J5JXFR,Male,Yes,74.0,27.0,1.0,16.0,18.0,98.0,21:00,5:00,public transport,black
+10574,0,No,ARTS,Visual,985HTO,Female,Yes,,24.0,3.0,15.0,20.0,94.0,23:00,7:00,walk,green
+10575,0,No,,Visual,18X0JP,Male,No,92.0,17.0,5.0,15.0,7.0,100.0,22:00,6:00,private transport,white
+10584,2,No,Sports,Auditory,CEGIQH,Male,Yes,43.0,11.0,13.0,15.0,6.0,97.0,23:00,7:00,walk,white
+10610,2,No,Clubs,Visual,3CP77E,Male,No,74.0,15.0,8.0,15.0,15.0,96.0,22:30,6:30,private transport,green
+10644,1,Yes,,Auditory,OT93J7,Male,Yes,87.0,12.0,5.0,15.0,9.0,99.0,21:30,5:30,public transport,green
+10647,0,Yes,Clubs,Auditory,Z8AQ9T,Female,Y,72.0,0.0,16.0,15.0,7.0,92.0,23:00,7:00,walk,black
+10650,0,No,Arts,Visual,EHA9NO,Male,Yes,73.0,21.0,7.0,15.0,14.0,92.0,23:00,7:00,walk,black
+10651,1,Yes,,Auditory,0PO8F0,Female,Yes,78.0,17.0,4.0,15.0,8.0,,21:00,5:00,public transport,black
+10663,1,No,,Visual,QI2FRZ,Female,Yes,63.0,13.0,15.0,15.0,14.0,94.0,21:30,5:30,public transport,black
+10674,0,No,Arts,Visual,SJUD3T,Female,Yes,,2.0,18.0,15.0,16.0,91.0,23:00,7:00,walk,black
+10677,1,No,Sports,Auditory,OUACEQ,Male,Yes,54.0,24.0,7.0,15.0,13.0,,21:00,5:00,public transport,green
+10703,2,No,Clubs,Auditory,COSKB1,Male,Yes,68.0,15.0,4.0,16.0,16.0,95.0,21:30,5:30,public transport,yellow
+10705,2,No,Sports,Visual,7QZXVM,Female,No,72.0,7.0,15.0,16.0,8.0,93.0,23:00,7:00,walk,black
+10711,0,Yes,Sports,Auditory,Z1RL08,Male,Yes,80.0,18.0,2.0,15.0,7.0,90.0,22:00,5:00,public transport,red
+10726,1,No,,Visual,VSRA7K,Female,Yes,76.0,15.0,10.0,15.0,12.0,98.0,21:00,5:00,public transport,blue
+10729,0,No,,Auditory,QULZPY,Male,Yes,95.0,16.0,9.0,16.0,9.0,91.0,22:00,6:00,private transport,black
+10743,1,Yes,Arts,Auditory,FIC4J7,Male,Yes,47.0,12.0,17.0,15.0,2.0,,23:30,5:30,public transport,white
+10755,0,No,Arts,Visual,7G45H5,Male,Yes,67.0,12.0,8.0,16.0,20.0,99.0,22:00,6:00,private transport,red
+10759,2,No,,Visual,WAQH92,Female,Yes,80.0,17.0,0.0,15.0,10.0,96.0,21:00,5:00,public transport,blue
+10763,1,No,Sports,Auditory,MATMIQ,Male,Yes,59.0,19.0,5.0,16.0,6.0,95.0,22:30,6:30,private transport,yellow
+10764,1,Yes,,Auditory,69WD7J,Male,Yes,87.0,11.0,6.0,16.0,8.0,93.0,23:00,6:00,private transport,red
+10796,0,No,Arts,Auditory,CHPTUI,Male,No,67.0,21.0,6.0,15.0,18.0,94.0,22:30,6:30,private transport,yellow
+10816,1,No,Sports,Auditory,VTM0ZZ,Female,No,55.0,19.0,8.0,15.0,20.0,92.0,22:00,6:00,private transport,red
+10817,0,Yes,Clubs,Auditory,BAQY5B,Male,Yes,76.0,11.0,5.0,16.0,17.0,100.0,22:30,6:30,private transport,blue
+10824,0,Yes,SPORTS,Visual,QM1QTH,Male,No,76.0,18.0,0.0,5.0,7.0,92.0,22:00,6:00,private transport,green
+10827,2,No,Clubs,Auditory,I91AYX,Male,No,55.0,16.0,6.0,16.0,8.0,97.0,23:00,7:00,walk,black
+10839,2,No,Sports,Auditory,5JQ0OH,Female,Yes,73.0,4.0,15.0,15.0,15.0,93.0,22:30,6:30,private transport,white
+10840,0,Yes,Sports,Visual,UPV5L6,Female,Yes,85.0,0.0,16.0,16.0,10.0,94.0,22:30,6:30,private transport,white
+10841,0,No,Sports,Auditory,XZ90AE,Female,No,56.0,19.0,3.0,16.0,5.0,96.0,22:00,6:00,private transport,yellow
+10843,1,Yes,Clubs,Auditory,UQ92Q0,Female,No,49.0,29.0,1.0,16.0,2.0,72.0,0:30,6:30,private transport,red
+10848,0,No,,Visual,XXB3E8,Female,No,71.0,19.0,9.0,16.0,7.0,90.0,22:00,5:00,public transport,red
+10851,1,Yes,,Auditory,MKE7J6,Male,Yes,77.0,13.0,4.0,15.0,9.0,,21:00,5:00,public transport,green
+10852,2,Yes,Sports,Visual,IE0IGK,Male,Yes,68.0,12.0,2.0,15.0,7.0,95.0,21:00,5:00,public transport,red
+10868,0,No,,Auditory,O94IF2,Male,Yes,87.0,11.0,11.0,15.0,7.0,94.0,21:30,5:30,public transport,blue
+10880,1,No,Clubs,Auditory,NFTA86,Female,No,55.0,3.0,28.0,16.0,5.0,98.0,22:30,6:30,private transport,blue
+10884,0,No,Sports,Visual,53XU8I,Male,No,58.0,19.0,1.0,16.0,19.0,93.0,21:30,5:30,public transport,red
+10895,0,No,,Visual,EBRFO2,Female,No,73.0,24.0,3.0,16.0,7.0,97.0,22:30,6:30,private transport,red
+10901,0,Yes,Sports,Visual,MPWXRH,Female,Yes,70.0,6.0,10.0,16.0,17.0,100.0,23:00,7:00,walk,red
+10915,0,Yes,,Visual,EPD37B,Male,Y,80.0,17.0,1.0,16.0,7.0,91.0,23:00,7:00,walk,yellow
+10939,0,Yes,Sports,Visual,52P7WR,Female,Yes,88.0,17.0,0.0,15.0,8.0,94.0,22:00,6:00,private transport,white
+10946,1,No,Arts,Auditory,5AH3GM,Male,Yes,67.0,17.0,11.0,16.0,8.0,91.0,22:30,6:30,private transport,white
+10948,2,No,Arts,Auditory,PPAJJY,Male,No,51.0,19.0,0.0,15.0,9.0,96.0,21:30,5:30,public transport,blue
+10955,1,Yes,,Visual,AN3WJ6,Female,Yes,92.0,3.0,18.0,16.0,6.0,96.0,22:30,6:30,private transport,red
+10969,0,Yes,Arts,Auditory,005YYS,Male,No,82.0,21.0,0.0,16.0,7.0,95.0,22:30,6:30,private transport,red
+10971,2,No,Arts,Auditory,Y4RVM9,Female,No,69.0,4.0,17.0,15.0,15.0,96.0,23:00,7:00,walk,red
+10982,0,No,,Visual,6K37P0,Female,Yes,91.0,18.0,5.0,16.0,5.0,90.0,23:00,7:00,walk,black
+10992,2,No,,Visual,W4N9H7,Female,Yes,72.0,14.0,7.0,15.0,18.0,97.0,21:30,5:30,public transport,blue
+11001,0,No,Sports,Auditory,4A2NZE,Male,No,54.0,10.0,17.0,16.0,19.0,91.0,21:00,5:00,public transport,green
+11037,1,No,Arts,Auditory,4VXGOR,Male,Yes,64.0,10.0,14.0,16.0,7.0,97.0,21:00,5:00,public transport,white
+11042,1,Yes,,Auditory,ANYEMI,Female,Yes,74.0,0.0,17.0,16.0,12.0,98.0,22:00,6:00,private transport,red
+11049,0,Yes,Arts,Visual,MIV3TJ,Female,Yes,79.0,12.0,3.0,15.0,8.0,96.0,22:00,6:00,private transport,green
+11057,0,No,Arts,Auditory,I148VK,Female,No,69.0,15.0,7.0,15.0,7.0,97.0,22:00,6:00,private transport,green
+11067,1,No,Clubs,Visual,FNFIP0,Female,Yes,60.0,8.0,20.0,15.0,13.0,98.0,23:00,7:00,walk,black
+11105,1,Yes,Sports,Auditory,S8GI6Y,Female,No,54.0,21.0,4.0,15.0,10.0,91.0,21:30,5:30,public transport,white
+11108,0,Yes,Arts,Auditory,YLMKQG,Male,No,80.0,19.0,2.0,15.0,9.0,95.0,21:00,5:00,public transport,blue
+11122,2,No,Arts,Auditory,AJRPSG,Male,Yes,55.0,21.0,1.0,16.0,17.0,97.0,21:00,5:00,public transport,black
+11137,1,Yes,Arts,Visual,1ITQR2,Male,No,45.0,11.0,19.0,15.0,13.0,68.0,23:00,6:00,private transport,black
+11140,1,No,Sports,Visual,QVCPU0,Female,No,53.0,23.0,7.0,15.0,9.0,97.0,21:00,5:00,public transport,yellow
+11147,0,No,Clubs,Visual,3P5JJS,Female,Yes,93.0,17.0,1.0,16.0,5.0,90.0,22:00,5:00,public transport,white
+11157,2,No,Clubs,Visual,U3ML2P,Male,Yes,73.0,18.0,1.0,15.0,10.0,92.0,21:30,5:30,public transport,blue
+11164,1,No,,Auditory,4GB8X5,Male,No,51.0,29.0,0.0,15.0,8.0,99.0,22:00,6:00,private transport,green
+11167,1,No,Sports,Visual,JYWM94,Male,No,68.0,23.0,1.0,15.0,12.0,94.0,23:00,6:00,private transport,red
+11207,2,No,Clubs,Visual,A3LLTV,Female,Yes,73.0,17.0,2.0,16.0,17.0,97.0,23:00,7:00,walk,blue
+11209,0,No,,Visual,CB4NYL,Male,Yes,88.0,12.0,6.0,16.0,5.0,96.0,23:00,7:00,walk,red
+11212,0,No,Sports,Auditory,3UOMLE,Male,No,49.0,10.0,12.0,15.0,14.0,70.0,0:30,6:30,private transport,yellow
+11222,1,No,Clubs,Visual,4GHBA0,Female,No,59.0,11.0,16.0,16.0,7.0,99.0,22:00,6:00,private transport,black
+11225,1,No,,Auditory,74RKBD,Female,Yes,66.0,26.0,2.0,16.0,13.0,97.0,23:00,7:00,walk,blue
+11239,1,Yes,Clubs,Visual,FLO3WF,Male,No,56.0,16.0,11.0,15.0,7.0,98.0,21:00,5:00,public transport,yellow
+11241,1,No,Clubs,Visual,J90CH5,Male,No,54.0,13.0,17.0,15.0,19.0,98.0,22:00,6:00,private transport,blue
+11276,2,Yes,Sports,Auditory,3N2IPL,Female,No,56.0,2.0,14.0,16.0,6.0,93.0,21:30,5:30,public transport,black
+11281,1,No,Sports,Visual,OA7JE2,Male,No,53.0,13.0,13.0,15.0,12.0,98.0,22:30,6:30,private transport,green
+11300,2,Yes,,Visual,HXBZJZ,Male,N,69.0,12.0,8.0,16.0,6.0,94.0,22:00,6:00,private transport,black
+11304,2,No,CLUBS,Auditory,HF5A00,Male,Yes,46.0,20.0,3.0,6.0,11.0,81.0,23:30,6:30,private transport,yellow
+11313,2,No,Arts,Auditory,GIS7YP,Male,No,76.0,21.0,0.0,16.0,8.0,90.0,21:00,5:00,public transport,red
+11336,0,Yes,Clubs,Visual,YY0D30,Female,Yes,70.0,6.0,10.0,15.0,14.0,91.0,22:30,6:30,private transport,green
+11345,0,No,,Auditory,6TUIE5,Male,No,63.0,27.0,0.0,16.0,14.0,94.0,21:00,5:00,public transport,black
+11346,1,Yes,Clubs,Auditory,6I3HKA,Female,Yes,76.0,11.0,10.0,16.0,7.0,,22:00,6:00,private transport,white
+11350,0,No,Sports,Auditory,0BV0N0,Male,No,64.0,18.0,3.0,16.0,5.0,99.0,22:00,6:00,private transport,white
+11362,1,No,Arts,Auditory,NRV9EB,Male,Yes,58.0,20.0,8.0,15.0,19.0,91.0,21:00,5:00,public transport,black
+11363,1,Yes,Clubs,Auditory,H37AGX,Male,No,80.0,13.0,8.0,15.0,7.0,93.0,22:30,6:30,private transport,red
+11365,2,No,Clubs,Auditory,H33CYM,Male,Yes,73.0,18.0,3.0,15.0,16.0,97.0,22:00,6:00,private transport,yellow
+11370,2,No,Sports,Visual,PLBCH9,Male,Yes,61.0,18.0,4.0,15.0,15.0,98.0,22:00,6:00,private transport,black
+11372,1,Yes,,Auditory,62331R,Male,Yes,85.0,14.0,8.0,16.0,10.0,94.0,21:00,5:00,public transport,red
+11373,2,Yes,Sports,Auditory,1V0U59,Male,No,43.0,20.0,4.0,16.0,7.0,50.0,0:30,5:30,public transport,white
+11391,1,Yes,,Visual,C2776Z,Female,Yes,83.0,8.0,9.0,15.0,7.0,,22:00,6:00,private transport,yellow
+11396,0,No,,Auditory,BAE6N0,Male,Yes,69.0,13.0,8.0,16.0,14.0,92.0,21:00,5:00,public transport,white
+11402,1,No,Arts,Auditory,V6VAFL,Male,No,48.0,12.0,13.0,16.0,11.0,,23:30,6:30,private transport,green
+11403,0,Yes,Arts,Auditory,HOZUJA,Male,Yes,71.0,14.0,2.0,16.0,9.0,93.0,22:00,5:00,public transport,white
+11410,0,No,,Auditory,PEL483,Female,Yes,69.0,13.0,8.0,16.0,12.0,96.0,22:00,6:00,private transport,white
+11415,0,No,Arts,Auditory,D6CL9I,Female,No,69.0,2.0,20.0,16.0,18.0,100.0,22:00,6:00,private transport,green
+11432,1,No,Clubs,Auditory,I4EI6H,Female,Yes,54.0,1.0,28.0,15.0,13.0,93.0,21:30,5:30,public transport,yellow
+11434,0,No,Clubs,Auditory,9C98ED,Male,No,,10.0,13.0,16.0,5.0,95.0,21:00,5:00,public transport,black
+11442,1,No,Arts,Visual,N4ZA1R,Female,Yes,74.0,19.0,5.0,16.0,11.0,90.0,22:00,6:00,private transport,yellow
+11445,1,No,Arts,Visual,W5ASQP,Female,No,48.0,22.0,8.0,15.0,6.0,99.0,21:00,5:00,public transport,white
+11446,1,Yes,,Visual,IHN9FH,Female,No,56.0,21.0,6.0,16.0,19.0,93.0,23:30,6:30,private transport,green
+11461,0,Yes,,Visual,365BH0,Male,Yes,77.0,11.0,7.0,15.0,9.0,91.0,22:30,6:30,private transport,black
+11498,1,No,Clubs,Visual,F28SRS,Female,Yes,62.0,7.0,18.0,16.0,15.0,98.0,23:00,7:00,walk,red
+11502,1,No,Sports,Auditory,Q9TF2P,Male,No,40.0,20.0,4.0,15.0,6.0,83.0,23:30,6:30,private transport,yellow
+11516,2,No,Sports,Auditory,9FKU3V,Male,Yes,58.0,13.0,9.0,16.0,17.0,91.0,23:30,6:30,private transport,yellow
+11540,2,Yes,,Visual,5E10Z4,Male,No,79.0,15.0,3.0,15.0,5.0,91.0,23:00,7:00,walk,blue
+11553,0,Yes,,Visual,DSXUIA,Male,Yes,75.0,16.0,0.0,15.0,9.0,98.0,22:30,6:30,private transport,green
+11572,0,No,Clubs,Visual,NEHGYZ,Female,Y,82.0,9.0,15.0,15.0,7.0,100.0,21:30,5:30,public transport,white
+11575,0,No,Clubs,Auditory,J8XKOU,Male,Yes,69.0,18.0,3.0,16.0,19.0,94.0,23:00,7:00,walk,white
+11577,2,No,Sports,Visual,WW3VWH,Female,Yes,40.0,13.0,9.0,16.0,4.0,78.0,22:00,6:00,private transport,blue
+11584,2,No,,Auditory,VUY6XC,Female,Yes,71.0,10.0,9.0,16.0,17.0,94.0,22:30,6:30,private transport,white
+11591,1,No,Arts,Auditory,H1LX89,Female,No,44.0,9.0,20.0,15.0,14.0,87.0,23:00,7:00,walk,yellow
+11592,2,No,,Auditory,T0FJJB,Male,Yes,73.0,19.0,2.0,16.0,12.0,97.0,22:00,6:00,private transport,blue
+11597,0,Yes,Sports,Auditory,QVO8TP,Female,Yes,71.0,9.0,11.0,16.0,18.0,96.0,21:30,5:30,public transport,white
+11600,0,No,,Visual,ECY6JE,Male,Yes,92.0,15.0,4.0,16.0,7.0,99.0,23:00,7:00,walk,red
+11617,0,Yes,Sports,Auditory,2ZJ25V,Female,No,83.0,10.0,5.0,16.0,7.0,95.0,21:00,5:00,public transport,red
+11620,2,Yes,Clubs,Visual,LNM33N,Female,No,85.0,9.0,9.0,15.0,7.0,96.0,21:00,5:00,public transport,white
+11640,1,Yes,,Visual,XXJ8GL,Female,Yes,96.0,14.0,7.0,16.0,6.0,96.0,22:00,6:00,private transport,white
+11649,1,No,SPORTS,Auditory,WNSCIX,Male,Yes,57.0,15.0,7.0,16.0,11.0,92.0,21:00,5:00,public transport,white
+11655,2,Yes,Arts,Visual,ANPUDZ,Female,No,64.0,7.0,8.0,15.0,16.0,,22:00,6:00,private transport,green
+11669,1,Yes,Arts,Auditory,9PCYUY,Male,Yes,52.0,12.0,13.0,15.0,9.0,95.0,21:30,5:30,public transport,blue
+11670,1,No,Clubs,Visual,DIH4NR,Female,Yes,69.0,25.0,3.0,16.0,5.0,98.0,22:00,6:00,private transport,yellow
+11675,2,Yes,Clubs,Auditory,3I1EA8,Male,No,49.0,20.0,2.0,15.0,7.0,93.0,23:00,7:00,walk,yellow
+11681,0,No,Clubs,Auditory,OR0OJK,Male,No,50.0,16.0,6.0,16.0,18.0,,0:00,5:00,public transport,yellow
+11682,1,No,ARTS,Auditory,KPL3IQ,Male,Yes,62.0,12.0,15.0,16.0,11.0,93.0,22:00,6:00,private transport,red
+11690,0,Yes,Sports,Auditory,FP4QX2,Female,Yes,78.0,11.0,9.0,15.0,7.0,98.0,22:00,6:00,private transport,green
+11721,1,No,Clubs,Auditory,5WPZYL,Male,No,57.0,26.0,5.0,15.0,20.0,95.0,22:30,6:30,private transport,yellow
+11739,1,No,Clubs,Auditory,IP2ZU2,Female,No,51.0,8.0,17.0,15.0,8.0,91.0,21:00,5:00,public transport,green
+11750,2,Yes,Arts,Visual,O78F0P,Female,No,76.0,6.0,8.0,15.0,8.0,91.0,22:00,6:00,private transport,black
+11759,1,Yes,Arts,Auditory,MLUX0I,Female,Yes,69.0,21.0,0.0,15.0,13.0,99.0,23:00,7:00,walk,black
+11773,2,No,Clubs,Visual,HEKGIP,Male,Yes,78.0,11.0,6.0,16.0,10.0,97.0,21:30,5:30,public transport,blue
+11781,1,Yes,Clubs,Visual,TQGAU3,Male,Y,48.0,17.0,13.0,15.0,8.0,59.0,1:30,6:30,private transport,red
+11785,1,No,,Visual,FPUYSA,Male,Yes,52.0,15.0,15.0,16.0,19.0,94.0,23:00,7:00,walk,white
+11786,2,No,Sports,Auditory,ISR4TR,Female,Yes,74.0,14.0,5.0,15.0,18.0,93.0,22:00,6:00,private transport,blue
+11825,0,No,Clubs,Visual,3NGO6R,Female,Yes,67.0,9.0,11.0,16.0,20.0,93.0,21:00,5:00,public transport,blue
+11836,1,No,,Auditory,5B18FZ,Male,Yes,61.0,25.0,2.0,5.0,11.0,99.0,22:00,6:00,private transport,green
+11848,1,No,Clubs,Auditory,HPEXRO,Male,Yes,65.0,16.0,6.0,16.0,13.0,97.0,21:30,5:30,public transport,black
+11854,1,No,Clubs,Visual,EFS42X,Female,No,46.0,5.0,25.0,16.0,2.0,98.0,21:30,5:30,public transport,white
+11858,1,No,Sports,Visual,CKIOIJ,Female,Yes,76.0,23.0,2.0,16.0,18.0,96.0,22:30,6:30,private transport,yellow
+11864,1,No,,Visual,NVQS1T,Male,Yes,69.0,23.0,1.0,16.0,19.0,92.0,23:00,7:00,walk,yellow
+11865,0,Yes,Arts,Visual,N6E3LL,Female,Yes,85.0,5.0,11.0,15.0,9.0,99.0,22:30,6:30,private transport,red
+11867,1,Yes,,Auditory,TIXHBS,Male,Yes,66.0,14.0,7.0,16.0,13.0,99.0,22:00,6:00,private transport,white
+11879,1,No,Clubs,Visual,LI5DYG,Male,No,55.0,25.0,1.0,15.0,17.0,90.0,21:00,5:00,public transport,blue
+11907,2,No,Clubs,Auditory,25TNAA,Male,No,56.0,11.0,8.0,5.0,16.0,92.0,21:30,5:30,public transport,red
+11917,1,Yes,Sports,Auditory,I81ZC3,Female,Yes,53.0,17.0,8.0,16.0,10.0,99.0,23:00,7:00,walk,red
+11924,1,No,Sports,Visual,U2PG7F,Male,Yes,53.0,10.0,20.0,16.0,7.0,91.0,23:00,7:00,walk,blue
+11930,0,No,Sports,Auditory,EWJOKA,Male,No,63.0,27.0,0.0,15.0,17.0,93.0,22:30,6:30,private transport,blue
+11939,1,Yes,Sports,Visual,RIWS2S,Male,Yes,,14.0,7.0,15.0,8.0,96.0,22:00,6:00,private transport,green
+11941,1,Yes,,Auditory,IYET4R,Female,Yes,71.0,18.0,1.0,15.0,11.0,100.0,22:00,6:00,private transport,red
+11944,2,No,,Auditory,21PLQ7,Female,Yes,62.0,20.0,0.0,15.0,14.0,95.0,21:30,5:30,public transport,blue
+11951,1,Yes,,Auditory,MKE7J6,Male,Yes,77.0,13.0,4.0,15.0,9.0,93.0,21:00,5:00,public transport,green
+11957,2,No,Clubs,Auditory,2DNWR7,Female,Yes,76.0,15.0,6.0,15.0,6.0,93.0,22:00,6:00,private transport,white
+11978,2,Yes,Sports,Visual,SZPAFT,Female,Yes,76.0,10.0,10.0,15.0,14.0,95.0,22:00,6:00,private transport,red
+11991,0,No,Clubs,Auditory,ROR2EN,Male,No,74.0,14.0,6.0,15.0,19.0,90.0,21:30,5:30,public transport,green
+11994,2,No,Clubs,Auditory,OKEXQM,Male,Yes,71.0,13.0,6.0,15.0,5.0,100.0,22:30,6:30,private transport,white
+12009,1,No,Clubs,Visual,NT701R,Male,No,53.0,20.0,10.0,16.0,12.0,91.0,0:00,7:00,walk,green
+12022,1,Yes,Clubs,Auditory,6I3HKA,Female,Yes,76.0,11.0,10.0,16.0,7.0,91.0,22:00,6:00,private transport,white
+12044,2,No,Arts,Auditory,8VCULT,Female,Yes,58.0,12.0,6.0,16.0,18.0,99.0,21:00,5:00,public transport,white
+12049,1,No,Arts,Visual,L0OL8U,Male,No,54.0,21.0,9.0,16.0,19.0,98.0,22:30,6:30,private transport,yellow
+12050,0,No,Sports,Visual,0F92HK,Female,No,76.0,26.0,1.0,15.0,6.0,100.0,22:00,6:00,private transport,red
+12056,2,No,Arts,Auditory,L5ADFI,Female,Yes,43.0,9.0,13.0,15.0,4.0,91.0,21:00,5:00,public transport,white
+12081,1,No,,Visual,ABZAFH,Male,No,76.0,15.0,10.0,16.0,11.0,96.0,21:30,5:30,public transport,green
+12082,0,Yes,,Auditory,Y962TM,Female,Yes,76.0,8.0,12.0,16.0,17.0,93.0,22:00,6:00,private transport,white
+12083,0,Yes,Arts,Visual,D7H3BE,Male,N,73.0,16.0,2.0,16.0,19.0,98.0,22:00,6:00,private transport,yellow
+12097,0,Yes,Arts,Auditory,3SBVEX,Male,Yes,73.0,11.0,4.0,15.0,16.0,93.0,22:30,6:30,private transport,red
+12102,1,Yes,Arts,Auditory,VD9BHB,Female,No,43.0,3.0,21.0,16.0,13.0,96.0,22:00,6:00,private transport,black
+12104,2,Yes,Sports,Visual,NHRP46,Female,Yes,74.0,14.0,0.0,15.0,14.0,90.0,22:00,6:00,private transport,black
+12140,1,Yes,Arts,Auditory,HY8J34,Male,No,47.0,14.0,11.0,15.0,14.0,91.0,22:30,6:30,private transport,blue
+12153,1,Yes,,Auditory,PRHE0B,Male,No,41.0,16.0,12.0,6.0,5.0,98.0,21:00,5:00,public transport,red
+12164,0,No,Arts,Visual,YKB605,Male,Yes,70.0,21.0,1.0,15.0,9.0,97.0,22:00,6:00,private transport,blue
+12171,1,Yes,Sports,Visual,3HR9X8,Male,No,90.0,16.0,5.0,15.0,7.0,96.0,21:30,5:30,public transport,red
+12174,0,No,Sports,Visual,KUTQ5E,Male,Yes,,16.0,7.0,16.0,9.0,91.0,22:30,6:30,private transport,red
+12176,1,No,,Auditory,1SABLK,Female,Yes,60.0,0.0,27.0,15.0,6.0,100.0,21:30,5:30,public transport,white
+12195,2,No,,Auditory,BDYIXV,Male,No,55.0,12.0,10.0,16.0,19.0,92.0,22:00,6:00,private transport,red
+12210,1,No,Clubs,Visual,QMZSS4,Female,No,49.0,30.0,0.0,16.0,10.0,92.0,22:30,6:30,private transport,white
+12216,1,Yes,SPORTS,Auditory,R4UH1G,Male,No,80.0,15.0,2.0,15.0,5.0,91.0,22:30,6:30,private transport,red
+12217,2,No,,Auditory,DO0HFE,Male,Yes,72.0,12.0,7.0,16.0,20.0,100.0,22:00,6:00,private transport,yellow
+12221,1,No,Clubs,Visual,WPRKN9,Male,No,53.0,11.0,19.0,16.0,12.0,97.0,21:00,5:00,public transport,white
+12222,1,No,Clubs,Auditory,GH4HZE,Male,No,57.0,12.0,19.0,15.0,20.0,96.0,21:30,5:30,public transport,yellow
+12244,1,No,Arts,Auditory,GILM8P,Female,No,51.0,22.0,8.0,15.0,7.0,97.0,21:00,5:00,public transport,black
+12249,1,Yes,Clubs,Visual,5CEWNH,Female,No,57.0,7.0,20.0,15.0,13.0,98.0,21:00,5:00,public transport,yellow
+12256,2,No,Clubs,Visual,0T9JQ9,Male,No,70.0,18.0,5.0,15.0,6.0,93.0,21:30,5:30,public transport,blue
+12257,2,Yes,,Visual,U9SOUN,Female,No,,6.0,9.0,16.0,10.0,96.0,23:00,7:00,walk,green
+12271,2,No,Arts,Auditory,IKVBVI,Female,Yes,72.0,9.0,10.0,16.0,13.0,97.0,21:30,5:30,public transport,black
+12288,1,Yes,,Auditory,9TW0R9,Female,No,79.0,7.0,10.0,16.0,6.0,96.0,21:30,5:30,public transport,blue
+12290,0,No,Clubs,Auditory,00811H,Female,Yes,88.0,21.0,4.0,15.0,8.0,92.0,23:00,7:00,walk,white
+12303,1,No,Clubs,Visual,UQV6LG,Female,Yes,74.0,15.0,9.0,15.0,16.0,96.0,22:30,6:30,private transport,green
+12305,2,No,Arts,Visual,ESF1QN,Female,No,77.0,12.0,10.0,15.0,8.0,97.0,21:30,5:30,public transport,yellow
+12313,1,Yes,Arts,Visual,1TU9FZ,Male,No,59.0,10.0,17.0,16.0,10.0,99.0,21:00,5:00,public transport,blue
+12314,2,Yes,,Visual,9QEBMM,Female,Yes,81.0,7.0,11.0,15.0,9.0,90.0,21:00,5:00,public transport,yellow
+12346,2,No,Arts,Visual,6BCPMG,Male,Yes,73.0,18.0,1.0,15.0,7.0,97.0,21:00,5:00,public transport,yellow
+12349,0,No,Clubs,Visual,DOJYWQ,Male,Yes,80.0,13.0,11.0,16.0,6.0,92.0,22:00,6:00,private transport,blue
+12352,1,No,Clubs,Auditory,AFQI7Z,Female,Yes,58.0,5.0,23.0,16.0,12.0,95.0,21:30,5:30,public transport,red
+12353,1,No,Clubs,Auditory,4AJDZX,Male,No,51.0,18.0,12.0,15.0,16.0,90.0,21:00,5:00,public transport,yellow
+12375,1,Yes,,Visual,W35MRR,Male,Yes,90.0,10.0,11.0,15.0,9.0,97.0,22:30,6:30,private transport,red
+12377,1,Yes,,Auditory,NSIOBH,Female,Yes,87.0,19.0,3.0,16.0,6.0,99.0,21:00,5:00,public transport,yellow
+12384,1,No,ARTS,Auditory,TLWIKW,Female,Yes,51.0,17.0,8.0,16.0,8.0,98.0,22:00,6:00,private transport,blue
+12391,1,No,Arts,Auditory,9OZWKG,Male,Yes,58.0,14.0,10.0,15.0,17.0,96.0,22:00,6:00,private transport,black
+12394,1,No,Clubs,Auditory,O5G9U2,Female,No,40.0,8.0,20.0,16.0,7.0,65.0,1:30,6:30,private transport,red
+12415,0,No,Clubs,Visual,Z0VKC4,Female,Yes,81.0,0.0,24.0,15.0,9.0,97.0,23:00,7:00,walk,yellow
+12446,0,No,Sports,Visual,8LLI1D,Female,Yes,83.0,1.0,23.0,15.0,9.0,99.0,21:30,5:30,public transport,black
+12449,1,No,Sports,Auditory,HV6MLY,Female,No,52.0,20.0,9.0,16.0,16.0,93.0,21:30,5:30,public transport,red
+12454,2,Yes,Sports,Visual,WPS5ER,Female,Yes,81.0,14.0,4.0,6.0,8.0,100.0,22:30,6:30,private transport,blue
+12468,0,No,NONE,Visual,F3AXAQ,Female,Yes,84.0,15.0,8.0,16.0,7.0,93.0,22:30,6:30,private transport,red
+12469,1,No,Clubs,Auditory,VOSNE5,Female,Yes,62.0,5.0,20.0,16.0,14.0,92.0,22:00,6:00,private transport,red
+12482,0,Yes,Clubs,Auditory,IOAQ4B,Female,Yes,75.0,7.0,13.0,16.0,12.0,100.0,22:00,6:00,private transport,white
+12498,0,No,,Auditory,YBIJ1H,Male,Yes,71.0,11.0,9.0,15.0,10.0,91.0,22:30,6:30,private transport,blue
+12503,1,No,Arts,Visual,3K6C69,Male,Yes,63.0,26.0,2.0,16.0,10.0,92.0,21:00,5:00,public transport,black
+12504,2,No,Arts,Visual,7STTI3,Male,No,70.0,14.0,8.0,16.0,15.0,97.0,22:00,6:00,private transport,yellow
+12512,1,Yes,Sports,Auditory,BFIIIH,Female,No,43.0,23.0,1.0,15.0,11.0,99.0,22:00,6:00,private transport,black
+12521,0,Yes,Clubs,Visual,P322T7,Male,No,80.0,18.0,0.0,15.0,7.0,90.0,23:00,7:00,walk,white
+12527,1,No,Clubs,Visual,8JLV7Z,Male,Yes,69.0,18.0,6.0,16.0,15.0,97.0,22:00,6:00,private transport,red
+12529,1,Yes,,Auditory,5X2I8E,Female,Yes,81.0,11.0,6.0,16.0,6.0,99.0,21:00,5:00,public transport,black
+12531,1,No,Clubs,Auditory,JVSXSI,Male,Yes,60.0,14.0,8.0,16.0,18.0,91.0,21:30,5:30,public transport,yellow
+12532,0,No,SPORTS,Visual,NTQUJ2,Male,No,78.0,17.0,10.0,16.0,9.0,98.0,21:00,5:00,public transport,yellow
+12536,2,No,Arts,Auditory,SYHR3H,Male,No,43.0,18.0,6.0,16.0,5.0,45.0,3:00,7:00,walk,white
+12551,1,Yes,,Visual,LLW0YP,Female,Yes,84.0,3.0,14.0,16.0,6.0,98.0,21:00,5:00,public transport,blue
+12566,0,Yes,Sports,Visual,7NC49A,Male,Yes,77.0,14.0,4.0,15.0,7.0,98.0,21:30,5:30,public transport,yellow
+12569,0,No,,Visual,KWTGSG,Male,No,92.0,22.0,1.0,15.0,9.0,98.0,21:30,5:30,public transport,black
+12570,1,Yes,Clubs,Auditory,G9VXYK,Male,No,48.0,11.0,14.0,16.0,3.0,91.0,22:30,6:30,private transport,green
+12572,1,No,Arts,Visual,HH7BM9,Female,No,60.0,25.0,1.0,15.0,19.0,92.0,22:00,6:00,private transport,red
+12593,0,No,Clubs,Visual,53J9V6,Male,No,76.0,18.0,10.0,15.0,12.0,97.0,21:30,5:30,public transport,blue
+12601,1,No,Arts,Auditory,77HM6M,Male,No,51.0,28.0,3.0,15.0,12.0,91.0,22:00,6:00,private transport,green
+12603,1,No,Sports,Auditory,L2X5DW,Female,No,49.0,25.0,5.0,15.0,0.0,74.0,0:00,7:00,walk,blue
+12616,1,Yes,,Auditory,ANYEMI,Female,Yes,74.0,0.0,17.0,16.0,12.0,98.0,22:00,6:00,private transport,green
+12627,2,No,Arts,Auditory,MIU3RC,Male,Yes,,20.0,0.0,16.0,10.0,92.0,21:00,5:00,public transport,black
+12652,1,Yes,Clubs,Auditory,BXKEYT,Female,No,56.0,20.0,5.0,16.0,14.0,91.0,21:00,5:00,public transport,white
+12676,2,Yes,Arts,Visual,XVALGO,Female,No,84.0,17.0,1.0,16.0,9.0,99.0,22:00,6:00,private transport,green
+12683,0,No,Clubs,Auditory,FKPQVX,Female,Yes,75.0,4.0,18.0,16.0,11.0,92.0,22:30,6:30,private transport,yellow
+12685,2,No,Sports,Auditory,LE5Q5C,Male,Yes,56.0,19.0,3.0,16.0,7.0,96.0,21:00,5:00,public transport,red
+12686,2,No,Sports,Visual,GCWKJW,Male,No,43.0,14.0,9.0,16.0,8.0,74.0,23:00,6:00,private transport,red
+12706,2,No,Clubs,Auditory,RIH9IC,Male,Yes,76.0,14.0,7.0,16.0,8.0,91.0,22:00,6:00,private transport,red
+12713,2,No,Sports,Auditory,0PPA1A,Female,Yes,58.0,13.0,5.0,15.0,14.0,94.0,21:00,5:00,public transport,yellow
+12725,0,No,Clubs,Auditory,W0YOKK,Male,Yes,69.0,17.0,5.0,15.0,11.0,94.0,21:30,5:30,public transport,black
+12728,1,Yes,,Visual,06PN57,Female,Yes,82.0,11.0,6.0,16.0,8.0,90.0,23:00,7:00,walk,white
+12762,2,No,,Visual,34XQIE,Male,Yes,68.0,16.0,5.0,15.0,17.0,91.0,0:00,7:00,walk,yellow
+12777,0,No,SPORTS,Visual,NSKSUA,Female,Yes,55.0,2.0,19.0,15.0,18.0,94.0,21:00,5:00,public transport,black
+12780,2,No,Clubs,Auditory,Q7EEQW,Female,Yes,39.0,20.0,2.0,15.0,9.0,91.0,22:30,6:30,private transport,black
+12781,1,Yes,Clubs,Auditory,8CMCDK,Male,No,49.0,10.0,15.0,15.0,4.0,99.0,22:00,6:00,private transport,white
+12791,1,No,Arts,Auditory,J759E4,Male,Yes,,11.0,11.0,16.0,6.0,92.0,22:00,5:00,public transport,black
+12793,1,Yes,,Auditory,W9FSCO,Female,Yes,86.0,6.0,11.0,15.0,9.0,97.0,22:00,6:00,private transport,yellow
+12796,1,No,Arts,Auditory,7LKP25,Male,No,58.0,11.0,20.0,15.0,16.0,91.0,21:00,5:00,public transport,black
+12809,1,No,Sports,Auditory,146PY2,Male,Yes,74.0,19.0,9.0,16.0,5.0,96.0,22:30,6:30,private transport,yellow
+12816,0,Yes,Clubs,Auditory,TR8ZY0,Female,No,84.0,6.0,15.0,16.0,9.0,92.0,21:00,5:00,public transport,yellow
+12827,0,No,Sports,Auditory,NES1G5,Male,Yes,78.0,17.0,5.0,16.0,7.0,95.0,23:00,7:00,walk,red
+12837,1,Yes,Sports,Auditory,PDMU64,Female,Yes,74.0,1.0,19.0,15.0,13.0,92.0,22:30,6:30,private transport,yellow
+12845,0,No,Arts,Auditory,83LD3A,Female,Yes,76.0,8.0,15.0,15.0,8.0,95.0,21:30,5:30,public transport,black
+12848,1,No,Arts,Auditory,5H4VT4,Male,No,,21.0,7.0,16.0,20.0,97.0,21:30,5:30,public transport,yellow
+12849,2,No,Arts,Visual,3FWF3Q,Male,No,72.0,12.0,5.0,15.0,12.0,91.0,21:30,5:30,public transport,white
+12850,0,No,Arts,Auditory,HA5IBW,Female,No,70.0,16.0,7.0,16.0,13.0,98.0,21:30,5:30,public transport,green
+12864,1,No,Clubs,Auditory,IZB95S,Male,Yes,62.0,23.0,4.0,15.0,9.0,92.0,21:30,5:30,public transport,black
+12870,2,No,Clubs,Auditory,UH1XH6,Male,Yes,72.0,16.0,3.0,16.0,12.0,96.0,22:00,6:00,private transport,red
+12871,0,No,Arts,Auditory,VZZAFW,Female,No,58.0,1.0,26.0,5.0,9.0,94.0,23:00,7:00,walk,green
+12887,0,No,,Visual,BEJNZH,Male,Yes,95.0,20.0,3.0,15.0,9.0,91.0,21:30,5:30,public transport,white
+12895,0,Yes,Arts,Visual,L99GHI,Male,Yes,89.0,15.0,1.0,15.0,5.0,97.0,23:00,7:00,walk,blue
+12920,0,No,Sports,Auditory,G0EN0J,Female,Yes,58.0,15.0,7.0,15.0,15.0,99.0,23:00,7:00,walk,blue
+12952,1,No,Clubs,Auditory,IW4466,Male,No,49.0,23.0,1.0,5.0,2.0,93.0,22:00,6:00,private transport,green
+12955,0,No,Sports,Auditory,JNVXTA,Female,No,70.0,15.0,12.0,16.0,19.0,100.0,21:00,5:00,public transport,yellow
+12992,0,No,Arts,Visual,YLCPR9,Female,Yes,63.0,8.0,12.0,16.0,18.0,94.0,22:00,6:00,private transport,black
+13007,2,No,,Visual,YH3Q58,Female,No,75.0,7.0,15.0,5.0,11.0,93.0,22:30,6:30,private transport,blue
+13024,1,No,Clubs,Visual,O5R6OZ,Male,No,79.0,13.0,12.0,16.0,10.0,96.0,23:00,7:00,walk,blue
+13025,1,No,Sports,Auditory,V35UWJ,Male,No,39.0,14.0,10.0,16.0,14.0,50.0,3:00,7:00,walk,yellow
+13065,2,No,Sports,Visual,NWTLCI,Male,Yes,68.0,23.0,0.0,16.0,12.0,91.0,21:00,5:00,public transport,black
+13066,0,No,,Visual,9TN9EU,Male,Y,81.0,18.0,6.0,16.0,10.0,91.0,23:00,7:00,walk,white
+13075,2,No,Sports,Auditory,0ZOKE1,Male,Yes,68.0,19.0,0.0,15.0,14.0,91.0,21:00,5:00,public transport,blue
+13090,1,Yes,,Visual,NYM01G,Male,Yes,82.0,10.0,7.0,15.0,6.0,96.0,21:30,5:30,public transport,yellow
+13097,0,No,Sports,Auditory,GF164K,Male,Yes,73.0,17.0,6.0,15.0,6.0,97.0,21:00,5:00,public transport,black
+13103,1,No,Sports,Auditory,OUACEQ,Male,Yes,54.0,24.0,7.0,15.0,13.0,99.0,21:00,5:00,public transport,white
+13106,0,Yes,Sports,Auditory,BSMT1M,Male,Yes,75.0,14.0,2.0,15.0,17.0,90.0,22:00,6:00,private transport,black
+13111,2,No,Sports,Auditory,1I0JI0,Female,No,41.0,19.0,3.0,15.0,4.0,94.0,21:30,5:30,public transport,white
+13136,1,Yes,Arts,Auditory,5V6T8H,Female,Yes,82.0,21.0,1.0,16.0,7.0,98.0,21:00,5:00,public transport,blue
+13137,2,No,Clubs,Visual,SSTUKV,Male,Yes,52.0,22.0,0.0,15.0,11.0,90.0,23:00,7:00,walk,blue
+13150,0,No,,Auditory,OHP1HT,Female,Yes,92.0,23.0,2.0,15.0,8.0,92.0,23:00,7:00,walk,black
+13188,1,No,Arts,Auditory,18EB2X,Male,Y,60.0,16.0,6.0,16.0,7.0,94.0,22:00,6:00,private transport,white
+13192,1,No,Clubs,Auditory,D88SIC,Male,No,67.0,16.0,12.0,16.0,7.0,100.0,21:00,5:00,public transport,green
+13193,2,No,Clubs,Auditory,IGYN3F,Male,Yes,49.0,19.0,3.0,16.0,11.0,98.0,23:00,7:00,walk,red
+13205,0,No,Clubs,Auditory,0LJTHP,Male,Yes,93.0,13.0,12.0,15.0,8.0,91.0,22:30,6:30,private transport,black
+13216,0,No,,Auditory,VYQ1AP,Male,No,63.0,18.0,9.0,15.0,17.0,100.0,21:00,5:00,public transport,black
+13226,1,Yes,Sports,Auditory,CGFC82,Male,Yes,76.0,17.0,3.0,16.0,17.0,100.0,22:00,6:00,private transport,blue
+13242,2,No,Sports,Auditory,H6OYRI,Female,No,56.0,16.0,6.0,16.0,19.0,93.0,21:30,5:30,public transport,blue
+13269,0,No,Sports,Visual,LQM3GH,Female,Yes,79.0,16.0,5.0,16.0,9.0,98.0,23:00,7:00,walk,white
+13272,1,No,Arts,Auditory,2GSMO3,Male,No,51.0,22.0,9.0,16.0,10.0,95.0,23:00,7:00,walk,black
+13288,1,Yes,Sports,Visual,IH3S67,Female,Yes,79.0,9.0,8.0,15.0,10.0,91.0,22:30,6:30,private transport,blue
+13302,0,Yes,Clubs,Auditory,XQOEYS,Female,No,67.0,6.0,10.0,15.0,8.0,96.0,23:00,7:00,walk,black
+13317,2,Yes,,Visual,QPTWOU,Male,No,78.0,10.0,4.0,16.0,10.0,97.0,21:30,5:30,public transport,red
+13323,2,Yes,Sports,Visual,6QK7KC,Male,No,43.0,16.0,8.0,16.0,2.0,,21:00,5:00,public transport,green
+13334,1,No,Sports,Auditory,3T3LQL,Female,Yes,63.0,13.0,14.0,16.0,18.0,98.0,21:30,5:30,public transport,blue
+13335,0,No,,Auditory,TGE8U5,Female,No,76.0,4.0,23.0,15.0,4.0,91.0,21:00,5:00,public transport,blue
+13350,0,Yes,,Visual,M8WZ0P,Female,No,83.0,6.0,14.0,16.0,10.0,92.0,21:00,5:00,public transport,black
+13369,1,No,Sports,Auditory,I2P2Z5,Male,No,55.0,11.0,16.0,16.0,9.0,95.0,23:00,7:00,walk,green
+13377,1,No,Sports,Auditory,8JQBWM,Female,Yes,64.0,21.0,7.0,16.0,13.0,92.0,22:30,6:30,private transport,white
+13382,1,No,Arts,Visual,CUSS5D,Female,No,48.0,26.0,4.0,15.0,13.0,98.0,23:00,7:00,walk,white
+13385,0,No,Arts,Auditory,RU06UQ,Female,No,,12.0,15.0,15.0,17.0,98.0,22:30,6:30,private transport,green
+13392,1,Yes,Arts,Visual,IHIQX3,Female,No,39.0,27.0,1.0,15.0,4.0,98.0,22:00,6:00,private transport,yellow
+13401,0,No,Sports,Visual,LN9KPL,Female,Y,79.0,19.0,5.0,16.0,6.0,97.0,23:00,7:00,walk,black
+13406,0,No,Clubs,Visual,0OO6K0,Male,No,72.0,12.0,16.0,16.0,19.0,91.0,22:30,6:30,private transport,green
+13428,2,Yes,Clubs,Auditory,9UY9LQ,Female,N,46.0,14.0,9.0,16.0,15.0,,22:30,6:30,private transport,red
+13444,2,No,,Auditory,SQAZKU,Male,Yes,73.0,18.0,3.0,16.0,11.0,97.0,21:00,5:00,public transport,green
+13452,1,Yes,Arts,Auditory,OCREFM,Female,Yes,74.0,7.0,10.0,15.0,10.0,91.0,22:30,6:30,private transport,blue
+13460,0,No,Sports,Visual,PW1Q40,Female,No,76.0,21.0,6.0,15.0,10.0,96.0,21:30,5:30,public transport,green
+13462,1,No,Sports,Auditory,MLXK4Z,Female,No,54.0,25.0,0.0,16.0,20.0,97.0,21:00,5:00,public transport,green
+13474,1,No,Arts,Visual,GQYAR6,Male,No,52.0,19.0,11.0,16.0,14.0,92.0,22:00,6:00,private transport,green
+13481,2,No,Clubs,Visual,SK98KK,Female,Y,59.0,5.0,17.0,15.0,13.0,90.0,21:00,5:00,public transport,yellow
+13488,0,No,Arts,Auditory,D6CL9I,Female,No,69.0,2.0,20.0,16.0,18.0,100.0,22:00,6:00,private transport,white
+13505,0,No,Arts,Auditory,KFWACS,Male,Yes,75.0,14.0,13.0,15.0,6.0,96.0,21:30,5:30,public transport,yellow
+13514,0,No,,Auditory,OATJ72,Male,Yes,69.0,21.0,0.0,16.0,18.0,96.0,21:00,5:00,public transport,yellow
+13548,1,No,Clubs,Visual,MNGIYM,Female,N,47.0,4.0,26.0,16.0,8.0,62.0,0:00,6:00,private transport,white
+13563,1,No,Arts,Auditory,SCLW24,Female,No,54.0,6.0,23.0,5.0,14.0,99.0,22:00,6:00,private transport,blue
+13578,1,Yes,Arts,Visual,1ITQR2,Male,No,45.0,11.0,19.0,15.0,13.0,68.0,23:00,6:00,private transport,red
+13587,1,No,Sports,Auditory,2S2HRD,Male,Yes,68.0,17.0,5.0,15.0,7.0,99.0,22:00,6:00,private transport,blue
+13603,2,No,Sports,Auditory,UJEJ6N,Male,Yes,65.0,19.0,4.0,16.0,17.0,97.0,21:00,5:00,public transport,white
+13634,0,No,Sports,Auditory,MJZDHQ,Female,No,57.0,10.0,11.0,16.0,8.0,100.0,22:30,6:30,private transport,white
+13640,1,Yes,Sports,Auditory,5CRHZ5,Male,Yes,40.0,26.0,2.0,16.0,15.0,79.0,22:30,6:30,private transport,yellow
+13650,1,No,Arts,Auditory,SG3UI8,Female,No,63.0,18.0,9.0,15.0,13.0,97.0,22:00,6:00,private transport,blue
+13651,0,No,Arts,Auditory,IGF00O,Female,Yes,88.0,18.0,4.0,16.0,6.0,99.0,22:00,6:00,private transport,yellow
+13659,0,No,Clubs,Auditory,DWPVIU,Male,Yes,76.0,22.0,0.0,16.0,6.0,96.0,21:30,5:30,public transport,black
+13661,2,No,,Visual,A49582,Male,Yes,82.0,14.0,3.0,15.0,8.0,,22:30,6:30,private transport,red
+13668,1,No,Arts,Auditory,PUX5VQ,Female,No,60.0,13.0,18.0,15.0,15.0,91.0,22:30,6:30,private transport,green
+13671,2,Yes,Clubs,Visual,8VKEYI,Female,Yes,73.0,19.0,1.0,16.0,13.0,,22:30,6:30,private transport,black
+13674,1,Yes,Arts,Auditory,6HOXT5,Female,No,69.0,16.0,3.0,15.0,15.0,95.0,23:00,7:00,walk,yellow
+13681,0,No,,Visual,3UI37L,Female,No,93.0,1.0,24.0,15.0,9.0,92.0,21:30,5:30,public transport,yellow
+13690,2,Yes,Arts,Visual,H5PNC7,Male,Yes,68.0,12.0,2.0,15.0,16.0,98.0,21:30,5:30,public transport,blue
+13708,1,Yes,Arts,Auditory,3HO6WS,Female,Yes,71.0,5.0,16.0,15.0,16.0,,21:30,5:30,public transport,yellow
+13730,1,No,Sports,Visual,O5JE0B,Female,Yes,57.0,26.0,2.0,16.0,14.0,96.0,21:00,5:00,public transport,white
+13737,1,No,Clubs,Auditory,IYDUTI,Female,Yes,55.0,6.0,18.0,15.0,6.0,91.0,22:30,6:30,private transport,red
+13752,2,No,Sports,Auditory,HCSJUW,Male,No,54.0,18.0,4.0,15.0,11.0,94.0,22:00,5:00,public transport,black
+13755,1,Yes,Sports,Auditory,WQ05G0,Female,Yes,74.0,12.0,5.0,16.0,20.0,91.0,22:30,6:30,private transport,yellow
+13756,2,Yes,Arts,Visual,K64994,Female,No,44.0,21.0,3.0,16.0,6.0,43.0,1:30,5:30,public transport,yellow
+13762,1,No,Sports,Auditory,CX7581,Male,Yes,64.0,11.0,17.0,16.0,18.0,,21:00,5:00,public transport,black
+13814,1,Yes,ARTS,Visual,FIPCZ4,Female,Yes,85.0,0.0,17.0,16.0,9.0,93.0,22:30,6:30,private transport,red
+13818,1,No,CLUBS,Auditory,JK7UDU,Male,No,46.0,18.0,11.0,16.0,9.0,94.0,21:30,5:30,public transport,green
+13833,1,No,Arts,Auditory,F0A9UP,Female,Yes,47.0,19.0,6.0,5.0,14.0,50.0,1:00,5:00,public transport,yellow
+13843,1,No,Clubs,Auditory,UWWR79,Female,Yes,52.0,8.0,22.0,15.0,15.0,93.0,21:00,5:00,public transport,red
+13845,2,No,Sports,Auditory,6FAWMP,Male,Y,75.0,19.0,0.0,15.0,5.0,91.0,22:30,6:30,private transport,red
+13854,1,No,Clubs,Auditory,PFYPVZ,Female,Yes,67.0,5.0,23.0,15.0,13.0,97.0,22:00,6:00,private transport,blue
+13862,0,Yes,,Visual,4HWXDF,Male,Yes,82.0,13.0,4.0,15.0,6.0,99.0,21:30,5:30,public transport,blue
+13864,1,Yes,Sports,Auditory,PZ22G9,Female,No,78.0,18.0,3.0,15.0,10.0,90.0,23:00,7:00,walk,red
+13867,2,Yes,Arts,Visual,7X827B,Female,Yes,77.0,1.0,13.0,16.0,9.0,97.0,23:00,7:00,walk,blue
+13888,0,No,,Visual,URCVP7,Male,Yes,89.0,13.0,6.0,16.0,6.0,95.0,21:30,5:30,public transport,blue
+13908,0,No,Arts,Visual,52URAQ,Male,Yes,74.0,14.0,10.0,15.0,18.0,91.0,23:00,7:00,walk,black
+13939,0,No,Sports,Auditory,4A2NZE,Male,No,54.0,10.0,17.0,16.0,19.0,91.0,21:00,5:00,public transport,black
+13950,2,No,Clubs,Auditory,3RAZ9T,Male,Yes,59.0,21.0,1.0,15.0,10.0,99.0,22:30,6:30,private transport,yellow
+13951,2,No,Clubs,Visual,9EHSFI,Female,Y,76.0,13.0,6.0,15.0,7.0,96.0,22:00,6:00,private transport,white
+13957,2,No,Arts,Visual,BXBUX6,Male,No,72.0,16.0,6.0,15.0,16.0,91.0,22:30,6:30,private transport,yellow
+13974,0,No,Sports,Auditory,FCQCIK,Male,Yes,50.0,18.0,4.0,15.0,14.0,100.0,21:30,5:30,public transport,red
+13988,0,No,Clubs,Visual,0QDKX1,Female,Yes,93.0,8.0,10.0,16.0,10.0,95.0,21:00,5:00,public transport,black
+13996,0,Yes,Arts,Auditory,5NSC24,Female,No,74.0,2.0,17.0,15.0,15.0,94.0,22:00,6:00,private transport,red
+14000,2,No,Sports,Auditory,1I0JI0,Female,No,41.0,19.0,3.0,15.0,4.0,94.0,21:30,5:30,public transport,green
+14003,0,No,Sports,Auditory,FQ7OJS,Female,No,68.0,14.0,13.0,5.0,14.0,93.0,21:30,5:30,public transport,black
+14015,0,No,Arts,Auditory,30V5DC,Female,Yes,66.0,9.0,12.0,16.0,9.0,94.0,22:00,6:00,private transport,blue
+14019,2,No,Arts,Visual,863MMP,Male,Yes,,10.0,7.0,15.0,10.0,94.0,21:00,5:00,public transport,black
+14038,0,Yes,,Auditory,XZHI8O,Female,No,78.0,21.0,0.0,16.0,6.0,94.0,23:00,7:00,walk,red
+14045,0,No,Clubs,Auditory,K41SFO,Male,Yes,61.0,19.0,1.0,16.0,15.0,92.0,22:30,6:30,private transport,white
+14054,2,No,,Visual,LYKR5V,Male,Yes,67.0,19.0,4.0,15.0,5.0,100.0,22:30,6:30,private transport,red
+14062,1,No,NONE,Auditory,FCYS48,Female,No,53.0,28.0,3.0,15.0,18.0,96.0,21:30,5:30,public transport,red
+14079,1,Yes,Sports,Auditory,VQAWW2,Female,Yes,80.0,10.0,11.0,15.0,10.0,93.0,21:00,5:00,public transport,white
+14080,1,No,,Visual,496F77,Female,Yes,64.0,8.0,16.0,16.0,14.0,99.0,22:30,6:30,private transport,green
+14091,1,No,,Auditory,NVCPQX,Female,Yes,66.0,8.0,19.0,16.0,10.0,94.0,23:00,7:00,walk,yellow
+14098,2,No,Sports,Auditory,E2SD8H,Male,Yes,,14.0,7.0,16.0,17.0,93.0,21:00,5:00,public transport,green
+14102,0,No,,Visual,Q58NJR,Female,Yes,98.0,18.0,3.0,16.0,9.0,92.0,21:00,5:00,public transport,green
+14104,2,Yes,Clubs,Visual,GFYW8C,Male,No,73.0,16.0,4.0,15.0,9.0,99.0,22:00,6:00,private transport,yellow
+14114,2,No,,Auditory,621JOU,Male,Yes,68.0,16.0,3.0,15.0,11.0,97.0,21:30,5:30,public transport,yellow
+14117,2,Yes,Clubs,Visual,I9QU41,Male,Yes,83.0,15.0,3.0,15.0,8.0,93.0,21:00,5:00,public transport,red
+14126,1,No,Clubs,Auditory,LG3438,Male,Yes,48.0,25.0,5.0,16.0,8.0,92.0,23:00,7:00,walk,black
+14135,0,No,,Visual,ZAB99E,Male,Yes,81.0,11.0,13.0,15.0,10.0,90.0,22:00,6:00,private transport,white
+14143,1,Yes,Sports,Auditory,91IO05,Female,No,76.0,5.0,16.0,16.0,10.0,97.0,21:30,5:30,public transport,black
+14147,0,No,,Auditory,RT0TH3,Female,Yes,95.0,19.0,2.0,15.0,10.0,99.0,23:00,7:00,walk,red
+14154,0,No,,Visual,VMGQTX,Male,Yes,91.0,14.0,4.0,15.0,7.0,95.0,22:30,6:30,private transport,yellow
+14161,1,No,Clubs,Auditory,EC0CAY,Female,Yes,57.0,0.0,30.0,15.0,11.0,96.0,22:30,6:30,private transport,blue
+14162,1,No,Sports,Visual,K4MDSK,Male,No,52.0,23.0,7.0,16.0,17.0,97.0,21:30,5:30,public transport,yellow
+14173,0,Yes,Sports,Visual,JV1HDR,Female,No,87.0,14.0,2.0,16.0,10.0,93.0,21:30,5:30,public transport,red
+14189,2,No,,Visual,EGM4CT,Female,Yes,79.0,15.0,4.0,16.0,6.0,100.0,22:00,6:00,private transport,red
+14190,2,Yes,Clubs,Visual,HLQ6T9,Female,No,73.0,0.0,20.0,16.0,15.0,94.0,22:00,6:00,private transport,black
+14191,0,No,Arts,Auditory,1Y14N8,Male,No,63.0,20.0,7.0,16.0,16.0,96.0,21:00,5:00,public transport,blue
+14199,0,No,,Auditory,URVY0G,Female,Yes,71.0,9.0,12.0,16.0,10.0,92.0,21:00,5:00,public transport,black
+14202,0,Yes,,Visual,S4Q4BR,Female,No,83.0,15.0,5.0,16.0,7.0,92.0,22:30,6:30,private transport,blue
+14206,1,No,Arts,Auditory,JPPBB7,Female,No,50.0,23.0,2.0,16.0,11.0,51.0,2:30,6:30,private transport,red
+14214,0,Yes,Clubs,Auditory,E68CXI,Female,Yes,80.0,17.0,4.0,15.0,6.0,99.0,23:00,7:00,walk,white
+14239,1,Yes,Sports,Auditory,G65TZN,Male,Yes,66.0,21.0,0.0,16.0,12.0,91.0,23:00,7:00,walk,white
+14256,0,No,Arts,Auditory,MUX8CO,Male,Yes,62.0,18.0,3.0,15.0,17.0,93.0,21:30,5:30,public transport,green
+14257,0,No,,Visual,IFE46X,Male,No,71.0,16.0,6.0,16.0,9.0,,22:00,6:00,private transport,green
+14263,1,No,,Visual,4ADF31,Female,Yes,64.0,13.0,14.0,15.0,17.0,92.0,22:00,6:00,private transport,green
+14280,1,No,Sports,Auditory,ICLDJY,Male,Yes,62.0,13.0,14.0,15.0,20.0,,21:30,5:30,public transport,white
+14282,1,No,Arts,Visual,RDGJ7I,Male,Yes,63.0,17.0,11.0,16.0,17.0,97.0,21:30,5:30,public transport,blue
+14301,1,Yes,,Auditory,94AGU1,Female,Yes,83.0,15.0,2.0,16.0,9.0,98.0,21:30,5:30,public transport,yellow
+14306,0,No,Arts,Auditory,FQR1TO,Female,Yes,68.0,19.0,8.0,16.0,14.0,92.0,23:00,7:00,walk,blue
+14323,0,No,,Visual,UMFPBG,Female,Yes,60.0,9.0,11.0,16.0,13.0,98.0,21:00,5:00,public transport,white
+14330,0,No,Clubs,Auditory,5ZZ0BZ,Male,No,69.0,16.0,5.0,15.0,12.0,96.0,22:30,6:30,private transport,red
+14344,1,No,Clubs,Auditory,PAGLW9,Male,No,48.0,21.0,3.0,16.0,8.0,89.0,21:00,5:00,public transport,blue
+14354,1,No,Arts,Auditory,WSU99W,Female,No,,1.0,26.0,15.0,16.0,97.0,22:30,6:30,private transport,yellow
+14362,2,No,Clubs,Auditory,PBBM14,Male,Yes,56.0,18.0,2.0,16.0,14.0,93.0,23:00,7:00,walk,white
+14368,1,No,,Auditory,APR58F,Male,Yes,62.0,20.0,8.0,16.0,15.0,94.0,22:30,6:30,private transport,red
+14370,2,Yes,Sports,Visual,W8MWCT,Male,Yes,81.0,15.0,3.0,16.0,8.0,93.0,21:30,5:30,public transport,yellow
+14388,0,No,Clubs,Auditory,9KXCVN,Female,Yes,73.0,16.0,5.0,16.0,11.0,95.0,22:00,6:00,private transport,green
+14391,0,No,,Visual,BHZMIJ,Female,Yes,90.0,1.0,22.0,16.0,7.0,94.0,22:00,6:00,private transport,blue
+14408,0,No,Clubs,Visual,CK0ZMC,Male,No,91.0,13.0,10.0,15.0,6.0,97.0,22:30,6:30,private transport,red
+14424,1,Yes,Arts,Auditory,XJ2GUL,Female,No,80.0,16.0,6.0,16.0,9.0,95.0,23:00,7:00,walk,red
+14435,2,No,Arts,Auditory,DKGBXK,Male,Yes,38.0,14.0,9.0,16.0,7.0,53.0,1:30,6:30,private transport,black
+14436,2,No,Arts,Auditory,LD3YP0,Female,Y,56.0,18.0,0.0,16.0,11.0,99.0,23:00,7:00,walk,blue
+14471,2,No,Clubs,Auditory,EB8U67,Male,No,73.0,18.0,1.0,15.0,16.0,100.0,22:00,6:00,private transport,blue
+14473,0,No,Arts,Auditory,JSKZB6,Female,No,93.0,10.0,12.0,15.0,9.0,91.0,23:00,7:00,walk,yellow
+14492,1,No,Arts,Auditory,HMVY39,Female,No,44.0,18.0,10.0,16.0,4.0,67.0,2:00,7:00,walk,yellow
+14497,0,No,Arts,Auditory,7NLCUW,Male,No,71.0,16.0,11.0,15.0,18.0,98.0,21:30,5:30,public transport,red
+14501,1,Yes,Clubs,Visual,N2DX1T,Male,Yes,78.0,11.0,10.0,16.0,6.0,91.0,23:00,7:00,walk,green
+14506,1,Yes,,Auditory,P9409T,Male,Yes,,14.0,6.0,15.0,15.0,96.0,21:00,5:00,public transport,blue
+14511,0,No,Sports,Auditory,FSE5BW,Female,Yes,77.0,16.0,5.0,15.0,8.0,94.0,22:00,6:00,private transport,blue
+14528,1,No,Sports,Visual,QVCPU0,Female,No,53.0,23.0,7.0,15.0,9.0,97.0,21:00,5:00,public transport,yellow
+14559,0,Yes,Clubs,Visual,O30HMN,Female,Yes,84.0,11.0,5.0,15.0,6.0,95.0,21:00,5:00,public transport,white
+14563,2,No,Arts,Visual,O7DMI8,Female,Yes,83.0,14.0,3.0,15.0,7.0,97.0,21:00,5:00,public transport,yellow
+14579,1,No,,Auditory,YSEQHJ,Female,Yes,64.0,12.0,15.0,15.0,11.0,93.0,23:00,7:00,walk,blue
+14582,2,Yes,Clubs,Auditory,GN81SK,Female,No,40.0,12.0,10.0,15.0,10.0,92.0,22:00,5:00,public transport,green
+14603,1,No,Clubs,Visual,PGMLCJ,Male,Yes,57.0,19.0,7.0,15.0,14.0,94.0,22:00,6:00,private transport,white
+14624,1,No,Clubs,Visual,J90CH5,Male,No,54.0,13.0,17.0,15.0,19.0,98.0,22:00,6:00,private transport,green
+14625,0,No,,Auditory,BQPSMW,Male,No,92.0,25.0,0.0,15.0,10.0,99.0,21:30,5:30,public transport,blue
+14631,1,No,,Auditory,0IP4YZ,Female,No,63.0,8.0,19.0,16.0,15.0,94.0,21:30,5:30,public transport,black
+14638,0,No,Clubs,Visual,JNM3LK,Male,Yes,92.0,18.0,4.0,15.0,8.0,96.0,22:00,6:00,private transport,yellow
+14641,0,No,Sports,Auditory,4EESH9,Male,Yes,91.0,21.0,0.0,16.0,7.0,94.0,21:30,5:30,public transport,black
+14670,0,Yes,,Auditory,K4Q615,Female,Yes,84.0,8.0,13.0,15.0,7.0,97.0,22:00,6:00,private transport,black
+14681,1,No,Clubs,Auditory,CDDEAJ,Female,No,52.0,19.0,6.0,15.0,14.0,91.0,21:00,5:00,public transport,yellow
+14686,1,No,Sports,Auditory,1CQA1J,Female,Yes,57.0,0.0,24.0,15.0,10.0,92.0,23:00,7:00,walk,red
+14688,0,Yes,NONE,Visual,TX8V35,Male,No,82.0,11.0,6.0,16.0,7.0,94.0,21:00,5:00,public transport,white
+14709,2,Yes,Clubs,Auditory,NN1VMU,Female,No,56.0,5.0,11.0,15.0,19.0,92.0,21:00,5:00,public transport,white
+14717,1,No,Sports,Auditory,3GJP0J,Male,Yes,63.0,22.0,6.0,6.0,11.0,93.0,23:00,7:00,walk,white
+14722,0,No,,Auditory,KL72AC,Female,No,59.0,14.0,7.0,16.0,9.0,96.0,21:30,5:30,public transport,blue
+14724,1,No,Sports,Auditory,QB1CUO,Male,Yes,51.0,29.0,0.0,16.0,7.0,96.0,22:00,6:00,private transport,blue
+14735,0,No,Sports,Auditory,KT44TP,Female,No,69.0,12.0,15.0,16.0,18.0,98.0,23:00,7:00,walk,yellow
+14737,0,Yes,,Visual,XUL9A7,Male,Yes,85.0,13.0,3.0,16.0,7.0,98.0,21:30,5:30,public transport,white
+14763,0,No,Arts,Visual,ML0BVY,Female,Yes,82.0,7.0,17.0,15.0,8.0,93.0,21:00,5:00,public transport,yellow
+14778,0,No,Sports,Auditory,ODCISK,Male,Yes,64.0,16.0,6.0,16.0,19.0,94.0,22:30,6:30,private transport,white
+14785,0,No,,Auditory,NTKB1J,Male,Yes,94.0,19.0,2.0,16.0,9.0,95.0,21:00,5:00,public transport,green
+14800,1,No,Sports,Visual,XWU22X,Male,No,68.0,14.0,10.0,15.0,10.0,98.0,22:00,6:00,private transport,blue
+14819,0,Yes,,Visual,ZORKKH,Male,Yes,89.0,11.0,5.0,16.0,8.0,99.0,21:00,5:00,public transport,green
+14822,0,No,,Visual,1GL884,Male,Yes,86.0,16.0,7.0,15.0,9.0,96.0,23:00,7:00,walk,black
+14823,1,No,Clubs,Visual,R92WAF,Male,No,54.0,16.0,10.0,15.0,18.0,100.0,21:00,5:00,public transport,white
+14828,0,No,Arts,Auditory,34NHY6,Male,Yes,77.0,22.0,1.0,16.0,7.0,97.0,21:00,5:00,public transport,blue
+14829,1,Yes,,Visual,HIZV56,Male,Yes,45.0,10.0,20.0,15.0,8.0,88.0,22:00,6:00,private transport,yellow
+14848,1,No,Sports,Auditory,YCUAD6,Female,Yes,65.0,27.0,1.0,15.0,13.0,97.0,21:30,5:30,public transport,green
+14863,1,Yes,Clubs,Auditory,VFUYG8,Female,Yes,47.0,9.0,21.0,16.0,6.0,59.0,1:30,6:30,private transport,black
+14864,2,No,,Visual,T0K845,Female,Yes,72.0,9.0,10.0,16.0,6.0,95.0,21:00,5:00,public transport,white
+14870,0,No,Sports,Visual,AEDCZ3,Male,No,59.0,17.0,3.0,16.0,13.0,97.0,21:30,5:30,public transport,blue
+14872,0,No,Arts,Auditory,YL8T32,Female,Yes,76.0,16.0,7.0,16.0,7.0,90.0,22:30,6:30,private transport,yellow
+14879,1,No,Arts,Auditory,GZIXPZ,Male,No,53.0,18.0,11.0,15.0,12.0,92.0,23:00,6:00,private transport,yellow
+14881,1,No,Clubs,Visual,N0087V,Male,Yes,72.0,14.0,10.0,16.0,14.0,94.0,21:30,5:30,public transport,green
+14888,2,No,Sports,Visual,WG284W,Male,No,68.0,16.0,7.0,15.0,11.0,93.0,21:30,5:30,public transport,red
+14892,1,No,Clubs,Auditory,EAV77P,Male,Yes,59.0,13.0,14.0,16.0,12.0,96.0,23:00,7:00,walk,black
+14894,1,No,,Visual,9LIB9C,Female,Yes,77.0,22.0,3.0,15.0,8.0,90.0,21:00,5:00,public transport,green
+14901,0,Yes,Clubs,Visual,L8R0CZ,Female,No,75.0,6.0,12.0,15.0,6.0,100.0,21:00,5:00,public transport,yellow
+14918,0,Yes,Clubs,Auditory,CFBVC5,Female,Yes,75.0,9.0,11.0,16.0,13.0,100.0,21:00,5:00,public transport,white
+14928,0,No,Clubs,Auditory,EG7Z1G,Male,Yes,73.0,17.0,6.0,15.0,9.0,98.0,22:30,6:30,private transport,black
+14930,1,No,Clubs,Auditory,33OK38,Male,Yes,56.0,12.0,15.0,15.0,11.0,92.0,21:00,5:00,public transport,blue
+14933,2,Yes,Clubs,Visual,ERBH60,Female,No,72.0,0.0,20.0,16.0,18.0,99.0,21:30,5:30,public transport,green
+14937,2,No,Clubs,Visual,V0G2XZ,Female,No,,2.0,22.0,16.0,10.0,93.0,23:00,7:00,walk,blue
+14953,2,No,Clubs,Auditory,ZYBDHG,Male,Yes,,19.0,2.0,15.0,9.0,93.0,22:00,6:00,private transport,yellow
+14956,2,No,Sports,Auditory,V9P709,Male,No,47.0,15.0,8.0,16.0,7.0,91.0,22:00,6:00,private transport,red
+14963,1,No,Arts,Auditory,2C0YTU,Female,No,57.0,8.0,19.0,15.0,11.0,96.0,21:00,5:00,public transport,white
+14966,0,No,,Visual,RVOBQZ,Female,Yes,74.0,16.0,12.0,15.0,13.0,91.0,22:30,6:30,private transport,black
+14979,2,No,,Visual,XZDMQ1,Male,No,69.0,11.0,11.0,15.0,16.0,99.0,22:00,6:00,private transport,red
+14985,1,No,Arts,Auditory,HO9N23,Male,No,58.0,22.0,9.0,16.0,8.0,92.0,22:30,6:30,private transport,red
+14986,2,No,Clubs,Auditory,XVPCR9,Female,No,62.0,13.0,9.0,16.0,19.0,,21:00,5:00,public transport,white
+14989,0,No,,Auditory,7OTPTM,Female,Yes,70.0,7.0,15.0,15.0,8.0,95.0,22:00,6:00,private transport,green
+15001,1,No,Arts,Visual,MCGQGE,Male,No,54.0,30.0,0.0,16.0,14.0,91.0,21:00,5:00,public transport,red
+15006,1,Yes,,Visual,SLCE26,Female,Yes,82.0,6.0,11.0,16.0,10.0,94.0,21:00,5:00,public transport,blue
+15028,2,No,Arts,Auditory,4SSYIN,Female,Yes,73.0,1.0,22.0,15.0,18.0,92.0,23:00,7:00,walk,green
+15037,1,No,Clubs,Visual,7ARU24,Male,Yes,59.0,12.0,16.0,16.0,12.0,100.0,23:00,7:00,walk,blue
+15044,1,No,Arts,Visual,7L2TVJ,Male,No,51.0,20.0,10.0,6.0,9.0,97.0,22:00,6:00,private transport,red
+15047,1,No,Sports,Visual,ZLT5HW,Female,Yes,69.0,13.0,9.0,15.0,13.0,90.0,21:30,5:30,public transport,black
+15055,1,No,Clubs,Auditory,CDCHI6,Female,Yes,,4.0,20.0,15.0,15.0,91.0,22:00,6:00,private transport,red
+15063,0,No,NONE,Auditory,392867,Male,Yes,67.0,10.0,11.0,15.0,17.0,92.0,23:00,7:00,walk,green
+15086,0,No,,Visual,2K0FND,Male,No,79.0,15.0,12.0,16.0,5.0,,21:00,5:00,public transport,green
+15090,1,No,Clubs,Auditory,OM1VZ5,Male,No,51.0,12.0,13.0,15.0,8.0,,21:30,5:30,public transport,white
+15092,1,No,Sports,Auditory,146PY2,Male,Yes,74.0,19.0,9.0,16.0,5.0,96.0,22:30,6:30,private transport,blue
+15097,0,No,,Auditory,ES3ZP2,Female,No,86.0,0.0,22.0,16.0,7.0,92.0,23:00,7:00,walk,green
+15105,0,No,Clubs,Auditory,SRKZNZ,Female,Yes,69.0,18.0,4.0,15.0,13.0,97.0,23:00,7:00,walk,white
+15106,1,Yes,Sports,Visual,QH02GH,Female,Yes,67.0,21.0,6.0,15.0,11.0,95.0,22:30,6:30,private transport,blue
+15127,1,No,Sports,Auditory,ZGVJX8,Female,Yes,62.0,3.0,25.0,16.0,8.0,,22:00,6:00,private transport,black
+15177,1,No,Arts,Auditory,6NST8U,Male,No,46.0,21.0,9.0,16.0,4.0,96.0,21:00,5:00,public transport,green
+15195,1,Yes,Clubs,Visual,QXB2U5,Male,No,100.0,10.0,7.0,16.0,9.0,91.0,21:00,5:00,public transport,white
+15197,2,Yes,Sports,Visual,MRXVR7,Male,No,67.0,15.0,0.0,6.0,14.0,92.0,23:30,6:30,private transport,green
+15206,1,No,Arts,Auditory,22O4EK,Male,No,44.0,23.0,1.0,15.0,1.0,57.0,0:30,5:30,public transport,white
+15215,2,No,Clubs,Auditory,8QAN1W,Male,No,37.0,18.0,5.0,16.0,14.0,55.0,1:00,6:00,private transport,blue
+15220,1,No,Clubs,Auditory,4ALMRK,Female,Yes,64.0,10.0,12.0,16.0,8.0,93.0,23:00,7:00,walk,black
+15226,0,No,,Auditory,3YP8F0,Male,Yes,94.0,13.0,8.0,15.0,7.0,91.0,23:00,7:00,walk,blue
+15256,0,No,,Auditory,W156S0,Female,No,66.0,8.0,12.0,15.0,12.0,95.0,21:30,5:30,public transport,black
+15266,0,Yes,Arts,Visual,IO4YUR,Female,Yes,79.0,17.0,3.0,16.0,7.0,94.0,21:00,5:00,public transport,red
+15267,1,Yes,Clubs,Auditory,CMU5DH,Male,Yes,66.0,16.0,3.0,15.0,16.0,93.0,21:30,5:30,public transport,blue
+15268,0,No,,Visual,ZM2575,Male,Yes,87.0,21.0,2.0,15.0,8.0,98.0,21:00,5:00,public transport,red
+15271,0,Yes,Sports,Visual,SVPY7T,Male,Yes,76.0,16.0,0.0,15.0,15.0,94.0,22:00,6:00,private transport,green
+15273,1,No,Clubs,Visual,1FKAEF,Male,No,61.0,20.0,6.0,16.0,6.0,95.0,21:30,5:30,public transport,green
+15280,2,No,,Visual,9O8DGS,Male,Yes,80.0,16.0,3.0,15.0,7.0,92.0,21:00,5:00,public transport,white
+15287,2,No,,Visual,LFO675,Male,N,69.0,16.0,6.0,16.0,19.0,90.0,22:00,6:00,private transport,black
+15291,1,No,Clubs,Auditory,YM2RRA,Female,Yes,69.0,10.0,12.0,15.0,14.0,97.0,23:00,7:00,walk,green
+15295,1,No,Arts,Auditory,LPHW9F,Male,Yes,53.0,20.0,10.0,16.0,13.0,96.0,22:00,6:00,private transport,red
+15300,2,No,Arts,Auditory,WUDN46,Male,Yes,77.0,14.0,7.0,15.0,6.0,91.0,22:00,5:00,public transport,yellow
+15302,1,No,Arts,Auditory,8O9X0O,Female,No,54.0,8.0,21.0,15.0,20.0,95.0,21:00,5:00,public transport,black
+15312,0,No,,Visual,5860X3,Female,No,90.0,6.0,12.0,15.0,10.0,97.0,23:00,7:00,walk,green
+15313,1,Yes,CLUBS,Auditory,79HYRQ,Male,Yes,72.0,20.0,1.0,15.0,20.0,94.0,23:00,7:00,walk,white
+15334,1,No,Sports,Auditory,QN7BN7,Female,No,44.0,18.0,7.0,15.0,9.0,96.0,21:00,5:00,public transport,blue
+15336,2,Yes,,Visual,1JBI9M,Female,No,85.0,10.0,8.0,16.0,6.0,92.0,22:00,6:00,private transport,yellow
+15343,2,No,,Visual,4A0PD3,Female,Yes,78.0,8.0,9.0,16.0,5.0,91.0,21:00,5:00,public transport,green
+15348,1,No,Sports,Auditory,Y6ES0J,Male,No,51.0,12.0,13.0,15.0,18.0,95.0,23:00,7:00,walk,green
+15360,1,No,Sports,Auditory,IZQMD1,Male,Yes,59.0,20.0,7.0,16.0,16.0,100.0,22:00,6:00,private transport,green
+15369,2,No,Arts,Auditory,JTK7SR,Male,No,54.0,15.0,7.0,15.0,14.0,96.0,22:30,6:30,private transport,black
+15381,0,No,,Visual,309DJH,Male,Yes,72.0,19.0,8.0,16.0,6.0,96.0,21:30,5:30,public transport,red
+15382,2,No,Sports,Auditory,0PPA1A,Female,Yes,58.0,13.0,5.0,15.0,14.0,94.0,21:00,5:00,public transport,red
+15399,0,No,Sports,Auditory,AXZN2E,Male,No,66.0,24.0,3.0,16.0,7.0,95.0,21:30,5:30,public transport,yellow
+15400,1,No,Sports,Auditory,ZA64M7,Female,Yes,63.0,22.0,6.0,16.0,8.0,93.0,22:30,6:30,private transport,black
+15410,2,Yes,,Visual,9DVWQG,Female,No,,11.0,7.0,15.0,8.0,91.0,22:00,6:00,private transport,white
+15412,1,No,Arts,Auditory,W46GBE,Female,Yes,64.0,21.0,7.0,15.0,14.0,,22:30,6:30,private transport,yellow
+15415,1,No,,Auditory,R082XV,Female,Y,65.0,27.0,1.0,16.0,14.0,97.0,23:00,7:00,walk,black
+15470,0,No,,Auditory,URVY0G,Female,Yes,71.0,9.0,12.0,16.0,10.0,92.0,21:00,5:00,public transport,yellow
+15479,1,No,Clubs,Auditory,VKPDTZ,Male,No,50.0,15.0,15.0,16.0,16.0,98.0,21:00,5:00,public transport,black
+15491,0,No,Sports,Auditory,V6Z9OV,Male,No,66.0,20.0,0.0,15.0,16.0,98.0,21:00,5:00,public transport,red
+15512,1,No,Sports,Visual,6PC8RT,Male,Yes,59.0,20.0,8.0,16.0,20.0,,22:30,6:30,private transport,black
+15531,0,No,Arts,Auditory,G5Z84V,Male,Yes,,10.0,15.0,16.0,7.0,93.0,21:30,5:30,public transport,black
+15537,2,No,Arts,Auditory,Q8FOU5,Female,Yes,58.0,16.0,2.0,15.0,10.0,97.0,21:30,5:30,public transport,red
+15548,2,No,Arts,Visual,CSXVIT,Male,Yes,82.0,16.0,1.0,15.0,7.0,90.0,23:00,7:00,walk,black
+15552,2,Yes,Clubs,Visual,P3IUYR,Male,No,69.0,11.0,4.0,16.0,18.0,96.0,21:00,5:00,public transport,black
+15558,1,Yes,,Visual,RUHEXB,Female,Yes,82.0,14.0,3.0,16.0,5.0,94.0,22:30,6:30,private transport,red
+15574,1,No,Clubs,Auditory,RM1PPO,Female,Yes,43.0,19.0,5.0,16.0,8.0,50.0,2:00,6:00,private transport,green
+15600,2,No,Arts,Auditory,DS0QOH,Female,Yes,37.0,2.0,20.0,15.0,5.0,,22:30,5:30,public transport,yellow
+15601,1,No,Clubs,Visual,ZWQWXC,Female,Yes,59.0,13.0,17.0,15.0,6.0,93.0,23:00,7:00,walk,white
+15634,1,Yes,,Auditory,Q9JSP0,Female,Yes,79.0,17.0,0.0,16.0,5.0,90.0,23:00,7:00,walk,white
+15666,0,No,Sports,Auditory,QHI6MA,Male,No,71.0,16.0,6.0,16.0,13.0,95.0,23:00,7:00,walk,yellow
+15667,0,No,Sports,Auditory,LZC20W,Female,No,69.0,11.0,10.0,15.0,19.0,100.0,23:00,7:00,walk,black
+15672,0,No,,Auditory,CXZFG3,Female,Yes,94.0,10.0,11.0,16.0,5.0,99.0,23:00,7:00,walk,black
+15677,1,No,Sports,Visual,2DML08,Female,No,54.0,21.0,9.0,16.0,12.0,93.0,23:00,7:00,walk,yellow
+15683,0,No,Arts,Visual,T9RUZ8,Female,No,71.0,25.0,3.0,15.0,19.0,98.0,22:00,6:00,private transport,black
+15722,1,Yes,Clubs,Auditory,AFDEG7,Female,No,46.0,9.0,20.0,16.0,2.0,96.0,22:30,6:30,private transport,white
+15732,2,No,Arts,Visual,ENRYLD,Female,Yes,58.0,20.0,2.0,16.0,11.0,93.0,21:30,5:30,public transport,blue
+15743,0,Yes,Arts,Visual,SOP3AA,Male,Yes,89.0,11.0,5.0,16.0,5.0,97.0,21:30,5:30,public transport,yellow
+15766,2,Yes,,Visual,LBFQME,Female,No,81.0,12.0,6.0,16.0,6.0,93.0,23:00,7:00,walk,black
+15767,0,Yes,,Visual,C6WXES,Male,Yes,88.0,14.0,2.0,15.0,6.0,97.0,21:30,5:30,public transport,blue
+15770,1,No,Clubs,Visual,DHRUMI,Male,Yes,53.0,25.0,5.0,5.0,6.0,96.0,21:00,5:00,public transport,black
+15775,0,No,Clubs,Visual,0U7EMF,Male,Yes,77.0,14.0,10.0,15.0,6.0,95.0,22:30,6:30,private transport,white
+15776,1,No,,Auditory,4GB8X5,Male,No,51.0,29.0,0.0,15.0,8.0,99.0,22:00,6:00,private transport,white
+15783,1,Yes,Arts,Visual,AX1U3L,Male,Yes,94.0,18.0,3.0,16.0,7.0,92.0,23:00,7:00,walk,red
+15785,0,No,,Auditory,3YP8F0,Male,Yes,94.0,13.0,8.0,15.0,7.0,91.0,23:00,7:00,walk,black
+15786,0,No,,Auditory,BEXUUY,Female,No,70.0,3.0,24.0,5.0,9.0,92.0,22:00,6:00,private transport,red
+15789,0,Yes,Arts,Auditory,F4UOZV,Female,Y,72.0,16.0,0.0,15.0,15.0,100.0,21:30,5:30,public transport,red
+15794,1,No,Sports,Visual,BV8XZO,Female,Yes,46.0,22.0,3.0,15.0,8.0,93.0,21:30,5:30,public transport,black
+15795,1,Yes,Sports,Visual,Y4STFW,Male,No,78.0,12.0,8.0,16.0,6.0,96.0,22:30,6:30,private transport,red
+15798,2,No,Arts,Auditory,IGFIXA,Female,Yes,73.0,9.0,10.0,15.0,6.0,95.0,21:30,5:30,public transport,red
+15799,1,No,Sports,Auditory,U6R41G,Male,Yes,67.0,14.0,14.0,15.0,18.0,96.0,21:30,5:30,public transport,black
+15803,0,No,Clubs,Visual,DOJYWQ,Male,Yes,80.0,13.0,11.0,16.0,6.0,92.0,22:00,6:00,private transport,yellow
+15807,0,Yes,Arts,Auditory,801ZL9,Male,Yes,75.0,10.0,5.0,15.0,19.0,96.0,22:30,6:30,private transport,blue
+15812,1,Yes,Clubs,Visual,HE1Y6A,Female,Yes,96.0,3.0,18.0,15.0,6.0,97.0,23:00,7:00,walk,green
+15813,1,Yes,Arts,Auditory,4TM633,Female,Yes,82.0,8.0,14.0,15.0,8.0,95.0,22:00,6:00,private transport,red
+15821,0,Yes,Arts,Visual,OCODA3,Male,Yes,71.0,10.0,6.0,15.0,5.0,95.0,22:30,6:30,private transport,red
+15832,2,No,Arts,Auditory,D5GK79,Male,Yes,74.0,14.0,9.0,15.0,9.0,,21:00,5:00,public transport,black
+15836,1,No,Clubs,Auditory,G3PBH7,Female,Yes,59.0,15.0,12.0,15.0,5.0,97.0,23:00,7:00,walk,black
+15843,2,No,Arts,Auditory,37U5E4,Female,Yes,56.0,3.0,15.0,15.0,7.0,96.0,21:00,5:00,public transport,white
+15855,1,Yes,Sports,Auditory,61GAWW,Male,Yes,51.0,10.0,15.0,15.0,14.0,91.0,21:00,5:00,public transport,white
+15867,2,No,Arts,Visual,2O78B1,Male,Yes,80.0,14.0,5.0,15.0,6.0,96.0,23:00,7:00,walk,blue
+15868,1,No,Clubs,Visual,1FKAEF,Male,No,61.0,20.0,6.0,16.0,6.0,95.0,21:30,5:30,public transport,yellow
+15869,0,No,Clubs,Auditory,HD6BSS,Female,Yes,90.0,19.0,3.0,15.0,7.0,99.0,22:30,6:30,private transport,white
+15871,1,No,Arts,Visual,Z9YY3M,Female,No,52.0,25.0,5.0,15.0,18.0,98.0,22:00,6:00,private transport,black
+15878,0,No,,Visual,XID7I9,Female,Yes,91.0,22.0,1.0,16.0,6.0,100.0,23:00,7:00,walk,white
+15889,0,Yes,Sports,Visual,YZ3YKQ,Female,No,83.0,14.0,6.0,15.0,6.0,90.0,23:00,7:00,walk,blue
+15895,1,No,Clubs,Visual,XPECN2,Female,No,56.0,12.0,14.0,16.0,9.0,96.0,22:00,6:00,private transport,black

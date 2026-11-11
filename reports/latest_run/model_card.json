@@ -1,0 +1,79 @@
+{
+  "model_name": "random_forest",
+  "display_name": "Random Forest",
+  "run_id": "final",
+  "task": "Regression: predicted O-level mathematics score (0-100); flag students predicted below a cut-off",
+  "features": {
+    "categorical": [
+      "direct_admission",
+      "CCA",
+      "learning_style",
+      "gender",
+      "tuition",
+      "mode_of_transport"
+    ],
+    "numeric": [
+      "number_of_siblings",
+      "age",
+      "n_male",
+      "n_female",
+      "class_size",
+      "male_ratio",
+      "hours_per_week",
+      "attendance_rate",
+      "sleep_hours",
+      "sleep_after_midnight"
+    ],
+    "excluded": {
+      "index": "row number, no meaning",
+      "student_id": "identifier",
+      "bag_color": "synthetic noise - duplicate records of the same student differ only in bag colour",
+      "sleep_time": "replaced by sleep_hours and sleep_after_midnight",
+      "wake_time": "replaced by sleep_hours"
+    }
+  },
+  "weak_student_definition": "actual score < 50",
+  "flag_cutoff": 52.5,
+  "cutoff_basis": "Maximises F2 (recall weighted 2x) on out-of-fold training predictions",
+  "selection_rule": "Lowest mean CV RMSE; models within 1% are tied and the tie is broken by out-of-fold F2 for flagging weak students",
+  "hyperparameters": {
+    "max_depth": 10,
+    "max_features": 0.6024,
+    "min_samples_leaf": 1,
+    "n_estimators": 258
+  },
+  "cv": {
+    "rmse_mean": 5.429241917352124,
+    "rmse_std": 0.09258543169630373,
+    "r2_mean": 0.8478500907020832
+  },
+  "test": {
+    "rmse": 5.4945868830811175,
+    "mae": 3.899652099204199,
+    "r2": 0.8499740411390723,
+    "within_5_marks": 0.7372939560439561,
+    "rmse_weak_students": 5.962381476000885,
+    "weak_recall": 0.9109195402298851,
+    "weak_precision": 0.6921397379912664,
+    "weak_f2": 0.8567567567567568
+  },
+  "training_data": {
+    "path": "data/student_scores.csv",
+    "sha256": "73abc9ff0633f3cbf3cc5555388723feaa25330bf549619b48990fc7aa4ee823",
+    "train_rows": 11647,
+    "sample_rows": null
+  },
+  "intended_use": "Identify students likely to score below a credit pass so they can be offered support early.",
+  "limitations": [
+    "Predictions are estimates with a typical error of a few marks; use them to prioritise support, not to label students.",
+    "Trained on one school's cohort; re-validate before using elsewhere.",
+    "Some attributes (e.g. gender) are used as predictors; review fairness before deployment."
+  ],
+  "environment": {
+    "python": "3.13.18",
+    "platform": "Linux-6.18.44-fc-v378-x86_64-with-glibc2.39",
+    "scikit_learn": "1.9.1",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3"
+  }
+}

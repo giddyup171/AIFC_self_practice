@@ -1,0 +1,4 @@
+model,inner_cv_rmse,tuning_seconds,best_params
+linear_regression,8.35476988082614,2.256994168999995,"{'alpha': 0.07459, 'splines': '10 knots'}"
+random_forest,5.480696483687829,54.48275076499999,"{'max_depth': 10, 'max_features': 0.6024, 'min_samples_leaf': 1, 'n_estimators': 258}"
+gradient_boosting,5.600566720305515,31.96214674199996,"{'l2_regularization': 0.004809, 'learning_rate': 0.02385, 'max_iter': 587, 'max_leaf_nodes': 32, 'min_samples_leaf': 69}"

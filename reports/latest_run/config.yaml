@@ -1,0 +1,128 @@
+project: olevel-math-score
+seed: 42
+data:
+  path: data/student_scores.csv
+  target: final_test
+  id_column: student_id
+  test_size: 0.2
+  valid_age_range:
+  - 14
+  - 17
+  sample_rows: null
+features:
+  categorical:
+  - direct_admission
+  - CCA
+  - learning_style
+  - gender
+  - tuition
+  - mode_of_transport
+  numeric:
+  - number_of_siblings
+  - age
+  - n_male
+  - n_female
+  - class_size
+  - male_ratio
+  - hours_per_week
+  - attendance_rate
+  - sleep_hours
+  - sleep_after_midnight
+  excluded:
+    index: row number, no meaning
+    student_id: identifier
+    bag_color: synthetic noise - duplicate records of the same student differ only
+      in bag colour
+    sleep_time: replaced by sleep_hours and sleep_after_midnight
+    wake_time: replaced by sleep_hours
+cv:
+  tuning_folds: 3
+  evaluation_folds: 5
+models:
+  linear_regression:
+    enabled: true
+    n_iter: 10
+    params: {}
+    search_space:
+      splines:
+        dist: choice
+        values:
+        - false
+        - true
+      n_knots:
+        dist: randint
+        low: 4
+        high: 12
+      alpha:
+        dist: loguniform
+        low: 0.001
+        high: 100
+  random_forest:
+    enabled: true
+    n_iter: 10
+    params:
+      n_jobs: -1
+    search_space:
+      n_estimators:
+        dist: randint
+        low: 200
+        high: 500
+      max_depth:
+        dist: choice
+        values:
+        - 10
+        - 15
+        - 20
+        - null
+      min_samples_leaf:
+        dist: randint
+        low: 1
+        high: 15
+      max_features:
+        dist: uniform
+        low: 0.3
+        high: 1.0
+  gradient_boosting:
+    enabled: true
+    n_iter: 15
+    params:
+      early_stopping: false
+    search_space:
+      learning_rate:
+        dist: loguniform
+        low: 0.02
+        high: 0.3
+      max_iter:
+        dist: randint
+        low: 200
+        high: 1000
+      max_leaf_nodes:
+        dist: randint
+        low: 8
+        high: 64
+      min_samples_leaf:
+        dist: randint
+        low: 10
+        high: 100
+      l2_regularization:
+        dist: loguniform
+        low: 0.001
+        high: 10
+weak_students:
+  score_threshold: 50
+  f_beta: 2
+  cutoff_grid:
+    start: 40
+    stop: 70
+    step: 0.5
+selection:
+  tie_tolerance: 0.01
+evaluation:
+  bootstrap_samples: 1000
+  importance_sample: 3000
+  importance_repeats: 5
+artifacts:
+  dir: artifacts
+  report_dir: reports/latest_run
+logging:
+  level: INFO
